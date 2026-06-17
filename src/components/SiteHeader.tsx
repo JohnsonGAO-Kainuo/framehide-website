@@ -27,7 +27,6 @@ export function SiteHeader() {
           onClick={() => setOpen(false)}
         >
           {site.name}
-          <span className="ml-1 inline-block size-1.5 -translate-y-2 rounded-full bg-shutter align-top" />
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
