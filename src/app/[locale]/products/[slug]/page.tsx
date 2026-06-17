@@ -103,13 +103,13 @@ export default async function ProductDetailPage({
             </div>
           </div>
           <Reveal delay={0.06}>
-            <div className="relative aspect-square w-full bg-gradient-to-b from-cream to-paper-deep mix-blend-multiply">
+            <div className="relative aspect-[1/1] w-full rounded-[2rem] overflow-hidden shadow-sm">
               <Image
                 src={product.featuresImage}
                 alt={copy.title}
                 fill
                 sizes="(max-width: 1024px) 100vw, 55vw"
-                className="object-contain"
+                className="object-cover transition-transform duration-700 hover:scale-105"
               />
             </div>
           </Reveal>
@@ -117,42 +117,62 @@ export default async function ProductDetailPage({
       </section>
 
       {/* In the field - full gallery, each image shown whole */}
-      <section className="mx-auto max-w-[1400px] px-5 py-20 sm:px-8">
-        <Reveal>
+      <section className="mx-auto max-w-[1400px] px-5 py-24 sm:px-8">
+        <Reveal className="text-center mb-16">
           <p className="text-xs uppercase tracking-[0.2em] text-coffee">{t("galleryLabel")}</p>
         </Reveal>
-        <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {product.gallery.map((shot, i) => (
-            <Reveal key={shot.src} delay={0.05 * i}>
-              <div
-                className="relative overflow-hidden rounded-card bg-gradient-to-b from-paper to-cream"
-                style={{ aspectRatio: shot.ratio.replace("/", " / ") }}
-              >
-                <Image
-                  src={shot.src}
-                  alt={copy.title}
-                  fill
-                  sizes="(max-width: 640px) 100vw, 33vw"
-                  className="object-contain film-soft"
-                />
-              </div>
-            </Reveal>
-          ))}
+        {/* FIX: Improved layout structure so no gaps / empty regions */}
+        <div className="mt-8 grid gap-6 sm:gap-8 lg:grid-cols-[1.5fr_1fr] items-center">
+          <Reveal delay={0.05} className="w-full">
+             <div className="relative overflow-hidden rounded-[2rem] bg-ink shadow-sm aspect-[16/9] w-full">
+               <Image
+                 src={product.gallery[2].src}
+                 alt={copy.title}
+                 fill
+                 sizes="(max-width: 640px) 100vw, 60vw"
+                 className="object-cover film-soft"
+               />
+             </div>
+          </Reveal>
+          <div className="flex flex-col gap-6 sm:gap-8 w-full h-full justify-between">
+             <Reveal delay={0.1}>
+               <div className="relative overflow-hidden rounded-[2rem] bg-ink shadow-sm aspect-[4/3] w-full">
+                 <Image
+                   src={product.gallery[0].src}
+                   alt={copy.title}
+                   fill
+                   sizes="(max-width: 640px) 100vw, 40vw"
+                   className="object-cover film-soft"
+                 />
+               </div>
+             </Reveal>
+              <Reveal delay={0.15}>
+               <div className="relative overflow-hidden rounded-[2rem] bg-ink shadow-sm aspect-[4/3] w-full">
+                 <Image
+                   src={product.gallery[1].src}
+                   alt={copy.title}
+                   fill
+                   sizes="(max-width: 640px) 100vw, 40vw"
+                   className="object-cover film-soft"
+                 />
+               </div>
+             </Reveal>
+          </div>
         </div>
       </section>
 
       {/* The full picture - detail sheet shown whole */}
       <section className="bg-paper">
         <div className="mx-auto max-w-[1400px] px-5 py-20 sm:px-8">
-          <Reveal className="max-w-2xl">
-            <p className="text-xs uppercase tracking-[0.2em] text-coffee">{t("sheetLabel")}</p>
+          <Reveal className="max-w-2xl text-center mx-auto">
             <h2 className="mt-4 font-display text-[clamp(1.6rem,3vw,2.4rem)] text-ink">
               {copy.title}
             </h2>
-            <p className="mt-3 max-w-md text-base text-ink-soft">{t("sheetBody")}</p>
+            <p className="mt-3 mx-auto max-w-md text-base text-ink-soft">{t("sheetBody")}</p>
           </Reveal>
-          <Reveal className="mt-8" delay={0.05}>
-            <div className="overflow-hidden rounded-card border border-line bg-cream">
+          <Reveal className="mt-12" delay={0.05}>
+            {/* FIX: Removed ugly nested borders for details sheet */}
+             <div className="overflow-hidden rounded-[2rem] shadow-sm bg-cream">
               <Image
                 src={product.detailSheet}
                 alt={copy.title}
@@ -173,7 +193,7 @@ export default async function ProductDetailPage({
             {t("specsLabel")}
           </h2>
         </Reveal>
-        <div className="mt-8 grid gap-10 sm:grid-cols-3">
+        <div className="mt-8 grid gap-10 sm:grid-cols-3 border-t border-line pt-12">
           {copy.specGroups.map((group, gi) => (
             <Reveal key={group.label} delay={0.05 * gi}>
               <p className="text-xs uppercase tracking-[0.18em] text-coffee">
@@ -195,7 +215,7 @@ export default async function ProductDetailPage({
       {/* CTA */}
       <section className="mx-auto max-w-[1400px] px-5 pb-8 sm:px-8">
         <Reveal>
-          <div className="overflow-hidden rounded-card bg-ink px-6 py-16 text-center sm:px-12">
+          <div className="overflow-hidden rounded-[2rem] bg-ink px-6 py-16 text-center sm:px-12">
             <h2 className="mx-auto max-w-xl font-display text-[clamp(1.8rem,3.4vw,2.6rem)] leading-tight text-paper">
               {t("ctaTitle")}
             </h2>
