@@ -143,23 +143,22 @@ export default async function HomePage({
             </p>
           </Reveal>
 
-          <div className="relative mx-auto max-w-[1000px]">
+          {/* FIX: Removed double frames/padding, rounded image completely flush */}
+          <div className="relative mx-auto max-w-[900px]">
             <Reveal delay={0.05}>
-              <div className="relative aspect-[4/3] sm:aspect-[16/9] w-full rounded-[2rem] overflow-hidden bg-cream shadow-sm p-4 sm:p-8">
-                <div className="relative w-full h-full rounded-[1.5rem] overflow-hidden shadow-[inset_0_1px_1px_rgba(255,255,255,0.15)] bg-gradient-to-br from-white/40 to-transparent">
-                  <Image
-                    src={product.threeColors}
-                    alt={copy.title}
-                    fill
-                    sizes="100vw"
-                    className="object-contain film-soft p-4 sm:p-12 hover:scale-105 transition-transform duration-[2000ms] ease-out"
-                  />
-                </div>
+              <div className="relative aspect-[4/3] sm:aspect-square md:aspect-[16/10] w-full rounded-[2rem] overflow-hidden shadow-sm">
+                <Image
+                  src={product.threeColors}
+                  alt={copy.title}
+                  fill
+                  sizes="100vw"
+                  className="object-cover transition-transform duration-[2000ms] hover:scale-105 ease-out"
+                />
               </div>
             </Reveal>
           </div>
 
-          <Reveal delay={0.1} className="mt-12 text-center">
+          <Reveal delay={0.1} className="mt-16 text-center">
             <CTA href={`/products/${product.slug}`} className="px-8 py-3 text-lg">
               {common("viewCase")}
             </CTA>
@@ -167,65 +166,86 @@ export default async function HomePage({
         </div>
       </section>
 
-      {/* 5. Cinematic Mood Board - Z-Axis Cascade */}
-      <section className="mx-auto max-w-[1400px] px-5 py-24 sm:px-8 lg:py-40 border-t border-line">
+      {/* 5. Cinematic Mood Board - Balanced Grid instead of Columns */}
+      <section className="bg-cream mx-auto max-w-[1400px] px-5 py-24 sm:px-8 lg:py-40 border-t border-line">
         <Reveal className="text-center mb-16 lg:mb-24">
             <h2 className="font-display text-[clamp(2rem,4vw,3.2rem)] text-ink">
               {t("studio.title")}
             </h2>
         </Reveal>
 
-        <div className="columns-1 sm:columns-2 lg:columns-3 gap-6 space-y-6">
-          <Reveal delay={0.05}>
-            <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm break-inside-avoid">
-               <Image
-                src="/assets/lifestyle_extended/workspace-notebook.jpg"
-                alt="Workspace"
-                width={800} height={1200}
-                className="w-full h-auto object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
-              />
-            </div>
-          </Reveal>
-          <Reveal delay={0.1}>
-            <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm break-inside-avoid mt-8 lg:mt-16">
-               <Image
-                src="/assets/lifestyle_extended/film-roll-desk.jpg"
-                alt="Film rolls"
-                width={800} height={1000}
-                className="w-full h-auto object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
-              />
-            </div>
-          </Reveal>
-          <Reveal delay={0.15}>
-            <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm break-inside-avoid">
-               <Image
-                src="/assets/lifestyle_extended/minimal-desk-flatlay.jpg"
-                alt="Minimal flatlay"
-                width={800} height={1000}
-                className="w-full h-auto object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
-              />
-            </div>
-          </Reveal>
-          <Reveal delay={0.2}>
-            <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm break-inside-avoid mt-8">
-               <Image
-                src="/assets/lifestyle_extended/black-cam-leather.jpg"
-                alt="Leather case"
-                width={800} height={1200}
-                className="w-full h-auto object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
-              />
-            </div>
-          </Reveal>
-          <Reveal delay={0.1}>
-            <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm break-inside-avoid mt-8 lg:-mt-12">
-               <Image
-                src="/assets/lifestyle_extended/coffee-mac-cam.jpg"
-                alt="Coffee and Mac"
-                width={800} height={800}
-                className="w-full h-auto object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
-              />
-            </div>
-          </Reveal>
+        {/* FIX: Adjusted Flex Layout so nothing is empty at the bottom */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+          
+          <div className="flex flex-col gap-6 sm:gap-8 mt-0 lg:mt-8">
+            <Reveal delay={0.05}>
+              <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm aspect-[3/4]">
+                <Image
+                  src="/assets/lifestyle_extended/workspace-notebook.jpg"
+                  alt="Workspace"
+                  fill
+                  className="object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
+                />
+              </div>
+            </Reveal>
+            <Reveal delay={0.1}>
+              <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm aspect-[4/5]">
+                <Image
+                  src="/assets/lifestyle_extended/black-cam-leather.jpg"
+                  alt="Leather case"
+                  fill
+                  className="object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
+                />
+              </div>
+            </Reveal>
+          </div>
+
+          <div className="flex flex-col gap-6 sm:gap-8 mt-0 lg:-mt-12">
+            <Reveal delay={0.15}>
+              <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm aspect-[4/5]">
+                <Image
+                  src="/assets/lifestyle_extended/film-roll-desk.jpg"
+                  alt="Film rolls"
+                  fill
+                  className="object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
+                />
+              </div>
+            </Reveal>
+            <Reveal delay={0.2}>
+              <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm aspect-[1/1]">
+                <Image
+                  src="/assets/lifestyle_extended/coffee-mac-cam.jpg"
+                  alt="Coffee and Mac"
+                  fill
+                  className="object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
+                />
+              </div>
+            </Reveal>
+          </div>
+
+          <div className="flex flex-col gap-6 sm:gap-8 mt-0 lg:mt-12">
+            <Reveal delay={0.25}>
+              <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm aspect-[3/4]">
+                <Image
+                  src="/assets/lifestyle_extended/minimal-desk-flatlay.jpg"
+                  alt="Minimal flatlay"
+                  fill
+                  className="object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
+                />
+              </div>
+            </Reveal>
+             <Reveal delay={0.3}>
+              <div className="relative rounded-[2rem] overflow-hidden bg-ink shadow-sm aspect-[4/5]">
+                 <Image
+                  src="/assets/lifestyle_extended/film-roll-desk-2.jpg"
+                  alt="Leather details"
+                  fill
+                  className="object-cover film-soft opacity-95 transition-transform duration-700 hover:scale-105"
+                />
+              </div>
+            </Reveal>
+          </div>
+
         </div>
       </section>
 
