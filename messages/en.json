@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "products": "Products",
+    "about": "Studio",
+    "contact": "Contact",
+    "cta": "Request a quote"
+  },
+  "common": {
+    "requestQuote": "Request a quote",
+    "viewCase": "View product",
+    "askAbout": "Ask about this",
+    "viewAll": "View all products",
+    "lifestyleNote": "Lifestyle imagery, not the product"
+  },
+  "home": {
+    "meta": {
+      "title": "FrameHide · Curated gear for cameras you carry",
+      "description": "Hand-finished leather half cases for the Fujifilm X100VI. Full access to every dial, port and battery. Built to age well."
+    },
+    "badge": "Est. for the X100VI",
+    "hero": {
+      "kicker": "FrameHide",
+      "title": "A short list of things that last.",
+      "subtitle": "Hand-finished protective gear. Every dial, port and battery stays perfectly within reach.",
+      "primary": "Request a quote",
+      "secondary": "View product",
+      "imageAlt": "Fujifilm X100VI in a coffee leather half case on a warm cream backdrop"
+    },
+    "marquee": ["Curated Gear", "Aged on purpose", "Full camera access", "Carry it everywhere", "Precision crafted"],
+    "intro": {
+      "title": "A short list of things that last.",
+      "body": "FrameHide designs accessories for cameras people actually carry. We start with dedicated gear for the X100VI and grow purposefully: straps, wrist loops, and a few curated small parts. Everything must earn its place before it ships.",
+      "imageAlt": "A film camera and notebook on a wooden desk in warm light"
+    },
+    "featured": {
+      "kicker": "The half case",
+      "title": "Cut for the X100VI, down to the dial.",
+      "body": "Pick a colour and look closer. The fit is the same across all three: snug on the grip, open at the base, nothing in the way of the controls.",
+      "colorsLabel": "Three colourways"
+    },
+    "lineup": {
+      "title": "Three colours, one fit.",
+      "body": "Coffee, Olive, and Black. Same precise cut, same open base, different mood on the strap.",
+      "imageAlt": "Three X100VI cameras in Coffee, Olive and Black leather half cases, side by side"
+    },
+    "features": {
+      "title": "Made for the way you shoot.",
+      "body": "Small decisions that you feel every time you pick the camera up."
+    },
+    "glance": {
+      "title": "Everything, at a glance.",
+      "body": "Quick battery access, a magnetic base, a hollow-out bottom, and a fit cut to the body. The whole case in one frame.",
+      "imageAlt": "Feature overview of the X100VI half case in Olive leather"
+    },
+    "detail": {
+      "title": "The parts you only notice up close.",
+      "body": "Neat stitching, clean cutouts, and an edge that holds its shape. The kind of finish that reads as care, not decoration.",
+      "imageAlt": "Close street photograph with shallow depth of field"
+    },
+    "roadmap": {
+      "kicker": "The plan",
+      "title": "This is just the first frame.",
+      "body": "The half case is where we start. Here is what comes next, in the order we are working on it.",
+      "items": [
+        { "title": "Leather straps", "body": "Neck and shoulder straps in the same hides as the cases." },
+        { "title": "Wrist straps", "body": "A quick loop for when you travel light." },
+        { "title": "Camera cages", "body": "Vetted white-label cages for rigs and video." },
+        { "title": "Lens caps and small parts", "body": "The little things that go missing first." }
+      ]
+    },
+    "studio": {
+      "kicker": "The studio",
+      "title": "Made by someone who carries one too.",
+      "body": "Every product is chosen, checked, and packed with precision. We believe in direct accountability, ensuring you always receive gear we would proudly use ourselves.",
+      "cta": "Read the studio note",
+      "imageAlt": "Film negatives and prints on a dark surface"
+    },
+    "cta": {
+      "title": "Found the one you want?",
+      "body": "Tell us the camera and the colour. We reply with a quote, and you pay by Stripe link or bank transfer once you are ready.",
+      "primary": "Request a quote",
+      "note": "No accounts, no checkout. Just a conversation."
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "Products · FrameHide",
+      "description": "Leather half cases and camera accessories from FrameHide."
+    },
+    "title": "Products and small leather.",
+    "subtitle": "The list is short on purpose. Each piece is here because it is worth carrying.",
+    "available": "Available now",
+    "roadmapTitle": "Next off the bench",
+    "roadmapBody": "In the order we are working on them. Ask if you want to be told when one lands.",
+    "comingSoon": "In the works",
+    "comingSoonBody": "Straps, wrist loops, and a few small parts are next. Ask what is coming."
+  },
+  "product": {
+    "colorsLabel": "Colourway",
+    "featuresLabel": "Why it works",
+    "galleryLabel": "In the field",
+    "sheetLabel": "The full picture",
+    "sheetBody": "Specs, colours and details in one sheet.",
+    "specsLabel": "Specifications",
+    "ctaTitle": "Want this one?",
+    "ctaBody": "Send the camera and colour you are after. We reply with a quote and a Stripe payment link or bank details.",
+    "backToCases": "All products"
+  },
+  "about": {
+    "meta": {
+      "title": "Studio · FrameHide",
+      "description": "FrameHide designs premium accessories for cameras you actually carry."
+    },
+    "kicker": "The studio",
+    "title": "A dedicated team, working with purpose.",
+    "lead": "FrameHide started with a simple itch: a half case that protects the camera without hiding what makes it nice to use.",
+    "body1": "We design camera gear and accessories, focusing on one perfect product at a time. The X100VI accessories came first because it is the setup we reach for most. Everything is selected and checked rigorously before dispatch.",
+    "body2": "Certain components are sourced from our most trusted manufacturing partners to ensure the highest quality. We maintain total transparency in our process and will never ship something we would not proudly use on our own cameras.",
+    "body3": "If you have a question, you reach me directly. No ticket number, no script.",
+    "values": [
+      { "title": "Carry-first", "body": "If a detail makes the camera harder to use, it does not ship." },
+      { "title": "Honest materials", "body": "PU leather is called PU leather. No dressing it up." },
+      { "title": "Slow range", "body": "A few things done well beats a catalogue done loosely." }
+    ],
+    "imageAlt": "Hands holding a camera, looking at the screen outdoors"
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact · FrameHide",
+      "description": "Ask about a case, a colour, or a wholesale order. Email or WhatsApp."
+    },
+    "kicker": "Contact",
+    "title": "Tell us what you are after.",
+    "lead": "Email or WhatsApp works. Send the camera and the colour, and we reply with a quote. Payment is by Stripe link or bank transfer once you are happy.",
+    "emailTitle": "Email",
+    "emailBody": "Best for detail and wholesale enquiries.",
+    "whatsappTitle": "WhatsApp",
+    "whatsappBody": "Best for quick questions and photos.",
+    "wholesaleTitle": "Wholesale and stockists",
+    "wholesaleBody": "Carrying FrameHide in a shop or studio? Send your details and the quantities you have in mind.",
+    "responseNote": "Our dedicated team reads every message. We aim to reply within 24 hours."
+  },
+  "footer": {
+    "tagline": "Leather for cameras you carry.",
+    "nav": "Browse",
+    "contact": "Contact",
+    "rights": "Kainuo Innovision Tech Co., Limited. All rights reserved.",
+    "note": "No checkout here. Orders are quoted and paid by Stripe link or bank transfer."
+  },
+  "language": {
+    "label": "Language",
+    "en": "EN",
+    "zh": "中文"
+  }
+}

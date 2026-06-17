@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "products": "产品",
+    "about": "工作室",
+    "contact": "联系",
+    "cta": "获取报价"
+  },
+  "common": {
+    "requestQuote": "获取报价",
+    "viewCase": "查看产品",
+    "askAbout": "问问这款",
+    "viewAll": "查看全部产品",
+    "lifestyleNote": "氛围图，非产品图"
+  },
+  "home": {
+    "meta": {
+      "title": "FrameHide · 给随身相机的真皮半套",
+      "description": "为富士 X100VI 手工打磨的真皮半套。拨盘、接口、电池全可用，越用越有味道。"
+    },
+    "badge": "为 X100VI 而做",
+    "hero": {
+      "kicker": "FrameHide",
+      "title": "皮要养出来，不是摆出来。",
+      "subtitle": "为富士 X100VI 手工打磨的半套。拨盘、接口、电池，全都触手可及。",
+      "primary": "获取报价",
+      "secondary": "查看产品",
+      "imageAlt": "暖米色背景上，套着咖啡棕皮套的富士 X100VI"
+    },
+    "marquee": ["真皮半套", "故意做旧", "全机身可用", "随身带着走", "一个人做"],
+    "intro": {
+      "title": "一份不长、却能长久陪伴的好物清单。",
+      "body": "FrameHide 致力于为真正随身携带的相机设计高端配件。我们从 X100VI 专属皮具起步，并逐步拓展至背带、腕带等生活器具。每一样单品都必须在质感与实用性上站得住脚，才会最终呈现给您。",
+      "imageAlt": "暖光下木桌上的胶片相机与笔记本"
+    },
+    "featured": {
+      "kicker": "这只半套",
+      "title": "为 X100VI 开模，连拨盘都对齐。",
+      "body": "选个颜色再看细节。三色贴合一致：握把贴合、底部开放、控制键一个都不挡。",
+      "colorsLabel": "三种配色"
+    },
+    "lineup": {
+      "title": "三个颜色，同一种贴合。",
+      "body": "咖啡棕、橄榄绿、曜石黑。一样精准的开模、一样开放的底部，挂在身上是三种气质。",
+      "imageAlt": "咖啡棕、橄榄绿、曜石黑三只 X100VI 皮套并排"
+    },
+    "features": {
+      "title": "顺着你的拍摄习惯做。",
+      "body": "都是些小决定，但每次拿起相机都感受得到。"
+    },
+    "glance": {
+      "title": "一眼，看全。",
+      "body": "电池快拆、磁吸底座、镂空底部，还有照着机身开的模。整只套子，一张图说清。",
+      "imageAlt": "橄榄绿 X100VI 半套的功能一览"
+    },
+    "detail": {
+      "title": "凑近才看得到的地方。",
+      "body": "工整的走线、干净的开孔、立得住的边缘。是用心，不是装饰。",
+      "imageAlt": "浅景深的街头照片"
+    },
+    "roadmap": {
+      "kicker": "接下来",
+      "title": "这只是第一格。",
+      "body": "半套是起点。下面是接下来要做的，按我们动手的顺序排。",
+      "items": [
+        { "title": "真皮背带", "body": "和皮套同款皮料的颈带、肩带。" },
+        { "title": "腕带", "body": "轻装出门时的一个快挂手腕带。" },
+        { "title": "相机兔笼", "body": "为装备与视频选的可靠白牌兔笼。" },
+        { "title": "镜头盖与小件", "body": "最先丢、最该备的那些小东西。" }
+      ]
+    },
+    "studio": {
+      "kicker": "工作室",
+      "title": "做的人，自己也天天带着。",
+      "body": "每一只都由一个人挑选、检查、打包。哪里不对，你联系到的就是做的人，不是排队的客服。",
+      "cta": "读读工作室手记",
+      "imageAlt": "深色台面上的胶片底片与样片"
+    },
+    "cta": {
+      "title": "看中哪一只了？",
+      "body": "告诉我们机型和颜色。我们回你报价，谈妥后用 Stripe 链接或银行转账付款。",
+      "primary": "获取报价",
+      "note": "不用注册、没有购物车，就是聊一聊。"
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "产品 · FrameHide",
+      "description": "FrameHide 的真皮半套与相机小皮件。"
+    },
+    "title": "产品与日常器具。",
+    "subtitle": "清单短是故意的。能放上来的，都值得带在身上。",
+    "available": "现已开放",
+    "roadmapTitle": "下一批在做",
+    "roadmapBody": "按我们动手的顺序排。想让我们上新时通知你，说一声就行。",
+    "comingSoon": "正在做",
+    "comingSoonBody": "背带、腕带，还有几样小件正在做。问问接下来有什么。"
+  },
+  "product": {
+    "colorsLabel": "配色",
+    "featuresLabel": "为什么好用",
+    "galleryLabel": "用起来",
+    "sheetLabel": "完整一张",
+    "sheetBody": "规格、颜色、细节，一张图看全。",
+    "specsLabel": "规格",
+    "ctaTitle": "想要这一只？",
+    "ctaBody": "把机型和想要的颜色发给我们。我们回你报价，附上 Stripe 付款链接或银行信息。",
+    "backToCases": "全部产品"
+  },
+  "about": {
+    "meta": {
+      "title": "工作室 · FrameHide",
+      "description": "FrameHide 是一个人的工作室，给随身相机做皮件。"
+    },
+    "kicker": "工作室",
+    "title": "一个人的工作室，故意做得慢。",
+    "lead": "FrameHide 起于一个简单的念头：做一只能护住相机、又不挡住它好用之处的半套。",
+    "body1": "我做相机皮件和几样小件，一次只专心做一款。X100VI 半套先做，因为那是我最常拿的机器。每一件都经手挑选、检查，才会寄出。",
+    "body2": "有些东西，比如兔笼，来自可靠的白牌厂家，不是我亲手做的。遇到这种情况，我会照实说。但我不会寄出一件自己都不愿意装在相机上的东西。",
+    "body3": "有问题，你直接找到我。没有工单号，没有话术。",
+    "values": [
+      { "title": "随身优先", "body": "只要一个细节让相机更难用，就不上架。" },
+      { "title": "材料诚实", "body": "PU 皮就叫 PU 皮，不往上贴金。" },
+      { "title": "慢慢扩品", "body": "几样做到位，胜过一整本目录都做得松散。" }
+    ],
+    "imageAlt": "户外手持相机、看着屏幕的双手"
+  },
+  "contact": {
+    "meta": {
+      "title": "联系 · FrameHide",
+      "description": "想了解某只皮套、某个颜色，或批发下单？邮箱或 WhatsApp 都行。"
+    },
+    "kicker": "联系",
+    "title": "说说你想要什么。",
+    "lead": "邮箱或 WhatsApp 都行。把机型和颜色发来，我们回你报价。谈妥后用 Stripe 链接或银行转账付款。",
+    "emailTitle": "邮箱",
+    "emailBody": "适合细节问题与批发咨询。",
+    "whatsappTitle": "WhatsApp",
+    "whatsappBody": "适合快速提问、发照片。",
+    "wholesaleTitle": "批发与代理",
+    "wholesaleBody": "想在店里或工作室上架 FrameHide？把你的信息和大致数量发来。",
+    "responseNote": "每条消息都是一个人在看，通常一两天内回复。"
+  },
+  "footer": {
+    "tagline": "给随身相机的皮件。",
+    "nav": "浏览",
+    "contact": "联系",
+    "rights": "Kainuo Innovision Tech Co., Limited. 版权所有。",
+    "note": "本站不结账。订单以报价方式成交，用 Stripe 链接或银行转账付款。"
+  },
+  "language": {
+    "label": "语言",
+    "en": "EN",
+    "zh": "中文"
+  }
+}

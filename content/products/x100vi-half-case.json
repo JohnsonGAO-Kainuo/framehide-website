@@ -1,0 +1,98 @@
+{
+  "slug": "x100vi-half-case",
+  "category": "half-case",
+  "order": 1,
+  "hero": "/assets/products/x100vi/sku-coffee.jpg",
+  "editorial": "/assets/products/x100vi/hero.jpg",
+  "threeColors": "/assets/products/x100vi/three-colors.jpg",
+  "featuresImage": "/assets/products/x100vi/features-ref.jpg",
+  "detailSheet": "/assets/products/x100vi/detail-sheet.jpg",
+  "colors": [
+    { "id": "coffee", "hex": "#6f4a2f", "image": "/assets/products/x100vi/sku-coffee.jpg" },
+    { "id": "green", "hex": "#5f6648", "image": "/assets/products/x100vi/sku-green.jpg" },
+    { "id": "black", "hex": "#262320", "image": "/assets/products/x100vi/sku-black.jpg" }
+  ],
+  "gallery": [
+    { "src": "/assets/products/x100vi/lifestyle-tripod.jpg", "ratio": "3/4" },
+    { "src": "/assets/products/x100vi/lifestyle-trio.jpg", "ratio": "5/4" },
+    { "src": "/assets/products/x100vi/hero.jpg", "ratio": "16/9" }
+  ],
+  "i18n": {
+    "en": {
+      "title": "Leather Half Case for Fujifilm X100VI",
+      "tagline": "Protection that stays out of the way.",
+      "summary": "A snug half case that guards the base and corners of the X100VI while leaving every dial, port and battery within reach. Wear-resistant PU leather, neat stitching, and a magnetic base that opens for the battery without tools.",
+      "colorNames": { "coffee": "Coffee", "green": "Olive", "black": "Black" },
+      "features": [
+        { "title": "Quick battery access", "body": "The base opens on a magnet, so you swap batteries and cards without taking the case off." },
+        { "title": "Magnetic base", "body": "Held shut by a hidden magnet. No flap, no snap, no fuss." },
+        { "title": "Precision fit", "body": "Cut around the grip and lens so nothing shifts and nothing rubs." },
+        { "title": "Premium PU leather", "body": "Wear-resistant, easy to wipe clean, and it softens with use." },
+        { "title": "Hollow-out base", "body": "An open base keeps the tripod thread and ports clear." },
+        { "title": "1/4\" tripod thread", "body": "Mount straight onto a tripod or plate with the case on." }
+      ],
+      "specGroups": [
+        {
+          "label": "Build",
+          "items": [
+            ["Material", "PU leather"],
+            ["Finish", "Wear-resistant, shock absorbing"]
+          ]
+        },
+        {
+          "label": "Fit",
+          "items": [
+            ["Camera", "Fujifilm X100VI"],
+            ["Style", "Half case with base cover"],
+            ["Access", "Every dial, port and battery"]
+          ]
+        },
+        {
+          "label": "Mounting",
+          "items": [
+            ["Base", "1/4\" tripod thread"],
+            ["Colours", "Coffee, Olive, Black"]
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "title": "富士 X100VI 真皮半套",
+      "tagline": "保护到位，又不挡手。",
+      "summary": "贴合的半套，护住 X100VI 的底部与边角，同时让每一个拨盘、接口和电池都触手可及。耐磨 PU 皮、工整走线，磁吸底座免工具即可开合换电池。",
+      "colorNames": { "coffee": "咖啡棕", "green": "橄榄绿", "black": "曜石黑" },
+      "features": [
+        { "title": "电池快拆", "body": "底座磁吸开合，不用脱套就能换电池、换卡。" },
+        { "title": "磁吸底座", "body": "隐藏磁吸扣合，没有翻盖、没有按扣、不啰嗦。" },
+        { "title": "精准贴合", "body": "依握把与镜头开模，不移位、不磨蹭。" },
+        { "title": "优质 PU 皮", "body": "耐磨、好擦理，越用越顺手。" },
+        { "title": "镂空底部", "body": "底部开口，留出三脚架接口与接口位。" },
+        { "title": "1/4 英寸脚架孔", "body": "带套即可直接上三脚架或快装板。" }
+      ],
+      "specGroups": [
+        {
+          "label": "材质",
+          "items": [
+            ["皮料", "PU 皮"],
+            ["工艺", "耐磨、抗冲击"]
+          ]
+        },
+        {
+          "label": "贴合",
+          "items": [
+            ["机型", "富士 X100VI"],
+            ["款式", "半套 + 底座保护"],
+            ["开孔", "拨盘 / 接口 / 电池全可用"]
+          ]
+        },
+        {
+          "label": "安装",
+          "items": [
+            ["底座", "1/4 英寸脚架孔"],
+            ["颜色", "咖啡棕 / 橄榄绿 / 曜石黑"]
+          ]
+        }
+      ]
+    }
+  }
+}
