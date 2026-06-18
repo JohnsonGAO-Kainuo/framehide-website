@@ -26,7 +26,13 @@
       "secondary": "View product",
       "imageAlt": "Fujifilm X100VI in a coffee leather half case on a warm cream backdrop"
     },
-    "marquee": ["Curated Gear", "Aged on purpose", "Full camera access", "Carry it everywhere", "Precision crafted"],
+    "marquee": [
+      "Curated Gear",
+      "Aged on purpose",
+      "Full camera access",
+      "Carry it everywhere",
+      "Precision crafted"
+    ],
     "intro": {
       "title": "A short list of things that last.",
       "body": "FrameHide designs accessories for cameras people actually carry. We start with dedicated gear for the X100VI and grow purposefully: straps, wrist loops, and a few curated small parts. Everything must earn its place before it ships.",
@@ -62,10 +68,22 @@
       "title": "This is just the first frame.",
       "body": "The half case is where we start. Here is what comes next, in the order we are working on it.",
       "items": [
-        { "title": "Leather straps", "body": "Neck and shoulder straps in the same hides as the cases." },
-        { "title": "Wrist straps", "body": "A quick loop for when you travel light." },
-        { "title": "Camera cages", "body": "Vetted white-label cages for rigs and video." },
-        { "title": "Lens caps and small parts", "body": "The little things that go missing first." }
+        {
+          "title": "Leather straps",
+          "body": "Neck and shoulder straps in the same hides as the cases."
+        },
+        {
+          "title": "Wrist straps",
+          "body": "A quick loop for when you travel light."
+        },
+        {
+          "title": "Camera cages",
+          "body": "Vetted white-label cages for rigs and video."
+        },
+        {
+          "title": "Lens caps and small parts",
+          "body": "The little things that go missing first."
+        }
       ]
     },
     "studio": {
@@ -118,9 +136,18 @@
     "body2": "Certain components are sourced from our most trusted manufacturing partners to ensure the highest quality. We maintain total transparency in our process and will never ship something we would not proudly use on our own cameras.",
     "body3": "If you have a question, you reach me directly. No ticket number, no script.",
     "values": [
-      { "title": "Carry-first", "body": "If a detail makes the camera harder to use, it does not ship." },
-      { "title": "Honest materials", "body": "PU leather is called PU leather. No dressing it up." },
-      { "title": "Slow range", "body": "A few things done well beats a catalogue done loosely." }
+      {
+        "title": "Carry-first",
+        "body": "If a detail makes the camera harder to use, it does not ship."
+      },
+      {
+        "title": "Honest materials",
+        "body": "PU leather is called PU leather. No dressing it up."
+      },
+      {
+        "title": "Slow range",
+        "body": "A few things done well beats a catalogue done loosely."
+      }
     ],
     "imageAlt": "Hands holding a camera, looking at the screen outdoors"
   },
@@ -138,7 +165,10 @@
     "whatsappBody": "Best for quick questions and photos.",
     "wholesaleTitle": "Wholesale and stockists",
     "wholesaleBody": "Carrying FrameHide in a shop or studio? Send your details and the quantities you have in mind.",
-    "responseNote": "Our dedicated team reads every message. We aim to reply within 24 hours."
+    "responseNote": "Our dedicated team reads every message. We aim to reply within 24 hours.",
+    "emailSubject": "Enquiry from FrameHide",
+    "emailTemplate": "Hi FrameHide, I'm interested in:\nCamera:\nColour:\nCountry:\n",
+    "whatsappTemplate": "Hi FrameHide, I'm interested in a leather case. Camera / colour:"
   },
   "footer": {
     "tagline": "Leather for cameras you carry.",
