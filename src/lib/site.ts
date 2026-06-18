@@ -3,11 +3,10 @@ export const site = {
   name: "FrameHide",
   // TODO: replace with the real inbox before launch.
   email: "hello@framehide.com",
-  // TODO: replace with the real WhatsApp number (country code + digits, no "+", no spaces).
-  // Example for an Australian number: "61412345678".
-  whatsappDigits: "",
-  // Shown to the reader. TODO: replace with the real, formatted number.
-  whatsappDisplay: "WhatsApp (number coming soon)",
+  // WhatsApp number (country code + digits, no "+", no spaces).
+  whatsappDigits: "85293412653",
+  // Shown to the reader.
+  whatsappDisplay: "+852 9341 2653",
   // Optional socials. Leave empty to hide.
   instagram: "",
 } as const;
