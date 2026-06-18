@@ -26,12 +26,10 @@ export default async function ContactPage({
   const t = await getTranslations("contact");
 
   const emailHref = mailtoLink(
-    "Enquiry from FrameHide",
-    "Hi FrameHide, I'm interested in:\nCamera:\nColour:\nCountry:\n"
+    t("emailSubject"),
+    t("emailTemplate")
   );
-  const waHref = whatsappLink(
-    "Hi FrameHide, I'm interested in a leather case. Camera / colour:"
-  );
+  const waHref = whatsappLink(t("whatsappTemplate"));
 
   return (
     <>
@@ -43,17 +41,17 @@ export default async function ContactPage({
           </h1>
           <p className="mt-6 max-w-md text-lg leading-relaxed text-ink-soft">{t("lead")}</p>
         </Reveal>
+        
+        {/* FIX: Removed double frame padding, straight to edge image */}
         <Reveal delay={0.08}>
-          <div className="bezel">
-            <div className="bezel-inner relative aspect-[5/4] overflow-hidden">
-              <Image
-                src="/assets/lifestyle/crafting.jpg"
-                alt=""
-                fill
-                sizes="(max-width: 1024px) 100vw, 45vw"
-                className="object-cover film"
-              />
-            </div>
+          <div className="relative aspect-[4/3] sm:aspect-[5/4] w-full rounded-[2rem] overflow-hidden shadow-sm">
+            <Image
+              src="/assets/lifestyle_extended/hands-holding-cam.jpg"
+              alt="Contact us"
+              fill
+              sizes="(max-width: 1024px) 100vw, 45vw"
+              className="object-cover film opacity-95 hover:scale-105 transition-transform duration-700 ease-out"
+            />
           </div>
         </Reveal>
       </section>
