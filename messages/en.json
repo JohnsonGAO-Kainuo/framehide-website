@@ -88,7 +88,7 @@
     },
     "studio": {
       "kicker": "The studio",
-      "title": "Made by someone who carries one too.",
+      "title": "Made by people who carry it too.",
       "body": "Every product is chosen, checked, and packed with precision. We believe in direct accountability, ensuring you always receive gear we would proudly use ourselves.",
       "cta": "Read the studio note",
       "imageAlt": "Film negatives and prints on a dark surface"
@@ -127,14 +127,14 @@
   "about": {
     "meta": {
       "title": "Studio · FrameHide",
-      "description": "FrameHide designs premium accessories for cameras you actually carry."
+      "description": "FrameHide is an independent studio designing premium accessories for cameras you actually carry."
     },
     "kicker": "The studio",
-    "title": "A dedicated team, working with purpose.",
+    "title": "An independent studio, built on focus.",
     "lead": "FrameHide started with a simple itch: a half case that protects the camera without hiding what makes it nice to use.",
-    "body1": "We design camera gear and accessories, focusing on one perfect product at a time. The X100VI accessories came first because it is the setup we reach for most. Everything is selected and checked rigorously before dispatch.",
+    "body1": "We design camera gear and accessories, focusing on a few perfect products at a time. The X100VI line came first because it is the setup we reach for most. Everything is selected and checked rigorously before dispatch.",
     "body2": "Certain components are sourced from our most trusted manufacturing partners to ensure the highest quality. We maintain total transparency in our process and will never ship something we would not proudly use on our own cameras.",
-    "body3": "If you have a question, you reach me directly. No ticket number, no script.",
+    "body3": "If you have a question, you reach our core team directly. No ticket numbers, no scripts.",
     "values": [
       {
         "title": "Carry-first",
