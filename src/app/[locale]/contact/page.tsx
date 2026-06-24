@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { EnvelopeSimple, WhatsappLogo, ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
 import { Reveal } from "@/components/Reveal";
+import { Link } from "@/i18n/navigation";
 import { site, mailtoLink, whatsappLink } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
 
@@ -101,6 +102,13 @@ export default async function ContactPage({
             <p className="mt-3 max-w-xl text-sm leading-relaxed text-paper/85">
               {t("wholesaleBody")}
             </p>
+            <Link
+              href="/wholesale"
+              className="mt-6 inline-flex items-center gap-2 rounded-full bg-paper px-5 py-3 text-sm font-medium text-ink transition-transform duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:-translate-y-0.5 active:scale-[0.98]"
+            >
+              {t("wholesaleCta")}
+              <ArrowUpRight size={15} weight="bold" />
+            </Link>
           </div>
         </Reveal>
 
