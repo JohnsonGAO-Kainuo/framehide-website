@@ -1,6 +1,7 @@
 {
   "nav": {
     "products": "Products",
+    "wholesale": "Wholesale",
     "about": "Studio",
     "contact": "Contact",
     "cta": "Request a quote"
@@ -48,6 +49,13 @@
       "title": "Three colours, one fit.",
       "body": "Coffee, Olive, and Black. Same precise cut, same open base, different mood on the strap.",
       "imageAlt": "Three X100VI cameras in Coffee, Olive and Black leather half cases, side by side"
+    },
+    "wholesale": {
+      "kicker": "For stockists",
+      "title": "Samples for shops before shelves.",
+      "body": "Camera shops, film labs, and studios can request real photos, sample terms, and a small wholesale test path.",
+      "cta": "Wholesale samples",
+      "imageAlt": "Three Fujifilm X100VI half cases arranged as a small shop-ready range"
     },
     "features": {
       "title": "Made for the way you shoot.",
@@ -165,10 +173,83 @@
     "whatsappBody": "Best for quick questions and photos.",
     "wholesaleTitle": "Wholesale and stockists",
     "wholesaleBody": "Carrying FrameHide in a shop or studio? Send your details and the quantities you have in mind.",
+    "wholesaleCta": "View sample terms",
     "responseNote": "Our dedicated team reads every message. We aim to reply within 24 hours.",
     "emailSubject": "Enquiry from FrameHide",
     "emailTemplate": "Hi FrameHide, I'm interested in:\nCamera:\nColour:\nCountry:\n",
     "whatsappTemplate": "Hi FrameHide, I'm interested in a leather case. Camera / colour:"
+  },
+  "wholesale": {
+    "meta": {
+      "title": "Wholesale samples · FrameHide",
+      "description": "Wholesale sample terms for camera shops, film labs, studios, and stockists interested in FrameHide camera accessories."
+    },
+    "kicker": "Wholesale samples",
+    "title": "A small range for camera shops to test.",
+    "lead": "We work with shops, studios, and stockists who want a low-risk way to test X100VI accessories before taking inventory.",
+    "primaryCta": "Request wholesale sheet",
+    "whatsappCta": "Ask on WhatsApp",
+    "heroImageAlt": "Coffee, Olive and Black X100VI half cases shown together",
+    "sampleLabel": "Current sample",
+    "sampleNote": "Fujifilm X100VI PU leather half case in Coffee, Olive, and Black. Real photos and close-ups are available on request.",
+    "fit": {
+      "title": "Built for the shops already meeting X100VI owners.",
+      "body": "The first product is narrow by design. It gives you a simple accessory add-on for customers already asking about compact Fujifilm carry gear.",
+      "items": [
+        {
+          "title": "Camera shops",
+          "body": "A small counter-ready accessory for X100VI buyers and pre-order customers."
+        },
+        {
+          "title": "Film labs",
+          "body": "A useful add-on for photographers who already like tactile, retro camera gear."
+        },
+        {
+          "title": "Studios",
+          "body": "A simple sample to test with clients, workshops, and camera clubs."
+        }
+      ]
+    },
+    "sample": {
+      "title": "A lower-risk way to test the shelf.",
+      "body": "You do not need to commit to a large order first. Start with a sample conversation, review the actual finish, then decide if a small batch makes sense.",
+      "items": [
+        {
+          "title": "Check one sample",
+          "body": "Sample terms are discussed case by case. Shipping can be paid upfront or credited against the first order."
+        },
+        {
+          "title": "Review real photos",
+          "body": "We can send close-ups, packaging photos, and simple phone shots when you need a less polished view."
+        },
+        {
+          "title": "Reorder in small batches",
+          "body": "Once the fit is confirmed, we quote small wholesale runs with lead time and shipping options."
+        }
+      ]
+    },
+    "line": {
+      "title": "Tight range, same customer.",
+      "body": "We are not building a random gadget catalogue. The range stays around retro compact camera carry gear: half cases first, then straps, wrist loops, lens caps, and small parts."
+    },
+    "support": {
+      "title": "What we can send",
+      "items": [
+        "Wholesale price sheet for small test orders.",
+        "Real sample photos, close-ups, and colour references.",
+        "Estimated lead time after quantity and colour are confirmed.",
+        "Shipping options for samples and small wholesale batches."
+      ]
+    },
+    "cta": {
+      "title": "Want to test it in your shop?",
+      "body": "Send your store name, country, and the quantity you want to test. We will reply with sample terms and a wholesale sheet.",
+      "email": "Email us",
+      "whatsapp": "WhatsApp"
+    },
+    "emailSubject": "Wholesale enquiry from FrameHide",
+    "emailTemplate": "Hi FrameHide,\n\nWe are interested in wholesale samples.\nStore name:\nCountry:\nProduct / colour:\nEstimated quantity:\n\nPlease send sample terms and a wholesale sheet.\n",
+    "whatsappTemplate": "Hi FrameHide, we are interested in wholesale samples. Store / country / quantity:"
   },
   "footer": {
     "tagline": "Leather for cameras you carry.",
