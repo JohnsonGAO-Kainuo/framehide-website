@@ -166,7 +166,38 @@ export default async function HomePage({
         </div>
       </section>
 
-      {/* 5. Cinematic Mood Board - Balanced Grid instead of Columns */}
+      {/* 5. Wholesale entry */}
+      <section className="mx-auto max-w-[1400px] px-5 py-20 sm:px-8 lg:py-28">
+        <Reveal>
+          <div className="grid overflow-hidden rounded-[2rem] bg-ink text-paper lg:grid-cols-[1.1fr_0.9fr]">
+            <div className="p-8 sm:p-12 lg:p-16">
+              <p className="text-sm font-medium text-paper/70">{t("wholesale.kicker")}</p>
+              <h2 className="mt-5 max-w-2xl font-display text-[clamp(2rem,4vw,3.4rem)] leading-tight">
+                {t("wholesale.title")}
+              </h2>
+              <p className="mt-5 max-w-xl text-base leading-relaxed text-paper/78">
+                {t("wholesale.body")}
+              </p>
+              <div className="mt-8">
+                <CTA href="/wholesale" variant="dark">
+                  {t("wholesale.cta")}
+                </CTA>
+              </div>
+            </div>
+            <div className="relative min-h-[320px] bg-black-leather">
+              <Image
+                src="/assets/products/x100vi/lifestyle-trio.jpg"
+                alt={t("wholesale.imageAlt")}
+                fill
+                sizes="(max-width: 1024px) 100vw, 44vw"
+                className="object-cover film opacity-85"
+              />
+            </div>
+          </div>
+        </Reveal>
+      </section>
+
+      {/* 6. Cinematic Mood Board - Balanced Grid instead of Columns */}
       <section className="bg-cream mx-auto max-w-[1400px] px-5 py-24 sm:px-8 lg:py-40 border-t border-line">
         <Reveal className="text-center mb-16 lg:mb-24">
             <h2 className="font-display text-[clamp(2rem,4vw,3.2rem)] text-ink">
