@@ -52,8 +52,8 @@
     },
     "wholesale": {
       "kicker": "For stockists",
-      "title": "Samples for shops before shelves.",
-      "body": "Camera shops, film labs, and studios can request real photos, sample terms, and a small wholesale test path.",
+      "title": "Samples before shelves.",
+      "body": "Camera shops, film labs, and studios can request real photos, sample terms, and a small wholesale test path for compact camera accessories.",
       "cta": "Wholesale samples",
       "imageAlt": "Three Fujifilm X100VI half cases arranged as a small shop-ready range"
     },
@@ -185,20 +185,20 @@
       "description": "Wholesale sample terms for camera shops, film labs, studios, and stockists interested in FrameHide camera accessories."
     },
     "kicker": "Wholesale samples",
-    "title": "A small range for camera shops to test.",
-    "lead": "We work with shops, studios, and stockists who want a low-risk way to test X100VI accessories before taking inventory.",
+    "title": "A sample path for compact camera accessories.",
+    "lead": "We work with shops, studios, and stockists who want a low-risk way to test compact camera accessories before taking inventory.",
     "primaryCta": "Request wholesale sheet",
     "whatsappCta": "Ask on WhatsApp",
     "heroImageAlt": "Coffee, Olive and Black X100VI half cases shown together",
     "sampleLabel": "Current sample",
     "sampleNote": "Fujifilm X100VI PU leather half case in Coffee, Olive, and Black. Real photos and close-ups are available on request.",
     "fit": {
-      "title": "Built for the shops already meeting X100VI owners.",
-      "body": "The first product is narrow by design. It gives you a simple accessory add-on for customers already asking about compact Fujifilm carry gear.",
+      "title": "Built for shops already meeting compact camera owners.",
+      "body": "The first sample is an X100VI half case, but the range is not locked to one camera. It can grow around the same buyer: retro compact cameras, everyday carry, and small protective accessories.",
       "items": [
         {
           "title": "Camera shops",
-          "body": "A small counter-ready accessory for X100VI buyers and pre-order customers."
+          "body": "A counter-ready add-on for Fujifilm, Ricoh, and other compact camera customers."
         },
         {
           "title": "Film labs",
