@@ -23,6 +23,9 @@ export function SiteFooter() {
             <Link href="/products" className="text-ink/80 hover:text-ink">
               {nav("products")}
             </Link>
+            <Link href="/wholesale" className="text-ink/80 hover:text-ink">
+              {nav("wholesale")}
+            </Link>
             <Link href="/about" className="text-ink/80 hover:text-ink">
               {nav("about")}
             </Link>
