@@ -14,6 +14,7 @@ export function SiteHeader() {
 
   const links = [
     { href: "/products" as const, label: t("products") },
+    { href: "/wholesale" as const, label: t("wholesale") },
     { href: "/about" as const, label: t("about") },
     { href: "/contact" as const, label: t("contact") },
   ];
