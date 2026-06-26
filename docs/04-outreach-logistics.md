@@ -35,31 +35,31 @@
 
 ---
 
-## 3. 第一封开发信
+## 3. 第一封开发信（现金紧张期优先版）
+
+这版比普通开发信更适合当前阶段：目标不是一次说服客户下单，而是在 7-14 天内判断对方是否愿意回复、看真实照片、收样品。
 
 ### Subject 选项
 
 任选一个先测试：
 
-1. `Sample accessory for Fujifilm X100VI customers`
-2. `Compact camera accessories for your store`
-3. `FrameHide sample for camera shops`
-4. `Small wholesale test for X100VI half cases`
+1. `Sample for compact camera customers at [Store Name]`
+2. `X100VI half case sample for your shop`
+3. `Compact camera accessories for [Store Name]`
+4. `Free sample for review: X100VI half case`
 
 ### Email 正文
 
 ```text
 Hi [Name],
 
-I’m [Your Name] from FrameHide. We are starting a small line of accessories for retro compact cameras, beginning with a PU leather half case for the Fujifilm X100VI.
+I’m [Your Name] from FrameHide. I found [Store Name] while looking for camera shops that serve Fujifilm, Ricoh, and compact camera users in [City/Country].
 
-The first sample is available in Coffee, Olive, and Black. It keeps access to the battery, ports, and tripod mount, and we can send real close-up photos if you would like to check the finish.
+We are starting a small line of accessories for retro compact cameras. The first sample is a PU leather half case for the Fujifilm X100VI, available in Coffee, Olive, and Black.
 
-We are looking for a few camera shops, film labs, or studios in [Country/City] to test the product in a low-risk way. We can offer a free sample for review, and if it feels suitable for your customers, we can discuss a small wholesale test order.
+Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 
-Wholesale price: [leave blank / available on request]
-Sample shipping: [leave blank / to be discussed]
-Lead time: [leave blank]
+No large order is required. If the product feels suitable for your customers, we can then discuss a small wholesale test.
 
 Product page:
 [Your wholesale page link]
@@ -81,9 +81,11 @@ FrameHide
 - 你做什么品类；
 - 当前首发样品是什么；
 - 可以发真实图片；
-- 可以提供免费样品；
+- 可以提供一个样品做评估；
 - 可以聊小批量试单；
 - 不合适可以忽略。
+
+不要在第一封里主动塞完整价格表。原因：你现在的运费、交期、目的国、数量都还没定，第一封写太多反而显得像群发广告。价格放在客户回复后再给。
 
 ---
 
@@ -96,7 +98,7 @@ Hi [Name], I’m [Your Name] from FrameHide.
 
 We are building a small line of accessories for retro compact cameras, starting with a PU leather half case for the Fujifilm X100VI.
 
-Would you be open to reviewing a free sample for your shop? I can send real photos, sample terms, and a small wholesale test option.
+Would you be open to reviewing a sample for your shop? I can send real photos first, and if it looks relevant, we can discuss one free sample and a small wholesale test option.
 
 Product page:
 [Your wholesale page link]
@@ -115,7 +117,7 @@ Hi [Name],
 
 Just checking if this could be relevant for your store.
 
-We can send real close-up photos first, so you do not need to judge only from polished product images. If the product looks suitable, we can discuss a free sample and a small wholesale test.
+We can send real close-up photos first, so you do not need to judge only from polished product images. If the product looks suitable, we can discuss one sample for review and a small wholesale test.
 
 No pressure if it is not a fit.
 
@@ -141,6 +143,10 @@ If now is not the right time, no worries.
 Best,
 [Your Name]
 ```
+
+### 停止规则
+
+同一个客户最多发 1 封初始邮件 + 2 封跟进。没有回复就停止，不要继续追。
 
 ---
 
@@ -178,7 +184,7 @@ Suggested test quantity:
 [fill in quantity]
 
 Sample:
-[free sample / sample terms]
+[sample terms]
 
 Estimated shipping to [Country]:
 [fill in shipping option and cost]
@@ -187,6 +193,26 @@ Lead time:
 [fill in lead time]
 
 If you tell me the quantity and destination city, I can quote more accurately.
+
+Best,
+[Your Name]
+```
+
+### 对方说可以收样品
+
+```text
+Hi [Name],
+
+Great, thank you.
+
+Before sending the sample, could you share:
+
+1. Store name and delivery address
+2. Contact person and phone number for delivery
+3. Preferred colour: Coffee, Olive, or Black
+4. Whether you would like us to quote a small test order after you review the sample
+
+We will confirm the sample shipping option before dispatch.
 
 Best,
 [Your Name]
@@ -275,6 +301,29 @@ Best,
 | 第 8-16 天 | 对未回复客户做第一次跟进 | 测二次回复 |
 | 第 14-24 天 | 对感兴趣客户发真实图、样品条款 | 推进样品 |
 | 第 20-30 天 | 复盘回复率、样品意向、小批量询价 | 判断是否继续扩 SKU |
+
+### 资金紧张期的验证线
+
+当前如果现金只够支撑约 2-3 个月，就不能用“慢慢等品牌起量”的方式做。必须用硬指标判断是否继续。
+
+建议用下面这组指标：
+
+| 时间 | 必须看到的信号 | 如果没有 |
+|---|---|---|
+| 14 天 | 至少发出 50 封高质量开发信，拿到 2-3 个有效回复 | 立即调整客户名单和邮件标题 |
+| 30 天 | 至少 100 个目标客户触达，5 个以上有效回复，2 个以上愿意看样品/报价 | 暂停扩 SKU，不再追加库存 |
+| 45 天 | 至少 1-2 个客户进入样品寄送或明确报价沟通 | 重新评估产品、市场、客户名单 |
+| 60 天 | 至少有一个小批量试单意向或可展示的强反馈 | 不建议继续消耗生活现金硬撑 |
+
+有效回复不是自动回复，也不是简单一句“thanks”。有效回复指：
+
+- 对方要求看真实照片；
+- 对方问价格、运费、MOQ；
+- 对方愿意收样品；
+- 对方说明为什么不适合，并给出具体原因；
+- 对方推荐更合适的联系人。
+
+如果 100 个精准客户触达后几乎没有有效回复，问题大概率不在网站，而在产品、目标客户、邮件角度或市场需求。
 
 ### 记录表字段
 
