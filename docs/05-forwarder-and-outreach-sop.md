@@ -50,13 +50,12 @@ Samples and small wholesale orders are dispatched from our logistics partner in 
 建议邮件签名：
 
 ```text
-[Your Name]
+Johnson
 FrameHide
 Kainuo Innovision Tech Co., Limited
 Hong Kong
-Email: [email]
-WhatsApp: [number]
-Website: [website]
+WhatsApp: +852 9341 2653
+Website: https://framehide.com
 ```
 
 ---
@@ -707,6 +706,46 @@ Runs a camera shop with accessory shelf
 Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 ```
 
+### 第 4.0 步：价格、MOQ 和官网口径
+
+`MOQ` 是 `Minimum Order Quantity`，意思是“最小起订量”。
+
+当前阶段不要把价格做得太复杂。先用“试单价”验证客户是否愿意聊下去：
+
+| 产品 | 1688 参考成本 | 建议试单批发价 | 建议试单 MOQ |
+|---|---:|---:|---:|
+| PU half case only | RMB 30 左右 | USD 9.90 / pc 起 | 10 pcs，可混色 |
+| PU half case with shoulder strap | RMB 38 左右 | USD 12.90 / set 起 | 10 sets，可混色 |
+
+使用规则：
+
+- 第一封邮件可以写 `Pilot wholesale pricing starts from USD 9.90/pc for small test orders.`；
+- 具体价格表等对方回复后再发；
+- 运费、进口税、当地费用默认不含在产品单价里；
+- 带肩带版本当前官网还没有完整图片和价格，不要在第一封里重点推；
+- 如果客户问，可以说 `A matching strap set is also available on request. I can send photos after you review the main case.`
+
+建议对外口径：
+
+```text
+Pilot wholesale price: from USD 9.90/pc for small test orders
+Trial MOQ: 10 pcs, mixed colors accepted
+Sample: 1 pc can be provided for review
+Shipping: confirmed before dispatch, depending on destination and sample/order size
+Product details: https://framehide.com
+```
+
+不要写：
+
+```text
+Free worldwide shipping
+3-5 days guaranteed delivery
+DDP included for all countries
+Best market price
+```
+
+这些在货代和清关细节没有完全确认前都不要承诺。
+
 ### 第 4.1 步：开发信变量表
 
 以后所有开发信都用同一套变量，不要每次从零开始写。
@@ -719,10 +758,9 @@ Would you be open to reviewing one sample for your shop? We can send real close-
 [Product]：当前产品名
 [Compatible Model]：兼容机型
 [Colors]：颜色
-[Website]：官网或 wholesale 页面
-[Your Name]：你的名字
-[WhatsApp]：WhatsApp
-[Email]：邮箱
+[Website]：https://framehide.com
+Sender name：Johnson
+[WhatsApp]：+852 9341 2653
 ```
 
 `[Observation]` 示例：
@@ -745,7 +783,7 @@ Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m [Your Name] from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
 
 I came across [Store Name] and noticed that [Observation]
 
@@ -759,23 +797,23 @@ Basic details:
 - Product: PU leather camera half case
 - Compatible model: Fujifilm X100VI
 - Colors: Coffee / Green / Black
-- Wholesale price: [leave blank until confirmed]
-- MOQ: [leave blank until confirmed]
+- Pilot wholesale price: from USD 9.90/pc for small test orders
+- Trial MOQ: 10 pcs, mixed colors accepted
+- Sample: 1 pc can be provided for review
 - Shipping from: Shenzhen, China via our logistics partner
 - Company: Kainuo Innovision Tech Co., Limited, Hong Kong
 
-Photos / product page:
-[Website or product page link]
+Product details:
+https://framehide.com
 
 If this is not relevant for your store, no worries — you can simply ignore this email and I will not keep following up repeatedly.
 
 Best regards,
-[Your Name]
+Johnson
 FrameHide
 Kainuo Innovision Tech Co., Limited
-Website: [website]
-WhatsApp: [number]
-Email: [email]
+Website: https://framehide.com
+WhatsApp: +852 9341 2653
 ```
 
 ### 第 4.3 步：按客户类型替换的一句话
@@ -815,7 +853,7 @@ Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m [Your Name] from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
 
 I came across [Store Name] and noticed that [Observation]
 
@@ -827,20 +865,23 @@ Basic details:
 - Product: PU leather camera half case
 - Compatible model: Fujifilm X100VI
 - Colors: Coffee / Green / Black
-- Wholesale price: [leave blank until confirmed]
-- MOQ: [leave blank until confirmed]
+- Pilot wholesale price: from USD 9.90/pc for small test orders
+- Trial MOQ: 10 pcs, mixed colors accepted
+- Sample: 1 pc can be provided for review
 - Shipping from: Shenzhen, China via our logistics partner
 - Company: Kainuo Innovision Tech Co., Limited, Hong Kong
+
+Product details:
+https://framehide.com
 
 If this is not relevant for your store, no worries — you can simply ignore this email and I will not keep following up repeatedly.
 
 Best regards,
-[Your Name]
+Johnson
 FrameHide
 Kainuo Innovision Tech Co., Limited
-Website: [website]
-WhatsApp: [number]
-Email: [email]
+Website: https://framehide.com
+WhatsApp: +852 9341 2653
 ```
 
 附件建议：
@@ -861,7 +902,7 @@ Subject: Free sample for your camera accessory shelf?
 
 Hi [Name],
 
-I’m [Your Name] from FrameHide, a small Hong Kong company working on camera accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide, a small Hong Kong company working on camera accessories for compact and retro-style cameras.
 
 I noticed that [Observation]
 
@@ -872,11 +913,11 @@ Would you be open to seeing real close-up photos first? If it looks relevant, we
 If this is not relevant, no worries — you can ignore this email and I will not keep following up repeatedly.
 
 Best,
-[Your Name]
+Johnson
 FrameHide
 Kainuo Innovision Tech Co., Limited
-Website: [website]
-WhatsApp: [number]
+Website: https://framehide.com
+WhatsApp: +852 9341 2653
 ```
 
 是否要写“不感兴趣不再打扰”：可以写，但不要放在开头。它能降低对方心理压力，也让邮件更像真人发的，不像群发轰炸。
@@ -905,7 +946,7 @@ Just a quick follow-up in case my previous email got buried.
 Would it be useful if I send a few real photos of the X100VI-compatible PU half case? If it does not fit your shop, no problem at all.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 第二次跟进，再过 5-7 天发送：
@@ -920,7 +961,7 @@ One last follow-up from me.
 If camera half cases are not something you are looking for right now, I will not keep contacting you. If you would like to see the photos or sample terms later, feel free to reply anytime.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ### 第 4.7 步：对方回复后的模板
@@ -943,7 +984,7 @@ The sample we currently have is PU leather, not genuine leather. It is designed 
 If the product still looks relevant after reviewing the photos, I can also send a short video and sample terms.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 对方问价格：
@@ -962,7 +1003,32 @@ For reference, could you let me know which case is closer to your situation?
 Once I know this, I can prepare a simple quote with product price, MOQ, estimated shipping option, and lead time.
 
 Best,
-[Your Name]
+Johnson
+```
+
+客户已经明确想看试单价时，可以直接发这个版本：
+
+```text
+Hi [Name],
+
+Thanks for your interest.
+
+For a small wholesale test, our current pilot pricing is:
+
+- PU half case only: from USD 9.90/pc
+- PU half case with shoulder strap: from USD 12.90/set
+- Trial MOQ: 10 pcs, mixed colors accepted
+- Sample: 1 pc can be provided for review
+
+Shipping is quoted separately before dispatch, depending on destination, quantity, and available shipping option. Local import duties/taxes, if any, are not included in the product price unless agreed separately.
+
+Product details:
+https://framehide.com
+
+If you can share the destination city and the quantity you would like to test, I can prepare a simple quote with product price, estimated shipping option, and lead time.
+
+Best,
+Johnson
 ```
 
 对方愿意收样品：
@@ -985,7 +1051,7 @@ Before arranging shipment, could you please confirm:
 The sample itself can be free for review. Shipping terms can be discussed, or credited against a first small order if you decide to test it.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 对方说暂时不需要：
@@ -998,7 +1064,7 @@ Thanks for letting me know. No problem at all.
 I will not keep following up on this. If you ever want to review compact camera accessories later, feel free to reach out.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ### 第 5 步：发图规则

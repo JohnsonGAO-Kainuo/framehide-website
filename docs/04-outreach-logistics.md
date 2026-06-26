@@ -53,24 +53,27 @@
 ```text
 Hi [Name],
 
-I’m [Your Name] from FrameHide. I found [Store Name] while looking for camera shops that serve Fujifilm, Ricoh, and compact camera users in [City/Country].
+I’m Johnson from FrameHide. I found [Store Name] while looking for camera shops that serve Fujifilm, Ricoh, and compact camera users in [City/Country].
 
-We are starting a small line of accessories for retro compact cameras. The first sample is a PU leather half case for the Fujifilm X100VI, available in Coffee, Olive, and Black.
+We are starting a small line of accessories for retro compact cameras. The first sample is a PU leather half case for the Fujifilm X100VI, available in Coffee, Green, and Black.
 
 Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 
 No large order is required. If the product feels suitable for your customers, we can then discuss a small wholesale test.
 
 Product page:
-[Your wholesale page link]
+https://framehide.com
+
+Pilot wholesale pricing starts from USD 9.90/pc for small test orders. Trial MOQ can start from 10 pcs with mixed colors.
 
 If this is not relevant for your store, no worries at all.
 
 Best,
-[Your Name]
+Johnson
 FrameHide
-[Email]
-[WhatsApp]
+Kainuo Innovision Tech Co., Limited
+Website: https://framehide.com
++852 9341 2653
 ```
 
 ### 中文解释
@@ -85,7 +88,25 @@ FrameHide
 - 可以聊小批量试单；
 - 不合适可以忽略。
 
-不要在第一封里主动塞完整价格表。原因：你现在的运费、交期、目的国、数量都还没定，第一封写太多反而显得像群发广告。价格放在客户回复后再给。
+不要在第一封里主动塞完整价格表。可以放一句 `from USD 9.90/pc` 作为试单价锚点，但完整价格、运费、交期放在客户回复后再给。
+
+### 价格和 MOQ 口径
+
+`MOQ` = `Minimum Order Quantity`，意思是“最小起订量”。
+
+当前建议：
+
+| 产品 | 1688 参考成本 | 对外试单价 | 试单 MOQ |
+|---|---:|---:|---:|
+| PU half case only | RMB 30 左右 | from USD 9.90 / pc | 10 pcs，可混色 |
+| PU half case with shoulder strap | RMB 38 左右 | from USD 12.90 / set | 10 sets，可混色 |
+
+注意：
+
+- 运费另算，发货前确认；
+- 进口税费和当地费用不包含在产品单价里；
+- 带肩带版本当前官网还没有完整图片和价格，第一封不要重点推；
+- 如果客户问，再说 `A matching strap set is also available on request. I can send photos after you review the main case.`
 
 ---
 
@@ -94,14 +115,14 @@ FrameHide
 适合 Instagram DM、联系表单、LinkedIn、店铺网站的简短消息：
 
 ```text
-Hi [Name], I’m [Your Name] from FrameHide.
+Hi [Name], I’m Johnson from FrameHide.
 
 We are building a small line of accessories for retro compact cameras, starting with a PU leather half case for the Fujifilm X100VI.
 
 Would you be open to reviewing a sample for your shop? I can send real photos first, and if it looks relevant, we can discuss one free sample and a small wholesale test option.
 
 Product page:
-[Your wholesale page link]
+https://framehide.com
 
 If it is not relevant, no worries at all.
 ```
@@ -122,7 +143,7 @@ We can send real close-up photos first, so you do not need to judge only from po
 No pressure if it is not a fit.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ---
@@ -141,7 +162,7 @@ If you would like to see real photos or sample terms, I can send them over.
 If now is not the right time, no worries.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ### 停止规则
@@ -159,7 +180,7 @@ Hi [Name],
 
 Thanks. I have attached a few photos below:
 
-1. Three colour options: Coffee, Olive, Black
+1. Three colour options: Coffee, Green, Black
 2. Close-up of stitching and PU leather texture
 3. Bottom access and tripod mount
 4. Simple real-life photo of the sample
@@ -167,7 +188,7 @@ Thanks. I have attached a few photos below:
 If you want, I can also send a short video showing the battery access and fit.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ### 对方问价格
@@ -178,13 +199,14 @@ Hi [Name],
 Thanks for your interest.
 
 Wholesale price:
-[fill in price]
+- PU half case only: from USD 9.90/pc for a small test order
+- PU half case with shoulder strap: from USD 12.90/set, photos available on request
 
 Suggested test quantity:
-[fill in quantity]
+10 pcs, mixed colors accepted
 
 Sample:
-[sample terms]
+1 pc can be provided for review. Sample shipping will be confirmed before dispatch.
 
 Estimated shipping to [Country]:
 [fill in shipping option and cost]
@@ -195,7 +217,7 @@ Lead time:
 If you tell me the quantity and destination city, I can quote more accurately.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ### 对方说可以收样品
@@ -209,13 +231,13 @@ Before sending the sample, could you share:
 
 1. Store name and delivery address
 2. Contact person and phone number for delivery
-3. Preferred colour: Coffee, Olive, or Black
+3. Preferred colour: Coffee, Green, or Black
 4. Whether you would like us to quote a small test order after you review the sample
 
 We will confirm the sample shipping option before dispatch.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ### 对方问是否真皮
@@ -228,7 +250,7 @@ The material is PU leather. We describe it honestly as PU leather, not genuine l
 The reason we are testing this sample is that it gives a good look and practical protection at an accessible price point for compact camera users.
 
 Best,
-[Your Name]
+Johnson
 ```
 
 ---
