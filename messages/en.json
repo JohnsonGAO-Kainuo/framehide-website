@@ -261,6 +261,7 @@
   "language": {
     "label": "Language",
     "en": "EN",
-    "zh": "中文"
+    "zh": "Simplified Chinese",
+    "zh-Hant": "Traditional Chinese"
   }
 }

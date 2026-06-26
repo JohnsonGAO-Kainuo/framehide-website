@@ -6,6 +6,12 @@ import { routing } from "@/i18n/routing";
 import { useParams } from "next/navigation";
 import { useTransition } from "react";
 
+const labels: Record<string, string> = {
+  en: "EN",
+  zh: "简中",
+  "zh-Hant": "繁中",
+};
+
 export function LocaleSwitcher() {
   const locale = useLocale();
   const router = useRouter();
@@ -43,7 +49,7 @@ export function LocaleSwitcher() {
               active ? "bg-ink text-paper" : "text-ink-soft hover:text-ink"
             }`}
           >
-            {loc === "en" ? "EN" : "中文"}
+            {labels[loc] ?? loc}
           </button>
         );
       })}
