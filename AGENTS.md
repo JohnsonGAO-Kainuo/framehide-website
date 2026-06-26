@@ -9,6 +9,7 @@
 - `docs/02-website-prd.md` — 站点架构 / 数据模型 / 技术选型 / 分期
 - `docs/03-assets-map.md` — 素材清点与用途映射
 - `docs/04-outreach-logistics.md` — 开发信 / 货代验证 / 样品沟通计划
+- `docs/05-forwarder-and-outreach-sop.md` — 货代筛选 / 开发信执行 SOP
 
 ## 必须使用的技能（位于 .github/skills/）
 - **design-taste-frontend** — 所有前端页面的默认审美规则（反模板）
