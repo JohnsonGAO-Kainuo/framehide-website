@@ -89,20 +89,229 @@ Website: [website]
 
 ## 4. 在深圳怎么找货代
 
-先找 5 家，不要只问 1 家。
+先找 8-10 家，最后留下 2-3 家报价清楚、能拍照验货、愿意小批量服务的货代。不要只问 1 家，也不要一开始就找“看起来最大”的货代。
+
+你的目标不是找一个“万能货代”，而是找一个适合当前阶段的货代：
+
+```text
+深圳有仓
+愿意收 1688 工厂直发
+能拍照、称重、量尺寸
+能发 1-3 件样品
+能发 10 / 20 / 50 件小批量
+对澳洲、新加坡、英国、加拿大至少有 1-2 个稳定渠道
+能给追踪号
+沟通清楚
+```
+
+### 先建一个货代表
+
+不要靠微信聊天记录记忆。先建表：
+
+```text
+货代名称
+联系人
+微信
+手机号
+来源
+仓库城市/区域
+主打国家
+是否可收 1688 直发
+是否拍照验货
+是否可称重/量尺寸
+是否可合箱/换箱
+是否可发 1 件样品
+澳洲 1 件样品报价
+新加坡 1 件样品报价
+英国 1 件样品报价
+加拿大 1 件样品报价
+10 / 20 / 50 件报价
+预计时效
+是否带追踪
+赔付/丢件规则
+备注
+评分
+```
 
 ### 搜索关键词
 
-微信 / 地图 / 小红书 / 朋友推荐 / 供应商推荐都可以，用这些关键词：
+微信 / 地图 / 小红书 / 朋友推荐 / 供应商推荐都可以。关键词不要只搜一组，要按“城市 + 目的国 + 服务”组合搜索。
+
+基础词：
+
+```text
+深圳 货代
+深圳 国际快递代理
+深圳 国际物流 小包
+深圳 跨境小包 货代
+深圳 国际快递 DHL UPS FedEx 代理
+```
+
+目的国词：
 
 ```text
 深圳 澳洲专线 小包 货代
+深圳 澳大利亚专线 小包
 深圳 新加坡专线 货代
 深圳 新马专线 小包
-深圳 国际快递 DHL UPS FedEx 代理
-深圳 货代 拍照验货 合箱
-深圳 跨境小包 澳洲 新加坡
+深圳 马来西亚专线 小包
+深圳 英国小包 货代
+深圳 加拿大专线 小包
 ```
+
+服务词：
+
+```text
+深圳 货代 拍照验货 合箱
+深圳 货代 代收货 拍照
+深圳 货代 1688 直发 仓库
+深圳 国际物流 一件代发
+深圳 跨境小包 轻小件
+深圳 货代 合箱 换箱 加固
+```
+
+组合词：
+
+```text
+深圳 跨境小包 澳洲 新加坡
+深圳 澳洲专线 轻小件 小包
+深圳 新加坡 一件代发 国际快递
+深圳 国际快递代理 可拍照验货
+宝安 国际快递 澳洲专线
+坂田 国际物流 新加坡专线
+龙华 货代 小包 拍照验货
+```
+
+不优先的词：
+
+```text
+FBA 头程
+海运整柜
+大货报关
+海外仓一件代发
+```
+
+这些不一定不能用，但很多偏亚马逊或大货，不一定适合你现在的“1-3 件样品 + 10/20/50 件小批量”。
+
+### 在哪里搜
+
+按这个顺序找。
+
+#### 1. 微信搜一搜
+
+操作：
+
+```text
+微信顶部搜索
+输入：深圳 澳洲专线 小包 货代
+切换到：公众号 / 文章 / 视频号 / 小程序 / 朋友圈
+记录出现频率高、内容具体、有联系方式的货代
+```
+
+优先看：
+
+- 是否写清楚仓库在深圳；
+- 是否提到小包、样品、轻小件；
+- 是否提到可拍照、称重、合箱；
+- 是否有澳洲 / 新加坡 / 英国 / 加拿大线路；
+- 朋友圈或文章是否长期更新，不是一次性广告。
+
+不要只看标题。很多标题写“澳洲专线”，实际只做大货或 FBA，要继续问。
+
+#### 2. 高德地图 / 百度地图
+
+操作：
+
+```text
+地图搜索：国际快递 货代
+地图搜索：DHL FedEx UPS 代理
+地图搜索：跨境物流
+区域限定：宝安 / 福永 / 西乡 / 坂田 / 龙华 / 平湖
+```
+
+筛选：
+
+- 有门店或仓库地址；
+- 有电话；
+- 有营业时间；
+- 评论不是全空；
+- 能加微信沟通。
+
+地图上的好处是能看到离你近不近。你不一定要上门，但第一批样品如果需要现场确认，深圳本地会更方便。
+
+#### 3. 1688 供应商推荐
+
+你可以直接问供货商：
+
+```text
+你们之前有没有发过海外样品？有没有合作过深圳国际货代？我们前期发 1-3 件样品和 10/20/50 件小批量，目的国是澳洲、新加坡、英国、加拿大。如果有靠谱货代，可以推荐联系方式。
+```
+
+注意：供应商推荐的货代不一定最便宜，但可能更熟悉这类产品发货。仍然要按第 5 节模板询价，不要直接信任。
+
+#### 4. 小红书 / 抖音
+
+适合找线索，不适合作为最终判断。
+
+关键词：
+
+```text
+深圳货代 澳洲专线
+深圳货代 新加坡小包
+深圳国际快递代理
+跨境小包 深圳
+轻小件国际快递
+```
+
+筛选：
+
+- 内容不要只有“超低价”；
+- 看评论区是否有人问具体线路；
+- 私信后是否愿意按结构报价；
+- 是否能提供仓库地址和入库格式。
+
+#### 5. 朋友 / 同行 / 香港公司服务商
+
+如果你有做跨境、电商、外贸、香港公司服务的人脉，可以直接问：
+
+```text
+我现在发相机周边轻小件样品，不带电不含液体，主要到澳洲/新加坡/英国/加拿大。你有没有用过深圳这边能收 1688 直发、能拍照称重的小包货代？
+```
+
+不要问“有没有靠谱货代”这么笼统。要把你的场景说清楚。
+
+### 搜索当天的合格标准
+
+第一天不要追求找到完美货代，目标是拿到可比较的信息：
+
+```text
+找到 10 个候选货代
+加上 6-8 个微信
+发出 5 条结构化询价
+至少拿到 3 个有效回复
+把报价和服务填进表格
+```
+
+有效回复的定义：
+
+```text
+能说渠道
+能说大概价格
+能说时效
+能说是否拍照称重
+能给仓库地址/入库格式
+```
+
+无效回复：
+
+```text
+可以发
+你寄来看看
+价格很便宜
+什么都能走
+```
+
+这种回复不能直接合作，要继续追问。
 
 ### 优先区域
 
@@ -498,20 +707,121 @@ Runs a camera shop with accessory shelf
 Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 ```
 
-可直接发送版本：
+### 第 4.1 步：开发信变量表
+
+以后所有开发信都用同一套变量，不要每次从零开始写。
 
 ```text
-Subject: Small camera accessory sample for your Fujifilm customers
+[Name]：对方名字，不知道就写 Hi there
+[Store Name]：店铺名
+[Country/City]：国家或城市
+[Observation]：你为什么觉得这家店相关，必须手写一句
+[Product]：当前产品名
+[Compatible Model]：兼容机型
+[Colors]：颜色
+[Website]：官网或 wholesale 页面
+[Your Name]：你的名字
+[WhatsApp]：WhatsApp
+[Email]：邮箱
+```
+
+`[Observation]` 示例：
+
+```text
+I saw that your store carries Fujifilm compact cameras and camera accessories.
+I noticed that your Instagram often features Fujifilm X100-series cameras.
+I saw that your shop works with film and compact camera users, so this may be relevant.
+I noticed that you carry camera straps and small accessories, so I thought this might fit your accessory shelf.
+```
+
+如果找不到任何真实观察，不要硬发。至少先确认这家店真的卖相机、相机配件、胶片机、富士/理光相关产品。
+
+### 第 4.2 步：标准可复用开发信模板（详细版）
+
+这个版本适合第一轮正式发邮件。它比短版更完整，但仍然控制在对方愿意读完的长度。
+
+```text
+Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m [Your Name] from FrameHide, a small Hong Kong company working on camera accessories for compact and retro-style cameras.
+I’m [Your Name] from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
 
-I noticed that [Store Name] carries Fujifilm / compact camera products, so I thought this might be relevant.
+I came across [Store Name] and noticed that [Observation]
 
-Our current sample is a PU leather half case compatible with the Fujifilm X100VI. It is designed as a simple add-on item for customers who already own the camera and want a protective case with a cleaner look.
+We are currently testing a small wholesale line of camera accessories, starting with a PU leather half case compatible with the Fujifilm X100VI. It is designed as a simple add-on item for customers who already own the camera and want light protection with a cleaner look.
 
-We are not asking for a large order at this stage. Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
+We are not asking for a large order at this stage. Would you be open to reviewing one sample for your shop?
+
+We can send real close-up photos first. If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed, or credited against a first small order if you decide to test it.
+
+Basic details:
+- Product: PU leather camera half case
+- Compatible model: Fujifilm X100VI
+- Colors: Coffee / Green / Black
+- Wholesale price: [leave blank until confirmed]
+- MOQ: [leave blank until confirmed]
+- Shipping from: Shenzhen, China via our logistics partner
+- Company: Kainuo Innovision Tech Co., Limited, Hong Kong
+
+Photos / product page:
+[Website or product page link]
+
+If this is not relevant for your store, no worries — you can simply ignore this email and I will not keep following up repeatedly.
+
+Best regards,
+[Your Name]
+FrameHide
+Kainuo Innovision Tech Co., Limited
+Website: [website]
+WhatsApp: [number]
+Email: [email]
+```
+
+### 第 4.3 步：按客户类型替换的一句话
+
+不要每封邮件完全一样。只改一两句就够。
+
+如果对方是相机零售店：
+
+```text
+I thought this could work as a small add-on item for customers who already own or are buying Fujifilm X100-series cameras.
+```
+
+如果对方是二手 / 胶片 / 复古相机店：
+
+```text
+I thought this might fit your customers who like compact cameras, film-style aesthetics, and practical small accessories.
+```
+
+如果对方是配件店：
+
+```text
+Since your shop already carries small camera accessories, I thought this could be a low-risk item to review as a sample first.
+```
+
+如果对方是内容型小店 / Instagram 活跃：
+
+```text
+I noticed your visual style is close to compact and everyday-carry photography, so I thought the product might be worth a quick look.
+```
+
+### 第 4.4 步：带一张图的版本
+
+如果你决定第一封就放图片，不要塞很多附件。用一张轻量图即可。
+
+```text
+Subject: Sample offer: compact camera accessory for your shop
+
+Hi [Name],
+
+I’m [Your Name] from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
+
+I came across [Store Name] and noticed that [Observation]
+
+We are currently testing a PU leather half case compatible with the Fujifilm X100VI, available in Coffee, Green, and Black. I attached one overview image so you can quickly see the product style.
+
+Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed, or credited against a first small order.
 
 Basic details:
 - Product: PU leather camera half case
@@ -533,7 +843,18 @@ WhatsApp: [number]
 Email: [email]
 ```
 
-更短版本：
+附件建议：
+
+```text
+文件名：framehide-x100vi-half-case-overview.jpg
+大小：控制在 300-800KB
+数量：第一封最多 1 张
+不要：压缩包、8 张大图、过度 AI 感图片
+```
+
+### 第 4.5 步：更短版本
+
+这个版本适合 Instagram 私信、网站 contact form，或对方邮箱入口很简单的情况。
 
 ```text
 Subject: Free sample for your camera accessory shelf?
@@ -541,6 +862,8 @@ Subject: Free sample for your camera accessory shelf?
 Hi [Name],
 
 I’m [Your Name] from FrameHide, a small Hong Kong company working on camera accessories for compact and retro-style cameras.
+
+I noticed that [Observation]
 
 We currently have a PU leather half case compatible with the Fujifilm X100VI, available in Coffee, Green, and Black. It may work as a simple add-on product for customers who already own the camera.
 
@@ -568,7 +891,7 @@ We supply premium products worldwide...
 
 除非这些都是真实的。
 
-### 第 4.5 步：跟进邮件
+### 第 4.6 步：跟进邮件
 
 第一次跟进，4-6 天后发送：
 
@@ -595,6 +918,84 @@ Hi [Name],
 One last follow-up from me.
 
 If camera half cases are not something you are looking for right now, I will not keep contacting you. If you would like to see the photos or sample terms later, feel free to reply anytime.
+
+Best,
+[Your Name]
+```
+
+### 第 4.7 步：对方回复后的模板
+
+对方要真实照片：
+
+```text
+Hi [Name],
+
+Thanks for getting back to me.
+
+I’m sharing a few real close-up photos here:
+- Front view
+- Back / bottom view
+- Battery door and tripod screw area
+- Color options
+
+The sample we currently have is PU leather, not genuine leather. It is designed as a practical accessory for customers who want a cleaner look and light protection for the X100VI.
+
+If the product still looks relevant after reviewing the photos, I can also send a short video and sample terms.
+
+Best,
+[Your Name]
+```
+
+对方问价格：
+
+```text
+Hi [Name],
+
+Thanks. I can share the pricing once we confirm the quantity and sample/shipping preference.
+
+For reference, could you let me know which case is closer to your situation?
+
+1. You only want to review 1 sample first
+2. You may test a small first order, such as 10 / 20 / 50 pcs
+3. You want pricing for multiple colors
+
+Once I know this, I can prepare a simple quote with product price, MOQ, estimated shipping option, and lead time.
+
+Best,
+[Your Name]
+```
+
+对方愿意收样品：
+
+```text
+Hi [Name],
+
+Thank you. We can prepare one sample for review.
+
+Before arranging shipment, could you please confirm:
+
+1. Preferred color: Coffee / Green / Black
+2. Receiver name:
+3. Company / store name:
+4. Delivery address:
+5. Phone number for courier:
+6. Email for tracking:
+7. Do you prefer us to check the shipping cost first before dispatch?
+
+The sample itself can be free for review. Shipping terms can be discussed, or credited against a first small order if you decide to test it.
+
+Best,
+[Your Name]
+```
+
+对方说暂时不需要：
+
+```text
+Hi [Name],
+
+Thanks for letting me know. No problem at all.
+
+I will not keep following up on this. If you ever want to review compact camera accessories later, feel free to reach out.
 
 Best,
 [Your Name]
@@ -656,14 +1057,15 @@ Best,
 
 1. 用第 3 节把产品运输信息卡填完；
 2. 称重一只样品和包装后的重量；
-3. 用第 4 节关键词找 5 家深圳货代；
-4. 用第 5 节模板发给 5 家货代；
+3. 用第 4 节关键词找 10 个深圳货代候选；
+4. 用第 5 节模板发给其中 5 家；
 5. 建一个开发信表格；
 6. 找 10 家目标店铺，先发 5 封开发信。
 
 今天合格标准：
 
 ```text
+10 个货代候选已进表
 5 家货代已询价
 10 家客户已进表
 5 封开发信已发出
