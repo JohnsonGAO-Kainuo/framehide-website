@@ -53,7 +53,9 @@
 ```text
 Hi [Name],
 
-I’m Johnson from FrameHide. I found [Store Name] while looking for camera shops that serve Fujifilm, Ricoh, and compact camera users in [City/Country].
+I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company.
+
+I found [Store Name] while looking for camera shops that serve Fujifilm, Ricoh, and compact camera users in [City/Country].
 
 We are starting a small line of accessories for retro compact cameras. The first sample is a PU leather half case for the Fujifilm X100VI, available in Coffee, Green, and Black.
 
@@ -65,6 +67,8 @@ Product page:
 https://framehide.com
 
 Pilot wholesale pricing starts from USD 9.90/pc for small test orders. Trial MOQ can start from 10 pcs with mixed colors.
+
+Samples and small wholesale orders are dispatched from Shenzhen, China via our logistics partner. Shipping options can be confirmed before dispatch.
 
 If this is not relevant for your store, no worries at all.
 
@@ -86,6 +90,7 @@ Website: https://framehide.com
 - 可以发真实图片；
 - 可以提供一个样品做评估；
 - 可以聊小批量试单；
+- 对方知道你是香港公司主体，样品从深圳货代发；
 - 不合适可以忽略。
 
 不要在第一封里主动塞完整价格表。可以放一句 `from USD 9.90/pc` 作为试单价锚点，但完整价格、运费、交期放在客户回复后再给。
@@ -108,6 +113,30 @@ Website: https://framehide.com
 - 带肩带版本当前官网还没有完整图片和价格，第一封不要重点推；
 - 如果客户问，再说 `A matching strap set is also available on request. I can send photos after you review the main case.`
 
+### 邮件附件图片
+
+不要改网站正在使用的图片文件名。当前已准备一套邮件附件副本：
+
+```text
+email-attachments/framehide-x100vi-half-case/
+```
+
+第一封冷邮件建议最多附 1 张：
+
+```text
+framehide-x100vi-half-case-overview-three-colors.jpg
+```
+
+如果担心进垃圾箱，第一封不要附件，只放官网链接。对方回复后再发：
+
+```text
+framehide-x100vi-half-case-coffee.jpg
+framehide-x100vi-half-case-green.jpg
+framehide-x100vi-half-case-black.jpg
+framehide-x100vi-half-case-feature-overview.jpg
+framehide-x100vi-half-case-detail-sheet.jpg
+```
+
 ---
 
 ## 4. 更短版本
@@ -115,7 +144,7 @@ Website: https://framehide.com
 适合 Instagram DM、联系表单、LinkedIn、店铺网站的简短消息：
 
 ```text
-Hi [Name], I’m Johnson from FrameHide.
+Hi [Name], I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company.
 
 We are building a small line of accessories for retro compact cameras, starting with a PU leather half case for the Fujifilm X100VI.
 

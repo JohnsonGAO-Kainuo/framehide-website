@@ -783,7 +783,7 @@ Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m Johnson from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company working on accessories for compact and retro-style cameras.
 
 I came across [Store Name] and noticed that [Observation]
 
@@ -800,7 +800,7 @@ Basic details:
 - Pilot wholesale price: from USD 9.90/pc for small test orders
 - Trial MOQ: 10 pcs, mixed colors accepted
 - Sample: 1 pc can be provided for review
-- Shipping from: Shenzhen, China via our logistics partner
+- Shipping: samples and small wholesale orders are dispatched from Shenzhen, China via our logistics partner
 - Company: Kainuo Innovision Tech Co., Limited, Hong Kong
 
 Product details:
@@ -814,6 +814,16 @@ FrameHide
 Kainuo Innovision Tech Co., Limited
 Website: https://framehide.com
 WhatsApp: +852 9341 2653
+```
+
+附件建议：
+
+```text
+第一封最多附 1 张：
+email-attachments/framehide-x100vi-half-case/framehide-x100vi-half-case-overview-three-colors.jpg
+
+如果担心进垃圾箱，第一封不附图，只放官网链接。
+对方回复后再发颜色图、细节图和真实图。
 ```
 
 ### 第 4.3 步：按客户类型替换的一句话
@@ -853,7 +863,7 @@ Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m Johnson from FrameHide, a small Hong Kong company working on accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company working on accessories for compact and retro-style cameras.
 
 I came across [Store Name] and noticed that [Observation]
 
@@ -868,7 +878,7 @@ Basic details:
 - Pilot wholesale price: from USD 9.90/pc for small test orders
 - Trial MOQ: 10 pcs, mixed colors accepted
 - Sample: 1 pc can be provided for review
-- Shipping from: Shenzhen, China via our logistics partner
+- Shipping: samples and small wholesale orders are dispatched from Shenzhen, China via our logistics partner
 - Company: Kainuo Innovision Tech Co., Limited, Hong Kong
 
 Product details:
@@ -887,7 +897,7 @@ WhatsApp: +852 9341 2653
 附件建议：
 
 ```text
-文件名：framehide-x100vi-half-case-overview.jpg
+文件名：framehide-x100vi-half-case-overview-three-colors.jpg
 大小：控制在 300-800KB
 数量：第一封最多 1 张
 不要：压缩包、8 张大图、过度 AI 感图片
@@ -902,7 +912,7 @@ Subject: Free sample for your camera accessory shelf?
 
 Hi [Name],
 
-I’m Johnson from FrameHide, a small Hong Kong company working on camera accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company working on camera accessories for compact and retro-style cameras.
 
 I noticed that [Observation]
 
