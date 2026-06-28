@@ -43,17 +43,17 @@
       "tagline": "Protection that stays out of the way.",
       "summary": "A snug half case that guards the base and corners of the X100VI while leaving every dial, port and battery within reach. Choose the case-only SKU or the matching shoulder strap set in Coffee, Olive, or Black.",
       "colorNames": { "coffee": "Coffee", "green": "Olive", "black": "Black" },
-      "variantsLabel": "Order options",
+      "variantsLabel": "Option",
       "variantsTitle": "Case-only, or ready to carry.",
       "variantsBody": "Both options use the same fitted PU half case. The strap set simply adds a matching shoulder strap for shops that want a ready-to-carry SKU.",
       "variantNames": {
         "case-only": {
-          "title": "Half case only",
+          "title": "Case only",
           "body": "The core protective base cover for X100VI customers who already have a preferred strap.",
           "meta": "Coffee / Olive / Black"
         },
         "strap-set": {
-          "title": "Half case + shoulder strap set",
+          "title": "With strap",
           "body": "A matching strap set for customers who want the case and carry setup together.",
           "meta": "Available in the same three colours"
         }
@@ -98,17 +98,17 @@
       "tagline": "保护到位，又不挡手。",
       "summary": "贴合的半套，护住 X100VI 的底部与边角，同时让每一个拨盘、接口和电池都触手可及。可选择半套单品，也可选择同色肩带套装，咖啡棕、橄榄绿、曜石黑三色可选。",
       "colorNames": { "coffee": "咖啡棕", "green": "橄榄绿", "black": "曜石黑" },
-      "variantsLabel": "订购选项",
+      "variantsLabel": "选项",
       "variantsTitle": "单买半套，或配同色肩带。",
       "variantsBody": "两个选项使用同一款 X100VI 贴合半套。肩带套装只是增加同色肩带，更适合作为店铺里的完整携带套装。",
       "variantNames": {
         "case-only": {
-          "title": "半套单品",
+          "title": "单半套",
           "body": "适合已经有自己常用背带，只需要底部保护半套的 X100VI 用户。",
           "meta": "咖啡棕 / 橄榄绿 / 曜石黑"
         },
         "strap-set": {
-          "title": "半套 + 肩带套装",
+          "title": "带肩带",
           "body": "同色肩带搭配半套，适合想一次配齐保护与携带方案的客户。",
           "meta": "同样支持三种颜色"
         }
@@ -153,17 +153,17 @@
       "tagline": "保護到位，又不擋手。",
       "summary": "貼合的半套，護住 X100VI 的底部與邊角，同時讓每一個撥盤、接口和電池都觸手可及。可選半套單品，也可選同色肩帶套裝，咖啡棕、橄欖綠、曜石黑三色可選。",
       "colorNames": { "coffee": "咖啡棕", "green": "橄欖綠", "black": "曜石黑" },
-      "variantsLabel": "訂購選項",
+      "variantsLabel": "選項",
       "variantsTitle": "單買半套，或配同色肩帶。",
       "variantsBody": "兩個選項使用同一款 X100VI 貼合半套。肩帶套裝只是增加同色肩帶，更適合作為店鋪裡的完整攜帶套裝。",
       "variantNames": {
         "case-only": {
-          "title": "半套單品",
+          "title": "單半套",
           "body": "適合已經有自己常用背帶，只需要底部保護半套的 X100VI 用戶。",
           "meta": "咖啡棕 / 橄欖綠 / 曜石黑"
         },
         "strap-set": {
-          "title": "半套 + 肩帶套裝",
+          "title": "帶肩帶",
           "body": "同色肩帶搭配半套，適合想一次配齊保護與攜帶方案的客戶。",
           "meta": "同樣支援三種顏色"
         }

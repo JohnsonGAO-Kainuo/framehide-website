@@ -7,6 +7,12 @@ export type ProductColor = {
   image: string;
 };
 
+export type ProductVariant = {
+  id: string;
+  image: string;
+  images?: string[];
+};
+
 export type ProductCopy = {
   title: string;
   tagline: string;
@@ -30,7 +36,7 @@ export type Product = {
   featuresImage: string;
   detailSheet: string;
   colors: ProductColor[];
-  variants?: { id: string; image: string; images?: string[] }[];
+  variants?: ProductVariant[];
   gallery: { src: string; ratio: string }[];
   i18n: Record<Locale, ProductCopy>;
 };

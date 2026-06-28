@@ -60,6 +60,9 @@ export default async function ProductDetailPage({
             <ProductColorViewer
               colors={product.colors}
               colorNames={copy.colorNames}
+              variants={product.variants}
+              variantNames={copy.variantNames}
+              variantLabel={copy.variantsLabel}
               title={copy.title}
               label={t("colorsLabel")}
               priority
@@ -80,74 +83,6 @@ export default async function ProductDetailPage({
           </Reveal>
         </div>
       </section>
-
-      {product.variants?.length && copy.variantNames ? (
-        <section className="mx-auto max-w-[1400px] px-5 pb-20 sm:px-8">
-          <Reveal className="max-w-2xl">
-            <p className="text-xs uppercase tracking-[0.2em] text-coffee">
-              {copy.variantsLabel}
-            </p>
-            <h2 className="mt-4 font-display text-[clamp(1.8rem,3.4vw,2.7rem)] leading-tight text-ink">
-              {copy.variantsTitle}
-            </h2>
-            <p className="mt-4 max-w-xl text-base leading-relaxed text-ink-soft">
-              {copy.variantsBody}
-            </p>
-          </Reveal>
-
-          <div className="mt-10 grid gap-6 lg:grid-cols-2">
-            {product.variants.map((variant, index) => {
-              const variantCopy = copy.variantNames?.[variant.id];
-              if (!variantCopy) return null;
-
-              return (
-                <Reveal key={variant.id} delay={0.05 * index}>
-                  <div className="h-full overflow-hidden rounded-[2rem] bg-paper shadow-sm transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] hover:-translate-y-1">
-                    <div className="relative aspect-[4/3] overflow-hidden bg-cream">
-                      <Image
-                        src={variant.image}
-                        alt={`${copy.title} · ${variantCopy.title}`}
-                        fill
-                        sizes="(max-width: 1024px) 100vw, 50vw"
-                        className="object-contain film-soft transition-transform duration-700 hover:scale-105"
-                      />
-                    </div>
-                    <div className="p-6 sm:p-8">
-                      <p className="text-xs uppercase tracking-[0.18em] text-coffee">
-                        {variantCopy.meta}
-                      </p>
-                      <h3 className="mt-3 font-display text-2xl text-ink">
-                        {variantCopy.title}
-                      </h3>
-                      <p className="mt-3 text-sm leading-relaxed text-ink-soft">
-                        {variantCopy.body}
-                      </p>
-                      {variant.images?.length ? (
-                        <div className="mt-6 flex gap-3">
-                          {variant.images.map((image) => (
-                            <div
-                              key={image}
-                              className="relative size-16 overflow-hidden rounded-2xl bg-cream ring-1 ring-ink/5"
-                            >
-                              <Image
-                                src={image}
-                                alt={`${copy.title} option`}
-                                fill
-                                sizes="64px"
-                                className="object-contain"
-                              />
-                            </div>
-                          ))}
-                        </div>
-                      ) : null}
-                    </div>
-                  </div>
-                </Reveal>
-              );
-            })}
-          </div>
-        </section>
-      ) : null}
 
       {/* Features */}
       <section className="bg-paper">
