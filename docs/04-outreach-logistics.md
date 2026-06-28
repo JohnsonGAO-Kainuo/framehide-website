@@ -53,18 +53,18 @@
 ```text
 Hi [Name],
 
-I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company.
+I’m Johnson from FrameHide, a small Hong Kong-based camera accessories supplier.
 
-I found [Store Name] while looking for camera shops that serve Fujifilm, Ricoh, and compact camera users in [City/Country].
+I found [Store Name] while looking for camera, film, used-camera, and accessory shops in [City/Country].
 
 We are starting a small line of accessories for retro compact cameras. The first sample is a PU leather half case for the Fujifilm X100VI, available in Coffee, Green, and Black.
 
-Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
+Would you be open to reviewing one sample for your shop? I can first send additional product images and real close-up photos of the sample itself. If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 
 No large order is required. If the product feels suitable for your customers, we can then discuss a small wholesale test.
 
 Product page:
-https://framehide.com
+https://www.framehide.com/en/products/x100vi-half-case
 
 Pilot wholesale pricing starts from USD 9.90/pc for small test orders. Trial MOQ can start from 10 pcs with mixed colors.
 
@@ -75,8 +75,6 @@ If this is not relevant for your store, no worries at all.
 Best,
 Johnson
 FrameHide
-Kainuo Innovision Tech Co., Limited
-Website: https://framehide.com
 +852 9341 2653
 ```
 
@@ -90,10 +88,12 @@ Website: https://framehide.com
 - 可以发真实图片；
 - 可以提供一个样品做评估；
 - 可以聊小批量试单；
-- 对方知道你是香港公司主体，样品从深圳货代发；
+- 对方知道 FrameHide 是香港小品牌，样品从深圳货代发；
 - 不合适可以忽略。
 
 不要在第一封里主动塞完整价格表。可以放一句 `from USD 9.90/pc` 作为试单价锚点，但完整价格、运费、交期放在客户回复后再给。
+
+法律主体 `Kainuo Innovision Tech Co., Limited` 不建议放在第一封冷邮件里。等对方回复、需要报价单 / invoice / 付款资料时再说明即可；这不是隐瞒，而是避免第一封邮件信息过载，也避免对方搜索公司名时被旧的网站开发业务分散注意力。
 
 ### 价格和 MOQ 口径
 
@@ -110,8 +110,8 @@ Website: https://framehide.com
 
 - 运费另算，发货前确认；
 - 进口税费和当地费用不包含在产品单价里；
-- 带肩带版本当前官网还没有完整图片和价格，第一封不要重点推；
-- 如果客户问，再说 `A matching strap set is also available on request. I can send photos after you review the main case.`
+- 带肩带版本已作为同一产品的套装选项展示在产品页，但第一封仍不要重点推，避免信息过载；
+- 如果客户问，再说 `A matching strap set is also available on request. Product images are available on the product page, and I can send additional photos if useful.`
 
 ### 邮件附件图片
 
@@ -127,6 +127,8 @@ email-attachments/framehide-x100vi-half-case/
 framehide-x100vi-half-case-overview-three-colors.jpg
 ```
 
+不要在第一封附 `framehide-x100vi-half-case-detail-sheet.jpg` 或规格详情图；感兴趣的人会点产品页，或回复后再看细节。
+
 如果担心进垃圾箱，第一封不要附件，只放官网链接。对方回复后再发：
 
 ```text
@@ -137,6 +139,13 @@ framehide-x100vi-half-case-feature-overview.jpg
 framehide-x100vi-half-case-detail-sheet.jpg
 ```
 
+图片口径：
+
+- 第一封可以使用 `image/x100vi-pu-half-case/` 或 `email-attachments/` 里的产品图，但只称为 `product images` / `overview image`；
+- 不要把 AI 处理过的产品图称为 `real photos`；
+- 对方回复后，再发你自己拍的样品本体细节图，并称为 `real close-up photos of the sample itself`；
+- 如果使用 1688 商家图，先问供应商是否允许用于海外 B2B 客户介绍；发给客户时可称为 `supplier reference photos`，不要称为自己的实拍图。
+
 ---
 
 ## 4. 更短版本
@@ -144,14 +153,14 @@ framehide-x100vi-half-case-detail-sheet.jpg
 适合 Instagram DM、联系表单、LinkedIn、店铺网站的简短消息：
 
 ```text
-Hi [Name], I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company.
+Hi [Name], I’m Johnson from FrameHide, a small Hong Kong-based camera accessories supplier.
 
 We are building a small line of accessories for retro compact cameras, starting with a PU leather half case for the Fujifilm X100VI.
 
-Would you be open to reviewing a sample for your shop? I can send real photos first, and if it looks relevant, we can discuss one free sample and a small wholesale test option.
+Would you be open to reviewing a sample for your shop? I can send additional product images and real close-up photos of the sample itself first. If it looks relevant, we can discuss one free sample and a small wholesale test option.
 
 Product page:
-https://framehide.com
+https://www.framehide.com/en/products/x100vi-half-case
 
 If it is not relevant, no worries at all.
 ```
@@ -167,7 +176,7 @@ Hi [Name],
 
 Just checking if this could be relevant for your store.
 
-We can send real close-up photos first, so you do not need to judge only from polished product images. If the product looks suitable, we can discuss one sample for review and a small wholesale test.
+I can send additional product images and real close-up photos of the sample itself, so you do not need to judge only from polished product images. If the product looks suitable, we can discuss one sample for review and a small wholesale test.
 
 No pressure if it is not a fit.
 
@@ -186,7 +195,7 @@ Hi [Name],
 
 I will keep this short. We are looking for a few shops to test compact camera accessories, starting with the X100VI half case.
 
-If you would like to see real photos or sample terms, I can send them over.
+If you would like to see additional product images, real sample close-ups, or sample terms, I can send them over.
 
 If now is not the right time, no worries.
 
@@ -229,7 +238,7 @@ Thanks for your interest.
 
 Wholesale price:
 - PU half case only: from USD 9.90/pc for a small test order
-- PU half case with shoulder strap: from USD 12.90/set, photos available on request
+- PU half case with shoulder strap: from USD 12.90/set, product images available on the product page
 
 Suggested test quantity:
 10 pcs, mixed colors accepted
@@ -313,7 +322,7 @@ Johnson
   - `framehide-x100vi-half-case-coffee.jpg`
   - `framehide-x100vi-half-case-bottom-access.jpg`
 - 不要使用 `style referece/` 里的图片。
-- 可以使用 `image/` 产品图和你自己拍的真实样品图。
+- 可以使用 `image/x100vi-pu-half-case/` 产品图和你自己拍的真实样品图。
 
 ---
 

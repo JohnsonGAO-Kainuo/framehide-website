@@ -32,11 +32,15 @@
 
 你可以把香港公司作为对外商务主体，货物从深圳发出。
 
-对客户表达：
+对客户表达分两层：第一封开发信先用品牌口径，报价 / 发票 / 付款阶段再给法律主体。
 
 ```text
+First-touch email:
+FrameHide is a small Hong Kong-based camera accessories supplier.
+Samples and small wholesale orders are dispatched from Shenzhen, China via our logistics partner.
+
+Quote / invoice stage:
 FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company.
-Samples and small wholesale orders are dispatched from our logistics partner in Shenzhen, China.
 ```
 
 中文理解：
@@ -52,10 +56,7 @@ Samples and small wholesale orders are dispatched from our logistics partner in 
 ```text
 Johnson
 FrameHide
-Kainuo Innovision Tech Co., Limited
-Hong Kong
 WhatsApp: +852 9341 2653
-Website: https://framehide.com
 ```
 
 ---
@@ -703,7 +704,7 @@ Runs a camera shop with accessory shelf
 参考 `docs/04-outreach-logistics.md` 的“现金紧张期优先版”。关键句：
 
 ```text
-Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
+Would you be open to reviewing one sample for your shop? I can first send additional product images and real close-up photos of the sample itself. If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 ```
 
 ### 第 4.0 步：价格、MOQ 和官网口径
@@ -722,8 +723,8 @@ Would you be open to reviewing one sample for your shop? We can send real close-
 - 第一封邮件可以写 `Pilot wholesale pricing starts from USD 9.90/pc for small test orders.`；
 - 具体价格表等对方回复后再发；
 - 运费、进口税、当地费用默认不含在产品单价里；
-- 带肩带版本当前官网还没有完整图片和价格，不要在第一封里重点推；
-- 如果客户问，可以说 `A matching strap set is also available on request. I can send photos after you review the main case.`
+- 带肩带版本已作为同一产品的套装选项展示在产品页，但第一封不要重点推；
+- 如果客户问，可以说 `A matching strap set is also available on request. Product images are available on the product page, and I can send additional photos if useful.`
 
 建议对外口径：
 
@@ -732,7 +733,7 @@ Pilot wholesale price: from USD 9.90/pc for small test orders
 Trial MOQ: 10 pcs, mixed colors accepted
 Sample: 1 pc can be provided for review
 Shipping: confirmed before dispatch, depending on destination and sample/order size
-Product details: https://framehide.com
+Product details: https://www.framehide.com/en/products/x100vi-half-case
 ```
 
 不要写：
@@ -758,7 +759,7 @@ Best market price
 [Product]：当前产品名
 [Compatible Model]：兼容机型
 [Colors]：颜色
-[Website]：https://framehide.com
+[Website]：https://www.framehide.com/en/products/x100vi-half-case
 Sender name：Johnson
 [WhatsApp]：+852 9341 2653
 ```
@@ -766,13 +767,13 @@ Sender name：Johnson
 `[Observation]` 示例：
 
 ```text
-I saw that your store carries Fujifilm compact cameras and camera accessories.
-I noticed that your Instagram often features Fujifilm X100-series cameras.
+I found your shop while researching independent camera, film, used-camera, and accessory shops in [City/Country].
+Your store appears to serve camera or photography customers in [City/Country].
 I saw that your shop works with film and compact camera users, so this may be relevant.
 I noticed that you carry camera straps and small accessories, so I thought this might fit your accessory shelf.
 ```
 
-如果找不到任何真实观察，不要硬发。至少先确认这家店真的卖相机、相机配件、胶片机、富士/理光相关产品。
+如果找不到任何真实观察，不要硬写“你们卖 Fujifilm / Ricoh”。至少先确认这家店真的卖相机、相机配件、胶片机、摄影服务，或者是 Google Maps 搜索中出现的相关店铺。只有在官网/Instagram/Google 信息明确看到时，才写具体品牌。
 
 ### 第 4.2 步：标准可复用开发信模板（详细版）
 
@@ -783,15 +784,15 @@ Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company working on accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide, a small Hong Kong-based camera accessories supplier.
 
-I came across [Store Name] and noticed that [Observation]
+I came across [Store Name] while researching camera, film, used-camera, and accessory shops in [Country/City]. [Observation]
 
 We are currently testing a small wholesale line of camera accessories, starting with a PU leather half case compatible with the Fujifilm X100VI. It is designed as a simple add-on item for customers who already own the camera and want light protection with a cleaner look.
 
 We are not asking for a large order at this stage. Would you be open to reviewing one sample for your shop?
 
-We can send real close-up photos first. If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed, or credited against a first small order if you decide to test it.
+I can first send additional product images and real close-up photos of the sample itself. If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed, or credited against a first small order if you decide to test it.
 
 Basic details:
 - Product: PU leather camera half case
@@ -801,18 +802,17 @@ Basic details:
 - Trial MOQ: 10 pcs, mixed colors accepted
 - Sample: 1 pc can be provided for review
 - Shipping: samples and small wholesale orders are dispatched from Shenzhen, China via our logistics partner
-- Company: Kainuo Innovision Tech Co., Limited, Hong Kong
+- Brand location: Hong Kong
+- Dispatch: Shenzhen, China
 
 Product details:
-https://framehide.com
+https://www.framehide.com/en/products/x100vi-half-case
 
 If this is not relevant for your store, no worries — you can simply ignore this email and I will not keep following up repeatedly.
 
 Best regards,
 Johnson
 FrameHide
-Kainuo Innovision Tech Co., Limited
-Website: https://framehide.com
 WhatsApp: +852 9341 2653
 ```
 
@@ -821,6 +821,8 @@ WhatsApp: +852 9341 2653
 ```text
 第一封最多附 1 张：
 email-attachments/framehide-x100vi-half-case/framehide-x100vi-half-case-overview-three-colors.jpg
+
+不要第一封附 detail/spec sheet；感兴趣的人会点产品页，或回复后再看细节。
 
 如果担心进垃圾箱，第一封不附图，只放官网链接。
 对方回复后再发颜色图、细节图和真实图。
@@ -863,13 +865,13 @@ Subject: Sample offer: compact camera accessory for your shop
 
 Hi [Name],
 
-I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company working on accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide, a small Hong Kong-based camera accessories supplier.
 
-I came across [Store Name] and noticed that [Observation]
+I came across [Store Name] while researching camera, film, used-camera, and accessory shops in [Country/City]. [Observation]
 
 We are currently testing a PU leather half case compatible with the Fujifilm X100VI, available in Coffee, Green, and Black. I attached one overview image so you can quickly see the product style.
 
-Would you be open to reviewing one sample for your shop? We can send real close-up photos first, and if it looks relevant, we can provide one free sample for review. Shipping terms can be discussed, or credited against a first small order.
+Would you be open to reviewing one sample for your shop? I can first send additional product images and real close-up photos of the sample itself. If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed, or credited against a first small order.
 
 Basic details:
 - Product: PU leather camera half case
@@ -879,18 +881,17 @@ Basic details:
 - Trial MOQ: 10 pcs, mixed colors accepted
 - Sample: 1 pc can be provided for review
 - Shipping: samples and small wholesale orders are dispatched from Shenzhen, China via our logistics partner
-- Company: Kainuo Innovision Tech Co., Limited, Hong Kong
+- Brand location: Hong Kong
+- Dispatch: Shenzhen, China
 
 Product details:
-https://framehide.com
+https://www.framehide.com/en/products/x100vi-half-case
 
 If this is not relevant for your store, no worries — you can simply ignore this email and I will not keep following up repeatedly.
 
 Best regards,
 Johnson
 FrameHide
-Kainuo Innovision Tech Co., Limited
-Website: https://framehide.com
 WhatsApp: +852 9341 2653
 ```
 
@@ -900,8 +901,14 @@ WhatsApp: +852 9341 2653
 文件名：framehide-x100vi-half-case-overview-three-colors.jpg
 大小：控制在 300-800KB
 数量：第一封最多 1 张
-不要：压缩包、8 张大图、过度 AI 感图片
+不要：压缩包、8 张大图、detail/spec sheet、过度 AI 感图片
 ```
+
+图片口径：
+
+- 第一封用 `product images` / `overview image`，不要说成未经处理的真实实拍；
+- 对方回复后，再发你自己拍的样品本体细节图，称为 `real close-up photos of the sample itself`；
+- 1688 图片如需使用，先问供应商授权；对外称为 `supplier reference photos`，不要称为自己的实拍图。
 
 ### 第 4.5 步：更短版本
 
@@ -912,21 +919,19 @@ Subject: Free sample for your camera accessory shelf?
 
 Hi [Name],
 
-I’m Johnson from FrameHide. FrameHide is operated by Kainuo Innovision Tech Co., Limited, a Hong Kong company working on camera accessories for compact and retro-style cameras.
+I’m Johnson from FrameHide, a small Hong Kong-based camera accessories supplier.
 
-I noticed that [Observation]
+I came across [Store Name] while researching camera, film, used-camera, and accessory shops in [Country/City]. [Observation]
 
 We currently have a PU leather half case compatible with the Fujifilm X100VI, available in Coffee, Green, and Black. It may work as a simple add-on product for customers who already own the camera.
 
-Would you be open to seeing real close-up photos first? If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
+Would you be open to seeing additional product images and real close-up photos of the sample itself? If it looks relevant, we can provide one free sample for review. Shipping terms can be discussed or credited against a first small order.
 
 If this is not relevant, no worries — you can ignore this email and I will not keep following up repeatedly.
 
 Best,
 Johnson
 FrameHide
-Kainuo Innovision Tech Co., Limited
-Website: https://framehide.com
 WhatsApp: +852 9341 2653
 ```
 
@@ -953,7 +958,7 @@ Hi [Name],
 
 Just a quick follow-up in case my previous email got buried.
 
-Would it be useful if I send a few real photos of the X100VI-compatible PU half case? If it does not fit your shop, no problem at all.
+Would it be useful if I send a few additional product images and real close-up photos of the sample itself? If it does not fit your shop, no problem at all.
 
 Best,
 Johnson
@@ -983,7 +988,7 @@ Hi [Name],
 
 Thanks for getting back to me.
 
-I’m sharing a few real close-up photos here:
+I’m sharing a few real close-up photos of the sample itself here:
 - Front view
 - Back / bottom view
 - Battery door and tripod screw area
@@ -1033,7 +1038,7 @@ For a small wholesale test, our current pilot pricing is:
 Shipping is quoted separately before dispatch, depending on destination, quantity, and available shipping option. Local import duties/taxes, if any, are not included in the product price unless agreed separately.
 
 Product details:
-https://framehide.com
+https://www.framehide.com/en/products/x100vi-half-case
 
 If you can share the destination city and the quantity you would like to test, I can prepare a simple quote with product price, estimated shipping option, and lead time.
 

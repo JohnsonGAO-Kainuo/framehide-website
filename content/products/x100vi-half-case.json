@@ -12,6 +12,26 @@
     { "id": "green", "hex": "#5f6648", "image": "/assets/products/x100vi/sku-green.jpg" },
     { "id": "black", "hex": "#262320", "image": "/assets/products/x100vi/sku-black.jpg" }
   ],
+  "variants": [
+    {
+      "id": "case-only",
+      "image": "/assets/products/x100vi/sku-coffee.jpg",
+      "images": [
+        "/assets/products/x100vi/sku-coffee.jpg",
+        "/assets/products/x100vi/sku-green.jpg",
+        "/assets/products/x100vi/sku-black.jpg"
+      ]
+    },
+    {
+      "id": "strap-set",
+      "image": "/assets/products/x100vi/strap-set-coffee.jpg",
+      "images": [
+        "/assets/products/x100vi/strap-set-coffee.jpg",
+        "/assets/products/x100vi/strap-set-green.jpg",
+        "/assets/products/x100vi/strap-set-black.jpg"
+      ]
+    }
+  ],
   "gallery": [
     { "src": "/assets/products/x100vi/lifestyle-tripod.jpg", "ratio": "3/4" },
     { "src": "/assets/products/x100vi/lifestyle-trio.jpg", "ratio": "5/4" },
@@ -21,8 +41,23 @@
     "en": {
       "title": "Leather Half Case for Fujifilm X100VI",
       "tagline": "Protection that stays out of the way.",
-      "summary": "A snug half case that guards the base and corners of the X100VI while leaving every dial, port and battery within reach. Wear-resistant PU leather, neat stitching, and a magnetic base that opens for the battery without tools.",
+      "summary": "A snug half case that guards the base and corners of the X100VI while leaving every dial, port and battery within reach. Choose the case-only SKU or the matching shoulder strap set in Coffee, Olive, or Black.",
       "colorNames": { "coffee": "Coffee", "green": "Olive", "black": "Black" },
+      "variantsLabel": "Order options",
+      "variantsTitle": "Case-only, or ready to carry.",
+      "variantsBody": "Both options use the same fitted PU half case. The strap set simply adds a matching shoulder strap for shops that want a ready-to-carry SKU.",
+      "variantNames": {
+        "case-only": {
+          "title": "Half case only",
+          "body": "The core protective base cover for X100VI customers who already have a preferred strap.",
+          "meta": "Coffee / Olive / Black"
+        },
+        "strap-set": {
+          "title": "Half case + shoulder strap set",
+          "body": "A matching strap set for customers who want the case and carry setup together.",
+          "meta": "Available in the same three colours"
+        }
+      },
       "features": [
         { "title": "Quick battery access", "body": "The base opens on a magnet, so you swap batteries and cards without taking the case off." },
         { "title": "Magnetic base", "body": "Held shut by a hidden magnet. No flap, no snap, no fuss." },
@@ -36,7 +71,8 @@
           "label": "Build",
           "items": [
             ["Material", "PU leather"],
-            ["Finish", "Wear-resistant, shock absorbing"]
+            ["Finish", "Wear-resistant, shock absorbing"],
+            ["Options", "Half case only / strap set"]
           ]
         },
         {
@@ -51,7 +87,8 @@
           "label": "Mounting",
           "items": [
             ["Base", "1/4\" tripod thread"],
-            ["Colours", "Coffee, Olive, Black"]
+            ["Colours", "Coffee, Olive, Black"],
+            ["Strap set", "Available on request"]
           ]
         }
       ]
@@ -59,8 +96,23 @@
     "zh": {
       "title": "富士 X100VI 真皮半套",
       "tagline": "保护到位，又不挡手。",
-      "summary": "贴合的半套，护住 X100VI 的底部与边角，同时让每一个拨盘、接口和电池都触手可及。耐磨 PU 皮、工整走线，磁吸底座免工具即可开合换电池。",
+      "summary": "贴合的半套，护住 X100VI 的底部与边角，同时让每一个拨盘、接口和电池都触手可及。可选择半套单品，也可选择同色肩带套装，咖啡棕、橄榄绿、曜石黑三色可选。",
       "colorNames": { "coffee": "咖啡棕", "green": "橄榄绿", "black": "曜石黑" },
+      "variantsLabel": "订购选项",
+      "variantsTitle": "单买半套，或配同色肩带。",
+      "variantsBody": "两个选项使用同一款 X100VI 贴合半套。肩带套装只是增加同色肩带，更适合作为店铺里的完整携带套装。",
+      "variantNames": {
+        "case-only": {
+          "title": "半套单品",
+          "body": "适合已经有自己常用背带，只需要底部保护半套的 X100VI 用户。",
+          "meta": "咖啡棕 / 橄榄绿 / 曜石黑"
+        },
+        "strap-set": {
+          "title": "半套 + 肩带套装",
+          "body": "同色肩带搭配半套，适合想一次配齐保护与携带方案的客户。",
+          "meta": "同样支持三种颜色"
+        }
+      },
       "features": [
         { "title": "电池快拆", "body": "底座磁吸开合，不用脱套就能换电池、换卡。" },
         { "title": "磁吸底座", "body": "隐藏磁吸扣合，没有翻盖、没有按扣、不啰嗦。" },
@@ -74,7 +126,8 @@
           "label": "材质",
           "items": [
             ["皮料", "PU 皮"],
-            ["工艺", "耐磨、抗冲击"]
+            ["工艺", "耐磨、抗冲击"],
+            ["选项", "半套单品 / 肩带套装"]
           ]
         },
         {
@@ -89,7 +142,8 @@
           "label": "安装",
           "items": [
             ["底座", "1/4 英寸脚架孔"],
-            ["颜色", "咖啡棕 / 橄榄绿 / 曜石黑"]
+            ["颜色", "咖啡棕 / 橄榄绿 / 曜石黑"],
+            ["肩带款", "可按需提供"]
           ]
         }
       ]
@@ -97,8 +151,23 @@
     "zh-Hant": {
       "title": "富士 X100VI 真皮半套",
       "tagline": "保護到位，又不擋手。",
-      "summary": "貼合的半套，護住 X100VI 的底部與邊角，同時讓每一個撥盤、接口和電池都觸手可及。耐磨 PU 皮、工整走線，磁吸底座免工具即可開合換電池。",
+      "summary": "貼合的半套，護住 X100VI 的底部與邊角，同時讓每一個撥盤、接口和電池都觸手可及。可選半套單品，也可選同色肩帶套裝，咖啡棕、橄欖綠、曜石黑三色可選。",
       "colorNames": { "coffee": "咖啡棕", "green": "橄欖綠", "black": "曜石黑" },
+      "variantsLabel": "訂購選項",
+      "variantsTitle": "單買半套，或配同色肩帶。",
+      "variantsBody": "兩個選項使用同一款 X100VI 貼合半套。肩帶套裝只是增加同色肩帶，更適合作為店鋪裡的完整攜帶套裝。",
+      "variantNames": {
+        "case-only": {
+          "title": "半套單品",
+          "body": "適合已經有自己常用背帶，只需要底部保護半套的 X100VI 用戶。",
+          "meta": "咖啡棕 / 橄欖綠 / 曜石黑"
+        },
+        "strap-set": {
+          "title": "半套 + 肩帶套裝",
+          "body": "同色肩帶搭配半套，適合想一次配齊保護與攜帶方案的客戶。",
+          "meta": "同樣支援三種顏色"
+        }
+      },
       "features": [
         { "title": "電池快拆", "body": "底座磁吸開合，不用脫套就能換電池、換卡。" },
         { "title": "磁吸底座", "body": "隱藏磁吸扣合，沒有翻蓋、沒有按扣、不囉嗦。" },
@@ -112,7 +181,8 @@
           "label": "材質",
           "items": [
             ["皮料", "PU 皮"],
-            ["工藝", "耐磨、抗衝擊"]
+            ["工藝", "耐磨、抗衝擊"],
+            ["選項", "半套單品 / 肩帶套裝"]
           ]
         },
         {
@@ -127,7 +197,8 @@
           "label": "安裝",
           "items": [
             ["底座", "1/4 英吋腳架孔"],
-            ["顏色", "咖啡棕 / 橄欖綠 / 曜石黑"]
+            ["顏色", "咖啡棕 / 橄欖綠 / 曜石黑"],
+            ["肩帶款", "可按需提供"]
           ]
         }
       ]

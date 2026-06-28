@@ -12,6 +12,10 @@ export type ProductCopy = {
   tagline: string;
   summary: string;
   colorNames: Record<string, string>;
+  variantsLabel?: string;
+  variantsTitle?: string;
+  variantsBody?: string;
+  variantNames?: Record<string, { title: string; body: string; meta: string }>;
   features: { title: string; body: string }[];
   specGroups: { label: string; items: [string, string][] }[];
 };
@@ -26,6 +30,7 @@ export type Product = {
   featuresImage: string;
   detailSheet: string;
   colors: ProductColor[];
+  variants?: { id: string; image: string; images?: string[] }[];
   gallery: { src: string; ratio: string }[];
   i18n: Record<Locale, ProductCopy>;
 };

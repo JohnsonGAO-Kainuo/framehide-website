@@ -4,21 +4,31 @@
 
 ---
 
-## 1. `image/` —— 产品图（核心资产，必须用）
+## 1. `image/` —— 原始产品图根目录（核心资产，必须用）
+
+当前按品类建子目录，避免后续新品图片混在一起：
+
+```text
+image/
+└── x100vi-pu-half-case/
+```
 
 | 文件 | 内容 | 建议用途 |
 |---|---|---|
-| `产品图.png` | 棕色皮套·米色背景·主图 | **首页 Hero 主图 / 详情页主图** |
-| `sku-Brown.jpg` | 咖啡棕单色 | 颜色选择器 Coffee / 图集 |
-| `sku-Green.png` | 橄榄绿单色 | 颜色选择器 Green / 图集 |
-| `sku-Black.png` | 黑色单色 | 颜色选择器 Black / 图集 |
-| `3 color.png` | 三色并排 | “Color Options” 区块 |
-| `features at a Glance.jpg` | 卖点示意图 | **参考重做**成网页版卖点区（不直接贴图） |
-| `batch-1.jpg` | 绿色套上三脚架+咖啡的生活场景 | 生活方式 / Lookbook |
-| `with triple.jpg` | 三色/组合场景 | 生活方式 / 列表页 |
-| `产品详情图包括产品规格和细节.png` | 完整规格+细节信息图 | **规格数据的权威来源**；细节特写素材来源 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-hero-black-desk.png` | 黑色皮套·米色背景·主图 | **首页 Hero 主图 / 详情页主图** |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-sku-coffee.jpg` | 咖啡棕单色 | 颜色选择器 Coffee / 图集 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-sku-green.jpg` | 橄榄绿单色 | 颜色选择器 Green / 图集 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-sku-black.jpg` | 黑色单色 | 颜色选择器 Black / 图集 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-strap-set-coffee.jpg` | 咖啡棕半套 + 肩带 | 同产品的肩带套装 SKU / 详情页订购选项 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-strap-set-green.jpg` | 橄榄绿半套 + 肩带 | 同产品的肩带套装 SKU / 详情页订购选项 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-strap-set-black.png` | 黑色半套 + 肩带 | 同产品的肩带套装 SKU / 详情页订购选项 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-three-colors.png` | 三色并排 | “Color Options” 区块 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-feature-overview.jpg` | 卖点示意图 | **参考重做**成网页版卖点区（不直接贴图） |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-lifestyle-green-desk.jpg` | 绿色皮套·咖啡/桌面生活场景 | 生活方式 / Lookbook |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-lifestyle-green-tripod.jpg` | 绿色皮套·小三脚架生活场景 | 生活方式 / 列表页 |
+| `x100vi-pu-half-case/framehide-x100vi-half-case-detail-specs.png` | 完整规格+细节信息图 | **规格数据的权威来源**；细节特写素材来源 |
 
-> 处理建议：统一改成无空格/无中文的英文文件名（见下方目录规划），并**压缩**（PNG 多为 2MB+）。
+> 处理建议：原始产品图已统一为无空格/无中文的英文文件名，开发上线前仍需**压缩**（PNG 多为 2MB+）。
 
 ---
 
@@ -57,19 +67,24 @@
 public/assets/
 ├── products/
 │   └── x100vi/
-│       ├── hero.png            ← 产品图.png
-│       ├── sku-coffee.jpg      ← sku-Brown.jpg
-│       ├── sku-green.png       ← sku-Green.png
-│       ├── sku-black.png       ← sku-Black.png
-│       ├── three-colors.png    ← 3 color.png
-│       ├── lifestyle-tripod.jpg← batch-1.jpg
-│       └── spec-source.png     ← 产品详情图…（仅留存/参考，不一定上线原图）
+│       ├── hero.png            ← image/x100vi-pu-half-case/framehide-x100vi-half-case-hero-black-desk.png
+│       ├── sku-coffee.jpg      ← image/x100vi-pu-half-case/framehide-x100vi-half-case-sku-coffee.jpg
+│       ├── sku-green.jpg       ← image/x100vi-pu-half-case/framehide-x100vi-half-case-sku-green.jpg
+│       ├── sku-black.jpg       ← image/x100vi-pu-half-case/framehide-x100vi-half-case-sku-black.jpg
+│       ├── strap-set-coffee.jpg← image/x100vi-pu-half-case/framehide-x100vi-half-case-strap-set-coffee.jpg
+│       ├── strap-set-green.jpg ← image/x100vi-pu-half-case/framehide-x100vi-half-case-strap-set-green.jpg
+│       ├── strap-set-black.jpg ← image/x100vi-pu-half-case/framehide-x100vi-half-case-strap-set-black.png
+│       ├── three-colors.png    ← image/x100vi-pu-half-case/framehide-x100vi-half-case-three-colors.png
+│       ├── feature-overview.jpg← image/x100vi-pu-half-case/framehide-x100vi-half-case-feature-overview.jpg
+│       ├── lifestyle-desk.jpg  ← image/x100vi-pu-half-case/framehide-x100vi-half-case-lifestyle-green-desk.jpg
+│       ├── lifestyle-tripod.jpg← image/x100vi-pu-half-case/framehide-x100vi-half-case-lifestyle-green-tripod.jpg
+│       └── spec-source.png     ← image/x100vi-pu-half-case/framehide-x100vi-half-case-detail-specs.png（仅留存/参考，不一定上线原图）
 └── lifestyle/                  ← ref/ 去重压缩后的开源摄影图
     ├── arturo-anez-1.jpg
     └── ...
 ```
 
-> 原始素材保留在现有 `image/` `ref…/` `style referece/` 里不动；上线副本统一放 `public/assets/`，
+> 原始素材保留在 `image/{product-slug}/` `ref…/` `style referece/` 里；上线副本统一放 `public/assets/`，
 > 用英文小写、连字符命名，并压缩。这样代码引用稳定、可维护。
 
 ---
@@ -78,6 +93,8 @@ public/assets/
 
 - [ ] `ref/` 去重（删除重复的 iziumlab 副本）
 - [ ] 全部图片压缩（产品图 PNG 尤其大）
-- [ ] 重命名为英文 + 复制到 `public/assets/`
+- [x] 原始产品图重命名为英文文件名
+- [x] 原始产品图按品类移动到 `image/x100vi-pu-half-case/`
+- [ ] 复制压缩后的上线副本到 `public/assets/`
 - [ ] 页脚加 Unsplash 摄影师署名清单
-- [ ] 以 `产品详情图…` 为准，录入规格表数据到 `content/products/x100vi-half-case.json`
+- [ ] 以 `image/x100vi-pu-half-case/framehide-x100vi-half-case-detail-specs.png` 为准，录入规格表数据到 `content/products/x100vi-half-case.json`

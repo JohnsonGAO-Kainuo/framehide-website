@@ -46,12 +46,12 @@
 
 ## 3. 首页区块（从上到下）
 
-1. **Hero**：主推产品大图（`image/产品图.png`）+ 一句强品牌标语 + 主 CTA。
+1. **Hero**：主推产品大图（`image/x100vi-pu-half-case/framehide-x100vi-half-case-hero-black-desk.png`）+ 一句强品牌标语 + 主 CTA。
    - 背景可叠**极轻**胶片颗粒；用暖米底色。
 2. **品牌一句话**：我们是谁、为谁做（承接 About）。
 3. **主推产品**：X100VI 皮套，三色快速切换（Coffee / Green / Black）。
 4. **Features at a Glance**：电池快拆 / 磁吸底座 / 精准贴合 / 优质皮质 / 镂空底部 / 三脚架接口。
-   - 参考 `image/features at a Glance.jpg` 重做成网页版（不要直接贴图，要可响应）。
+   - 参考 `image/x100vi-pu-half-case/framehide-x100vi-half-case-feature-overview.jpg` 重做成网页版（不要直接贴图，要可响应）。
 5. **细节特写**：精细走线、皮料质感、精准开孔、贴合度（来自规格详情图）。
 6. **生活方式氛围**：用 `ref/` 开源摄影图点缀胶片质感（**零散嵌入、不聚成画廊；详见 `03-assets-map.md`**）。
 7. **社区 / 人味**：一人主理人的小故事 + 胶片文化态度（体现真实、可信）。
@@ -65,7 +65,7 @@
 - 图集（主图 + 多角度 + 细节）
 - **颜色选择器**：Coffee / Green / Black，切换主图
 - 卖点列表（icon + 短句）
-- **规格表**（来自 `image/产品详情图…`，作为权威数据源）：
+- **规格表**（来自 `image/x100vi-pu-half-case/framehide-x100vi-half-case-detail-specs.png`，作为权威数据源）：
 
   | 项 | 值 |
   |---|---|
@@ -99,6 +99,10 @@
     { "name": "Green",  "hex": "#6E7253", "image": "/assets/products/x100vi/sku-green.png" },
     { "name": "Black",  "hex": "#1E1B17", "image": "/assets/products/x100vi/sku-black.png" }
   ],
+  "variants": [
+    { "id": "case-only", "image": "/assets/products/x100vi/sku-coffee.jpg" },
+    { "id": "strap-set", "image": "/assets/products/x100vi/strap-set-coffee.jpg" }
+  ],
   "features": ["Quick Battery Access", "Magnetic Base Design", "Precision Fit",
                "Premium Leather Texture", "Hollow-out Bottom", "1/4\" Tripod Mount"],
   "gallery": ["...png", "...jpg"],
@@ -106,7 +110,7 @@
 }
 ```
 
-> 加“皮革背带 / 兔笼 / 镜头盖”时，只需新增一个 json + 几张图，列表页和详情页自动生成。
+> 同一产品下的不同销售组合（如半套单品 / 半套 + 肩带套装）放在 `variants`；真正新增品类（如皮革背带 / 兔笼 / 镜头盖）再新增一个 json + 几张图。
 
 ---
 
