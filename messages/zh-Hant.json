@@ -177,7 +177,35 @@
     "responseNote": "每條消息都是一個人在看，通常一兩天內回覆。",
     "emailSubject": "FrameHide 官網諮詢",
     "emailTemplate": "你好，我對 FrameHide 的產品很感興趣！\n我的相機型號：\n想要的顏色：\n寄送國家/地區：\n",
-    "whatsappTemplate": "你好，我對 FrameHide 的產品很感興趣！我的型號/顏色是："
+    "whatsappTemplate": "你好，我對 FrameHide 的產品很感興趣！我的型號/顏色是：",
+    "form": {
+      "title": "發送諮詢",
+      "body": "把產品、機型、國家/地區和預計數量寫清楚。我們會透過郵件回覆。",
+      "requiredNote": "必填：姓名、郵箱、留言。",
+      "nameLabel": "姓名",
+      "namePlaceholder": "你的姓名",
+      "emailLabel": "郵箱",
+      "emailPlaceholder": "you@example.com",
+      "companyLabel": "公司或店鋪",
+      "companyPlaceholder": "可選",
+      "countryLabel": "國家或地區",
+      "countryPlaceholder": "澳洲、新加坡、馬來西亞...",
+      "interestLabel": "產品或相機型號",
+      "interestPlaceholder": "X100VI 半套、緊湊相機小包...",
+      "messageLabel": "留言",
+      "messagePlaceholder": "告訴我們想測試的產品、顏色、數量，或其他問題。",
+      "submit": "發送諮詢",
+      "sending": "發送中...",
+      "successTitle": "已發送。",
+      "successBody": "謝謝。我們會盡快透過郵件回覆。",
+      "errorTitle": "未發送。",
+      "errorBody": "表單發送時出了問題。",
+      "configError": "表單郵件服務尚未配置完成。",
+      "fallbackIntro": "請先使用郵箱或 WhatsApp。剛才這條表單內容沒有透過網站發送。",
+      "openEmail": "打開郵箱",
+      "openWhatsApp": "打開 WhatsApp",
+      "honeypotLabel": "網站"
+    }
   },
   "wholesale": {
     "meta": {

@@ -177,7 +177,35 @@
     "responseNote": "Our dedicated team reads every message. We aim to reply within 24 hours.",
     "emailSubject": "Enquiry from FrameHide",
     "emailTemplate": "Hi FrameHide, I'm interested in:\nCamera:\nColour:\nCountry:\n",
-    "whatsappTemplate": "Hi FrameHide, I'm interested in a leather case. Camera / colour:"
+    "whatsappTemplate": "Hi FrameHide, I'm interested in a leather case. Camera / colour:",
+    "form": {
+      "title": "Send an enquiry",
+      "body": "Share the product, camera model, country, and quantity if relevant. We will reply by email.",
+      "requiredNote": "Required fields: name, email, message.",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "companyLabel": "Company or store",
+      "companyPlaceholder": "Optional",
+      "countryLabel": "Country or region",
+      "countryPlaceholder": "Australia, Singapore, Malaysia...",
+      "interestLabel": "Product or camera model",
+      "interestPlaceholder": "X100VI half case, compact camera pouch...",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us what you want to test, the colour, quantity, or any questions.",
+      "submit": "Send enquiry",
+      "sending": "Sending...",
+      "successTitle": "Sent.",
+      "successBody": "Thanks. We will reply by email as soon as possible.",
+      "errorTitle": "Not sent.",
+      "errorBody": "Something went wrong while sending the form.",
+      "configError": "The form email service is not configured yet.",
+      "fallbackIntro": "Please use email or WhatsApp for now. Your message has not been sent through the form.",
+      "openEmail": "Open email",
+      "openWhatsApp": "Open WhatsApp",
+      "honeypotLabel": "Website"
+    }
   },
   "wholesale": {
     "meta": {

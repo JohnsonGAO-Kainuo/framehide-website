@@ -177,7 +177,35 @@
     "responseNote": "每条消息都是一个人在看，通常一两天内回复。",
     "emailSubject": "FrameHide 官网咨询",
     "emailTemplate": "你好，我对 FrameHide 的产品很感兴趣！\n我的相机型号：\n想要的颜色：\n寄送国家/地区：\n",
-    "whatsappTemplate": "你好，我对 FrameHide 的产品很感兴趣！我的型号/颜色是："
+    "whatsappTemplate": "你好，我对 FrameHide 的产品很感兴趣！我的型号/颜色是：",
+    "form": {
+      "title": "发送咨询",
+      "body": "把产品、机型、国家/地区和预计数量写清楚。我们会通过邮件回复。",
+      "requiredNote": "必填：姓名、邮箱、留言。",
+      "nameLabel": "姓名",
+      "namePlaceholder": "你的姓名",
+      "emailLabel": "邮箱",
+      "emailPlaceholder": "you@example.com",
+      "companyLabel": "公司或店铺",
+      "companyPlaceholder": "可选",
+      "countryLabel": "国家或地区",
+      "countryPlaceholder": "澳大利亚、新加坡、马来西亚...",
+      "interestLabel": "产品或相机型号",
+      "interestPlaceholder": "X100VI 半套、紧凑相机小包...",
+      "messageLabel": "留言",
+      "messagePlaceholder": "告诉我们想测试的产品、颜色、数量，或其他问题。",
+      "submit": "发送咨询",
+      "sending": "发送中...",
+      "successTitle": "已发送。",
+      "successBody": "谢谢。我们会尽快通过邮件回复。",
+      "errorTitle": "未发送。",
+      "errorBody": "表单发送时出了问题。",
+      "configError": "表单邮件服务还没有配置完成。",
+      "fallbackIntro": "请先使用邮箱或 WhatsApp。刚才这条表单内容没有通过网站发送。",
+      "openEmail": "打开邮箱",
+      "openWhatsApp": "打开 WhatsApp",
+      "honeypotLabel": "网站"
+    }
   },
   "wholesale": {
     "meta": {

@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { EnvelopeSimple, WhatsappLogo, ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
 import { Reveal } from "@/components/Reveal";
+import { ContactForm } from "@/components/ContactForm";
 import { Link } from "@/i18n/navigation";
 import { site, mailtoLink, whatsappLink } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
@@ -54,6 +55,17 @@ export default async function ContactPage({
               className="object-cover film opacity-95 hover:scale-105 transition-transform duration-700 ease-out"
             />
           </div>
+        </Reveal>
+      </section>
+
+      <section className="mx-auto max-w-[980px] px-5 pb-16 sm:px-8">
+        <Reveal>
+          <ContactForm
+            copy={t.raw("form")}
+            locale={locale}
+            emailHref={emailHref}
+            whatsappHref={waHref}
+          />
         </Reveal>
       </section>
 

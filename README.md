@@ -8,7 +8,7 @@ by Stripe link or bank transfer.
 
 - Next.js 15 (App Router, `src/`)
 - Tailwind CSS v4
-- next-intl (English default + 中文)
+- next-intl (English default + 简体中文 + 繁體中文)
 - Motion (scroll reveals, respects reduced motion)
 - Deploy: Vercel
 
@@ -34,8 +34,20 @@ Edit [`src/lib/site.ts`](src/lib/site.ts):
 Until `whatsappDigits` is set, the WhatsApp button opens the generic wa.me page
 and the display reads "WhatsApp (number coming soon)".
 
-### 2. Site copy (both languages)
-- UI strings: [`messages/en.json`](messages/en.json) and [`messages/zh.json`](messages/zh.json)
+### Contact form email delivery
+The contact form posts to `/api/contact`. It only sends real email after these
+environment variables are configured in Vercel:
+
+- `RESEND_API_KEY` — Resend API key.
+- `CONTACT_TO_EMAIL` — inbox that receives form submissions.
+- `CONTACT_FROM_EMAIL` — verified sender in Resend, for example `FrameHide <hello@framehide.com>`.
+
+If these variables are missing, the form shows a fallback message and asks the
+visitor to use email or WhatsApp.
+
+### 2. Site copy (all languages)
+- UI strings: [`messages/en.json`](messages/en.json), [`messages/zh.json`](messages/zh.json),
+  and [`messages/zh-Hant.json`](messages/zh-Hant.json)
 - Product copy (titles, features, specs): in the product JSON, see below.
 
 ### 3. Add a new product
