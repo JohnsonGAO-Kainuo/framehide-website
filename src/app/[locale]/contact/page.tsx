@@ -51,6 +51,7 @@ export default async function ContactPage({
               src="/assets/lifestyle_extended/hands-holding-cam.jpg"
               alt="Contact us"
               fill
+              priority
               sizes="(max-width: 1024px) 100vw, 45vw"
               className="object-cover film opacity-95 hover:scale-105 transition-transform duration-700 ease-out"
             />

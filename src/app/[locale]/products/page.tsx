@@ -53,6 +53,7 @@ export default async function ProductsPage({
                       src={product.editorial}
                       alt={copy.title}
                       fill
+                      priority={i < 2}
                       sizes="(max-width: 768px) 100vw, 520px"
                       className="object-cover film-soft transition-transform duration-[1400ms] ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-105"
                     />
