@@ -41,6 +41,7 @@
     "en": {
       "title": "PU Leather Half Case for Fujifilm X100VI",
       "tagline": "Protection that stays out of the way.",
+      "cardFit": "Fits Fujifilm X100VI",
       "summary": "A snug half case that guards the base and corners of the X100VI while leaving every dial, port and battery within reach. Choose the case-only SKU or the matching shoulder strap set in Coffee, Olive, or Black.",
       "colorNames": { "coffee": "Coffee", "green": "Olive", "black": "Black" },
       "variantsLabel": "Option",
@@ -96,6 +97,7 @@
     "zh": {
       "title": "富士 X100VI PU 皮半套",
       "tagline": "保护到位，又不挡手。",
+      "cardFit": "适配富士 X100VI",
       "summary": "贴合的半套，护住 X100VI 的底部与边角，同时让每一个拨盘、接口和电池都触手可及。可选择半套单品，也可选择同色肩带套装，咖啡棕、橄榄绿、曜石黑三色可选。",
       "colorNames": { "coffee": "咖啡棕", "green": "橄榄绿", "black": "曜石黑" },
       "variantsLabel": "选项",
@@ -151,6 +153,7 @@
     "zh-Hant": {
       "title": "富士 X100VI PU 皮半套",
       "tagline": "保護到位，又不擋手。",
+      "cardFit": "適配富士 X100VI",
       "summary": "貼合的半套，護住 X100VI 的底部與邊角，同時讓每一個撥盤、接口和電池都觸手可及。可選半套單品，也可選同色肩帶套裝，咖啡棕、橄欖綠、曜石黑三色可選。",
       "colorNames": { "coffee": "咖啡棕", "green": "橄欖綠", "black": "曜石黑" },
       "variantsLabel": "選項",

@@ -62,6 +62,9 @@ export default async function ProductsPage({
                       <h2 className="font-display text-[clamp(1.45rem,2.3vw,2rem)] leading-tight text-ink">
                         {copy.title}
                       </h2>
+                      <p className="mt-3 max-w-md text-[0.7rem] font-medium uppercase tracking-[0.18em] text-coffee">
+                        {copy.cardFit}
+                      </p>
                       <p className="mt-3 max-w-md text-sm leading-relaxed text-ink-soft">
                         {copy.tagline}
                       </p>

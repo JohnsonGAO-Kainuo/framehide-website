@@ -17,6 +17,7 @@ export type ProductVariant = {
 export type ProductCopy = {
   title: string;
   tagline: string;
+  cardFit: string;
   summary: string;
   colorNames: Record<string, string>;
   variantsLabel?: string;
