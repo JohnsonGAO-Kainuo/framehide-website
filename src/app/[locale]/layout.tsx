@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     default: "FrameHide",
     template: "%s",
   },
-  description: "Hand-finished leather half cases for the Fujifilm X100VI.",
+  description: "Compact camera half cases, pouches, straps, and small carry accessories from FrameHide.",
 };
 
 export function generateStaticParams() {

@@ -20,9 +20,9 @@
   ],
   "i18n": {
     "en": {
-      "title": "Retro Camera Pouch for Fujifilm X100 Series",
+      "title": "Retro Compact Camera Pouch",
       "tagline": "A compact carry case with a built-in lens bump.",
-      "summary": "A PU leather camera pouch made for retro compact and fixed-lens cameras in the Fujifilm X100 / X10 / X20 / X30 size range. It includes a curved shoulder strap, a soft polyester-cotton lining, and four shop-friendly colourways. Fit should be confirmed against camera dimensions before ordering.",
+      "summary": "A PU leather camera pouch made for retro compact and fixed-lens cameras around the Fujifilm X100 / X10 / X20 / X30 size range and similar models. It includes a curved shoulder strap, a soft polyester-cotton lining, and four shop-friendly colourways. Fit should be confirmed against camera dimensions before ordering.",
       "colorNames": {
         "coffee": "Coffee",
         "light-brown": "Light Brown",
@@ -49,7 +49,7 @@
         {
           "label": "Fit",
           "items": [
-            ["Camera range", "X100 / X10 / X20 / X30 size range"],
+            ["Camera range", "X100 / X10 / X20 / X30 and similar compact cameras"],
             ["Exterior", "13 × 9.5 × 5 cm"],
             ["Interior", "12.5 × 7.5 × 3.5 cm"]
           ]
@@ -65,9 +65,9 @@
       ]
     },
     "zh": {
-      "title": "复古紧凑相机皮套包",
+      "title": "复古紧凑相机小包",
       "tagline": "带镜头位凸起的小型相机携带包。",
-      "summary": "PU 皮革相机皮套包，适合富士 X100 / X10 / X20 / X30 尺寸段的复古紧凑相机和固定镜头相机。包含弧形肩带、柔软涤棉内衬，并提供四种适合店铺陈列的颜色。下单前建议按相机尺寸确认适配。",
+      "summary": "PU 皮革相机小包，适合富士 X100 / X10 / X20 / X30 尺寸段及相近的复古紧凑相机、固定镜头相机。包含弧形肩带、柔软涤棉内衬，并提供四种适合店铺陈列的颜色。下单前建议按相机实际尺寸确认适配。",
       "colorNames": {
         "coffee": "咖啡色",
         "light-brown": "浅棕色",
@@ -75,11 +75,11 @@
         "green": "复古绿"
       },
       "features": [
-        { "title": "小型携带包形态", "body": "适合作为紧凑相机客户的保护与携带加购小件。" },
-        { "title": "镜头位凸起", "body": "前盖预留镜头空间，更适合固定镜头相机的外形，不会显得过度臃肿。" },
+        { "title": "小型携带包形态", "body": "适合作为紧凑相机用户的轻量保护与携带加购小件。" },
+        { "title": "镜头位凸起", "body": "前盖预留镜头空间，更适合固定镜头相机外形，不会显得过度臃肿。" },
         { "title": "开口拿取", "body": "打开后取放相机更直接，不需要像紧身保护套一样反复塞入。" },
-        { "title": "包含肩带", "body": "每个套装包含同色系弧形肩带，适合作为完整携带套装销售。" },
-        { "title": "PU 皮革外壳", "body": "耐磨、好打理，复古皮纹也更贴合紧凑相机用户的审美。" },
+        { "title": "包含肩带", "body": "每个套装包含同色系弧形肩带，适合作为完整携带方案销售。" },
+        { "title": "PU 皮革外壳", "body": "耐磨、好打理，复古皮纹更贴合紧凑相机用户的审美。" },
         { "title": "柔软内衬", "body": "涤棉内衬能减少日常携带中的轻微摩擦。" }
       ],
       "specGroups": [
@@ -94,7 +94,7 @@
         {
           "label": "尺寸",
           "items": [
-            ["适配范围", "X100 / X10 / X20 / X30 尺寸段"],
+            ["适配范围", "X100 / X10 / X20 / X30 尺寸段及相近紧凑相机"],
             ["外部尺寸", "13 × 9.5 × 5 cm"],
             ["内部尺寸", "12.5 × 7.5 × 3.5 cm"]
           ]
@@ -110,9 +110,9 @@
       ]
     },
     "zh-Hant": {
-      "title": "復古緊湊相機皮套包",
+      "title": "復古緊湊相機小包",
       "tagline": "帶鏡頭位凸起的小型相機攜帶包。",
-      "summary": "PU 皮革相機皮套包，適合富士 X100 / X10 / X20 / X30 尺寸段的復古緊湊相機和固定鏡頭相機。包含弧形肩帶、柔軟滌棉內襯，並提供四種適合店鋪陳列的顏色。下單前建議按相機尺寸確認適配。",
+      "summary": "PU 皮革相機小包，適合富士 X100 / X10 / X20 / X30 尺寸段及相近的復古緊湊相機、固定鏡頭相機。包含弧形肩帶、柔軟滌棉內襯，並提供四種適合店鋪陳列的顏色。下單前建議按相機實際尺寸確認適配。",
       "colorNames": {
         "coffee": "咖啡色",
         "light-brown": "淺棕色",
@@ -120,11 +120,11 @@
         "green": "復古綠"
       },
       "features": [
-        { "title": "小型攜帶包形態", "body": "適合作為緊湊相機客戶的保護與攜帶加購小件。" },
-        { "title": "鏡頭位凸起", "body": "前蓋預留鏡頭空間，更適合固定鏡頭相機的外形，不會顯得過度臃腫。" },
+        { "title": "小型攜帶包形態", "body": "適合作為緊湊相機用戶的輕量保護與攜帶加購小件。" },
+        { "title": "鏡頭位凸起", "body": "前蓋預留鏡頭空間，更適合固定鏡頭相機外形，不會顯得過度臃腫。" },
         { "title": "開口拿取", "body": "打開後取放相機更直接，不需要像緊身保護套一樣反覆塞入。" },
-        { "title": "包含肩帶", "body": "每個套裝包含同色系弧形肩帶，適合作為完整攜帶套裝銷售。" },
-        { "title": "PU 皮革外殼", "body": "耐磨、好打理，復古皮紋也更貼合緊湊相機用戶的審美。" },
+        { "title": "包含肩帶", "body": "每個套裝包含同色系弧形肩帶，適合作為完整攜帶方案銷售。" },
+        { "title": "PU 皮革外殼", "body": "耐磨、好打理，復古皮紋更貼合緊湊相機用戶的審美。" },
         { "title": "柔軟內襯", "body": "滌棉內襯能減少日常攜帶中的輕微摩擦。" }
       ],
       "specGroups": [
@@ -139,7 +139,7 @@
         {
           "label": "尺寸",
           "items": [
-            ["適配範圍", "X100 / X10 / X20 / X30 尺寸段"],
+            ["適配範圍", "X100 / X10 / X20 / X30 尺寸段及相近緊湊相機"],
             ["外部尺寸", "13 × 9.5 × 5 cm"],
             ["內部尺寸", "12.5 × 7.5 × 3.5 cm"]
           ]
