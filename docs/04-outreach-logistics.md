@@ -105,6 +105,7 @@ FrameHide
 |---|---:|---:|---:|
 | PU half case only | RMB 30 左右 | from USD 9.90 / pc | 10 pcs，可混色 |
 | PU half case with shoulder strap | RMB 38 左右 | from USD 12.90 / set | 10 sets，可混色 |
+| Retro camera pouch with strap | RMB 30 左右 | from USD 10.90 / pc | 10 pcs，可混色 |
 
 注意：
 
@@ -112,6 +113,7 @@ FrameHide
 - 进口税费和当地费用不包含在产品单价里；
 - 带肩带版本已作为同一产品的套装选项展示在产品页，但第一封仍不要重点推，避免信息过载；
 - 如果客户问，再说 `A matching strap set is also available on request. Product images are available on the product page, and I can send additional photos if useful.`
+- 新增复古紧凑相机皮套包不要和 X100VI 半套塞进同一封第一封开发信；需要主推时用 `docs/07-retro-camera-pouch-launch.md` 的单独模板。
 
 ### 邮件附件图片
 

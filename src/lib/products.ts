@@ -1,4 +1,5 @@
 import x100vi from "@content/products/x100vi-half-case.json";
+import retroCameraPouch from "@content/products/retro-camera-pouch.json";
 import type { Locale } from "@/i18n/routing";
 
 export type ProductColor = {
@@ -41,7 +42,7 @@ export type Product = {
   i18n: Record<Locale, ProductCopy>;
 };
 
-const products = [x100vi] as unknown as Product[];
+const products = [x100vi, retroCameraPouch] as unknown as Product[];
 
 export function getAllProducts(): Product[] {
   return [...products].sort((a, b) => a.order - b.order);

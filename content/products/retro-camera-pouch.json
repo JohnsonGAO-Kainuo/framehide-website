@@ -1,0 +1,158 @@
+{
+  "slug": "retro-camera-pouch",
+  "category": "camera-pouch",
+  "order": 2,
+  "hero": "/assets/products/retro-camera-pouch/sku-coffee.jpg",
+  "editorial": "/assets/products/retro-camera-pouch/open-camera.jpg",
+  "threeColors": "/assets/products/retro-camera-pouch/detail-sheet.jpg",
+  "featuresImage": "/assets/products/retro-camera-pouch/open-top.jpg",
+  "detailSheet": "/assets/products/retro-camera-pouch/detail-sheet.jpg",
+  "colors": [
+    { "id": "coffee", "hex": "#70452b", "image": "/assets/products/retro-camera-pouch/sku-coffee.jpg" },
+    { "id": "light-brown", "hex": "#b16a32", "image": "/assets/products/retro-camera-pouch/sku-light-brown.jpg" },
+    { "id": "black", "hex": "#24211f", "image": "/assets/products/retro-camera-pouch/sku-black.jpg" },
+    { "id": "green", "hex": "#62715f", "image": "/assets/products/retro-camera-pouch/sku-green.jpg" }
+  ],
+  "gallery": [
+    { "src": "/assets/products/retro-camera-pouch/lifestyle-light-brown.jpg", "ratio": "1/1" },
+    { "src": "/assets/products/retro-camera-pouch/open-top.jpg", "ratio": "1/1" },
+    { "src": "/assets/products/retro-camera-pouch/open-camera.jpg", "ratio": "1/1" }
+  ],
+  "i18n": {
+    "en": {
+      "title": "Retro Camera Pouch for Fujifilm X100 Series",
+      "tagline": "A compact carry case with a built-in lens bump.",
+      "summary": "A PU leather camera pouch made for retro compact and fixed-lens cameras in the Fujifilm X100 / X10 / X20 / X30 size range. It includes a curved shoulder strap, a soft polyester-cotton lining, and four shop-friendly colourways. Fit should be confirmed against camera dimensions before ordering.",
+      "colorNames": {
+        "coffee": "Coffee",
+        "light-brown": "Light Brown",
+        "black": "Black",
+        "green": "Green"
+      },
+      "features": [
+        { "title": "Compact carry format", "body": "A small pouch form that works as a simple protection-and-carry add-on for compact camera customers." },
+        { "title": "Built-in lens bump", "body": "The raised front cover leaves extra room for fixed-lens camera shapes without making the case feel bulky." },
+        { "title": "Open-top access", "body": "The case opens wide, so customers can take the camera in and out without fighting a tight sleeve." },
+        { "title": "Shoulder strap included", "body": "Each unit comes with a matching curved shoulder strap, making it ready to sell as a complete carry set." },
+        { "title": "PU leather shell", "body": "Wear-resistant and easy to wipe clean, with a retro texture that suits compact camera users." },
+        { "title": "Soft inner lining", "body": "Polyester-cotton lining helps reduce daily scuffs when the camera is carried in the pouch." }
+      ],
+      "specGroups": [
+        {
+          "label": "Build",
+          "items": [
+            ["Material", "PU leather"],
+            ["Lining", "Polyester-cotton"],
+            ["Includes", "Camera pouch + shoulder strap"]
+          ]
+        },
+        {
+          "label": "Fit",
+          "items": [
+            ["Camera range", "X100 / X10 / X20 / X30 size range"],
+            ["Exterior", "13 × 9.5 × 5 cm"],
+            ["Interior", "12.5 × 7.5 × 3.5 cm"]
+          ]
+        },
+        {
+          "label": "Wholesale",
+          "items": [
+            ["Net weight", "Approx. 140 g"],
+            ["Packed weight", "Approx. 190 g"],
+            ["Fit note", "Confirm dimensions before order"]
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "title": "复古紧凑相机皮套包",
+      "tagline": "带镜头位凸起的小型相机携带包。",
+      "summary": "PU 皮革相机皮套包，适合富士 X100 / X10 / X20 / X30 尺寸段的复古紧凑相机和固定镜头相机。包含弧形肩带、柔软涤棉内衬，并提供四种适合店铺陈列的颜色。下单前建议按相机尺寸确认适配。",
+      "colorNames": {
+        "coffee": "咖啡色",
+        "light-brown": "浅棕色",
+        "black": "黑色",
+        "green": "复古绿"
+      },
+      "features": [
+        { "title": "小型携带包形态", "body": "适合作为紧凑相机客户的保护与携带加购小件。" },
+        { "title": "镜头位凸起", "body": "前盖预留镜头空间，更适合固定镜头相机的外形，不会显得过度臃肿。" },
+        { "title": "开口拿取", "body": "打开后取放相机更直接，不需要像紧身保护套一样反复塞入。" },
+        { "title": "包含肩带", "body": "每个套装包含同色系弧形肩带，适合作为完整携带套装销售。" },
+        { "title": "PU 皮革外壳", "body": "耐磨、好打理，复古皮纹也更贴合紧凑相机用户的审美。" },
+        { "title": "柔软内衬", "body": "涤棉内衬能减少日常携带中的轻微摩擦。" }
+      ],
+      "specGroups": [
+        {
+          "label": "材质",
+          "items": [
+            ["外层", "PU 皮革"],
+            ["内衬", "涤棉"],
+            ["包含", "相机包 + 肩带"]
+          ]
+        },
+        {
+          "label": "尺寸",
+          "items": [
+            ["适配范围", "X100 / X10 / X20 / X30 尺寸段"],
+            ["外部尺寸", "13 × 9.5 × 5 cm"],
+            ["内部尺寸", "12.5 × 7.5 × 3.5 cm"]
+          ]
+        },
+        {
+          "label": "批发",
+          "items": [
+            ["净重", "约 140 g"],
+            ["包装重量", "约 190 g"],
+            ["适配备注", "下单前按尺寸确认"]
+          ]
+        }
+      ]
+    },
+    "zh-Hant": {
+      "title": "復古緊湊相機皮套包",
+      "tagline": "帶鏡頭位凸起的小型相機攜帶包。",
+      "summary": "PU 皮革相機皮套包，適合富士 X100 / X10 / X20 / X30 尺寸段的復古緊湊相機和固定鏡頭相機。包含弧形肩帶、柔軟滌棉內襯，並提供四種適合店鋪陳列的顏色。下單前建議按相機尺寸確認適配。",
+      "colorNames": {
+        "coffee": "咖啡色",
+        "light-brown": "淺棕色",
+        "black": "黑色",
+        "green": "復古綠"
+      },
+      "features": [
+        { "title": "小型攜帶包形態", "body": "適合作為緊湊相機客戶的保護與攜帶加購小件。" },
+        { "title": "鏡頭位凸起", "body": "前蓋預留鏡頭空間，更適合固定鏡頭相機的外形，不會顯得過度臃腫。" },
+        { "title": "開口拿取", "body": "打開後取放相機更直接，不需要像緊身保護套一樣反覆塞入。" },
+        { "title": "包含肩帶", "body": "每個套裝包含同色系弧形肩帶，適合作為完整攜帶套裝銷售。" },
+        { "title": "PU 皮革外殼", "body": "耐磨、好打理，復古皮紋也更貼合緊湊相機用戶的審美。" },
+        { "title": "柔軟內襯", "body": "滌棉內襯能減少日常攜帶中的輕微摩擦。" }
+      ],
+      "specGroups": [
+        {
+          "label": "材質",
+          "items": [
+            ["外層", "PU 皮革"],
+            ["內襯", "滌棉"],
+            ["包含", "相機包 + 肩帶"]
+          ]
+        },
+        {
+          "label": "尺寸",
+          "items": [
+            ["適配範圍", "X100 / X10 / X20 / X30 尺寸段"],
+            ["外部尺寸", "13 × 9.5 × 5 cm"],
+            ["內部尺寸", "12.5 × 7.5 × 3.5 cm"]
+          ]
+        },
+        {
+          "label": "批發",
+          "items": [
+            ["淨重", "約 140 g"],
+            ["包裝重量", "約 190 g"],
+            ["適配備註", "下單前按尺寸確認"]
+          ]
+        }
+      ]
+    }
+  }
+}
