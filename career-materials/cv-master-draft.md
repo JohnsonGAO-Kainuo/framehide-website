@@ -46,8 +46,8 @@ Project Assistant, Project Management Team
 
 - Supported the project management team in coordinating multiple healthcare technology projects across management, project teams, software, hardware, AI and finance-related support functions; tracked milestones, dependencies, action items and resource needs.
 - Organised project meetings, prepared agendas and minutes, followed up owners and deadlines, and converted technical and operational updates into structured management reports.
-- Coordinated progress updates for medical imaging projects involving neck and thyroid scanning workflows, automated image segmentation and image denoising.
-- Cleaned and organised clinical research and community programme data using Excel functions and PivotTables, and built dynamic Excel/Tableau dashboards with filters, PivotCharts and management-facing reports.
+- Supported follow-up across multiple healthcare project workstreams; one representative workstream involved neck and thyroid imaging workflows, automated image segmentation and image denoising.
+- Coordinated with clinical research and community programme teams to collect, clean and organise project data using Excel functions and PivotTables, and built dynamic Excel/Tableau dashboards with filters, PivotCharts and management-facing reports.
 
 EDUCATION
 
@@ -98,8 +98,8 @@ JOHNSON ZIKAI GAO
 
 - 支持项目管理团队协调多个医疗科技项目，对接管理层、项目团队，以及软件、硬件、AI 和财务相关支持部门，并跟进里程碑、依赖关系、行动事项和资源需求。
 - 组织项目会议，准备会议议程和会议记录，追踪负责人及截止时间，并将技术和运营更新整理为结构化管理报告。
-- 协调医学影像项目的进度更新，涉及颈部及甲状腺扫描流程、图像自动分割和图像降噪。
-- 使用 Excel 函数和数据透视表清洗、整理临床研究及社区项目数据，并通过 Excel/Tableau 搭建带筛选器、数据透视图和管理层视图的动态看板。
+- 跟进多个医疗科技项目的不同工作线；其中一个代表性项目涉及颈部及甲状腺影像流程、图像自动分割和图像降噪。
+- 与临床研究及社区项目团队协作收集、清洗和整理项目数据，使用 Excel 函数和数据透视表处理数据，并通过 Excel/Tableau 搭建带筛选器、数据透视图和管理层视图的动态看板。
 
 教育背景
 
