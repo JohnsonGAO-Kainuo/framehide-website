@@ -1,6 +1,6 @@
 # Johnson Gao Master CV Draft
 
-This is the recommended general CV source. It follows the single-column, black-and-white structure of the previous CV while replacing outdated sections with current, verifiable experience.
+This is the recommended general CV source for external trade, business development, operations and project-support roles. It follows the single-column, black-and-white structure of the previous CV while replacing outdated sections with current, verifiable experience.
 
 ## 1. How the Previous Template Should Change
 
@@ -29,24 +29,24 @@ The visual style can remain close to the original:
 ```text
 JOHNSON ZIKAI GAO
 Hong Kong | +852 9341 2653 | [Professional Email] | [LinkedIn URL]
-Portfolio: www.kainuotech.com | www.framehide.com
+Portfolio: www.framehide.com | www.kainuotech.com
 
 WORK EXPERIENCE
 
 Kainuo Innovision Tech Co., Limited                                      Nov. 2025 - Present
 Founder / Project & Operations Lead
 
-- Built and operated two early-stage business lines covering website/software development services and B2B camera accessories trading, with responsibility for planning, customer requirements, supplier coordination, digital operations and delivery.
-- Delivered two paid client websites, including a five-language corporate website and a responsive portfolio website; managed scoping, proposals, domain and business email setup, deployment and handover.
-- Planned, prototyped and launched four digital products across SaaS/web, desktop and iOS; launched Mood Balloon on the Apple App Store and generated more than 700 initial website users and Kinolu's first paid subscribers through early market tests.
-- Built FrameHide's B2B export workflow, including supplier sourcing, product positioning, multilingual website content, overseas retailer outreach, quotation preparation and logistics coordination; progressed an Australian camera retailer from cold outreach to a delivered product sample evaluation.
+- Established and operated two early-stage business lines covering B2B camera accessories trading and website/software services, with responsibility for market research, planning, customer requirements, supplier coordination and delivery.
+- Built FrameHide's B2B export workflow, including product selection, supplier sourcing, product positioning, multilingual website content, overseas retailer research, cold outreach, quotation preparation, sample follow-up and logistics coordination; progressed an Australian camera retailer from initial outreach to a delivered product evaluation sample.
+- Delivered two paid client websites, including a five-language corporate website and a responsive portfolio website; managed requirements, scoping, proposals, domain and business email setup, deployment and handover.
+- Planned and launched four digital products using AI-assisted development workflows - Custly CRM, Kinolu, Velo Studio and Mood Balloon - across web, desktop and iOS; published Mood Balloon on the Apple App Store and gained more than 700 initial website users and Kinolu's first paid subscribers through early market tests.
 
 Hong Kong Centre for Cerebro-Cardiovascular Health Engineering            Apr. 2025 - Oct. 2025
 Project Assistant, Project Management Team
 
 - Supported the project management team in coordinating multiple healthcare technology projects across management, project teams, software, hardware, AI and finance-related support functions; tracked milestones, dependencies, action items and resource needs.
 - Organised project meetings, prepared agendas and minutes, followed up owners and deadlines, and converted technical and operational updates into structured management reports.
-- Coordinated progress updates for AI-assisted medical imaging initiatives involving neck and thyroid scanning workflows, automated image marking and segmentation, and real-time and post-processing denoising.
+- Coordinated progress updates for medical imaging projects involving neck and thyroid scanning workflows, automated image segmentation and image denoising.
 - Cleaned and organised clinical research and community programme data using Excel functions and PivotTables, and built dynamic Excel/Tableau dashboards with filters, PivotCharts and management-facing reports.
 
 EDUCATION
@@ -69,9 +69,9 @@ Languages: Mandarin (native), Cantonese (fluent), English (professional working 
 
 Project & Operations: Cross-functional coordination, stakeholder communication, meeting coordination, action tracking, milestone and dependency follow-up, requirements gathering, project reporting
 
-Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS
+International Trade & Business Development: Overseas retailer research, cold outreach, client communication, supplier sourcing and coordination, quotation preparation, sample follow-up and logistics coordination
 
-Business Development: Client communication, proposal and quotation preparation, supplier coordination, cold outreach, logistics coordination, B2B sample follow-up
+Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS
 
 Digital Delivery: Website planning, content architecture, Figma, domain and business email setup, website deployment, analytics setup, basic CMS and database administration
 ```
@@ -81,24 +81,24 @@ Digital Delivery: Website planning, content architecture, Figma, domain and busi
 ```text
 JOHNSON ZIKAI GAO
 香港｜+852 9341 2653｜[专业求职邮箱]｜[LinkedIn 链接]
-作品： www.kainuotech.com｜www.framehide.com
+作品： www.framehide.com｜www.kainuotech.com
 
 工作经历
 
 凱諾創享科技有限公司                                             2025 年 11 月至今
 创办人 / 项目与运营负责人
 
-- 搭建并运营两条早期业务线，包括网站/软件开发服务和相机配件 B2B 外贸，负责项目规划、客户需求、供应商协调、数字运营和交付。
-- 完成两个付费客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责范围界定、方案报价、域名及企业邮箱配置、部署和交付。
-- 规划、制作并上线四款覆盖 SaaS/网页、桌面端和 iOS 的数字产品；推动 Mood Balloon 上架 Apple App Store，并通过初期市场测试获得超过 700 名网站用户和 Kinolu 的首批付费订阅用户。
-- 搭建 FrameHide 的 B2B 出口流程，包括供应商寻找、产品定位、多语言网站内容、海外零售商开发、报价和物流协调；将一名澳大利亚相机零售商从冷开发推进至完成产品样品交付评估。
+- 搭建并运营两条早期业务线，包括相机配件 B2B 外贸和网站/软件服务，负责市场调研、项目规划、客户需求、供应商协调和交付。
+- 搭建 FrameHide 的 B2B 出口流程，包括产品筛选、供应商寻找、产品定位、多语言网站内容、海外零售商调研、冷开发、报价、样品跟进和物流协调；将一名澳大利亚相机零售商从初次开发推进至完成产品评估样品交付。
+- 完成两个付费客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责需求沟通、范围界定、方案报价、域名及企业邮箱配置、部署和交付。
+- 运用 AI 辅助开发流程，规划并上线四款数字产品，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon，覆盖网页、桌面端和 iOS；推动 Mood Balloon 上架 Apple App Store，并通过初期市场测试获得超过 700 名网站用户和 Kinolu 的首批付费订阅用户。
 
 香港心脑血管健康工程研究中心                                      2025 年 4 月至 2025 年 10 月
 项目助理（项目管理团队）
 
 - 支持项目管理团队协调多个医疗科技项目，对接管理层、项目团队，以及软件、硬件、AI 和财务相关支持部门，并跟进里程碑、依赖关系、行动事项和资源需求。
 - 组织项目会议，准备会议议程和会议记录，追踪负责人及截止时间，并将技术和运营更新整理为结构化管理报告。
-- 协调 AI 医学影像项目的进度更新，涉及颈部及甲状腺扫描流程、图像自动标注与分割，以及实时和后处理降噪。
+- 协调医学影像项目的进度更新，涉及颈部及甲状腺扫描流程、图像自动分割和图像降噪。
 - 使用 Excel 函数和数据透视表清洗、整理临床研究及社区项目数据，并通过 Excel/Tableau 搭建带筛选器、数据透视图和管理层视图的动态看板。
 
 教育背景
@@ -121,9 +121,9 @@ Programme and Project Management 理学硕士
 
 项目与运营：跨部门协调、利益相关方沟通、会议协调、行动事项追踪、里程碑及依赖关系跟进、需求收集、项目报告
 
-数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS
+国际贸易与业务开发：海外零售商调研、冷开发、客户沟通、供应商寻找与协调、报价准备、样品跟进和物流协调
 
-业务开发：客户沟通、方案与报价准备、供应商协调、冷开发、物流协调、B2B 样品跟进
+数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS
 
 数字化交付：网站规划、内容架构、Figma、域名及企业邮箱配置、网站部署、数据分析配置，以及基础 CMS 和数据库管理
 ```
@@ -142,7 +142,7 @@ Programme and Project Management 理学硕士
 If the content does not fit legibly on one page, shorten it in this order:
 
 1. Remove the four separate skills lines and keep only `Languages`, `Core Skills` and `Tools` in two lines.
-2. Reduce Kainuo from four bullets to three by combining the digital-product and FrameHide bullets only when necessary.
+2. Shorten the software-products bullet first, but keep the FrameHide trade workflow as a separate bullet.
 3. Reduce COCHE from four bullets to three by combining meeting/reporting and data-dashboard work.
 4. Keep both work experiences and both degrees.
 5. Do not restore outdated academic projects or internships merely to imitate the old template.

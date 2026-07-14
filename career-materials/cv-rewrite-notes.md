@@ -7,13 +7,13 @@ This document is the clean, copy-ready source for the next CV version. It separa
 Main positioning:
 
 ```text
-Project coordination + operations + digital product execution + early-stage business development
+International trade operations + business development + project coordination + data reporting
 ```
 
 中文理解：
 
 ```text
-项目管理团队中的跨部门协调与跟进 + 数据报表 + 数字产品落地 + 早期业务开发执行
+国际贸易运营与业务开发 + 跨部门项目协调 + 数据整理与报告 + 数字产品落地经验
 ```
 
 Recommended CV order:
@@ -66,10 +66,10 @@ Important:
 
 ## 3. Profile Summary
 
-Recommendation: a summary is not mandatory. For your CV, start without one and use a targeted headline such as:
+Recommendation: a summary and target-role headline are not mandatory. For the general CV, keep the previous template's simple name-and-contact header without either one. Add a short headline only when tailoring the CV to a specific vacancy, for example:
 
 ```text
-Project Coordination | Operations | Business Development
+International Trade | Business Development | Operations
 ```
 
 Add a two-line profile only when the CV feels difficult to understand without context, or when tailoring it to a specific role. Never use a generic career objective.
@@ -83,7 +83,7 @@ Project and operations professional with experience supporting multiple healthca
 中文参考：
 
 ```text
-个人简介不是必填项。建议先用“项目协调｜运营｜业务开发”作为职业标题；只有在经历跨度让招聘方难以快速理解，或者需要针对某个岗位定制时，再加两行简介。不要写“希望寻找一个稳定平台”等空泛求职目标。
+个人简介和意向岗位标题都不是必填项。通用简历先沿用旧模板，只保留姓名和联系方式；只有针对具体职位定制时，才加入“国际贸易｜业务开发｜运营”等简短标题。不要写“希望寻找一个稳定平台”等空泛求职目标。
 ```
 
 ## 4. Professional Experience
@@ -95,11 +95,10 @@ Founder / Project & Operations Lead
 Kainuo Innovision Tech Co., Limited | Hong Kong
 Nov 2025 – Present
 
-- Built and operated two early-stage business lines: website/software development services under KainuoTech and a B2B camera accessories trading project under FrameHide.
-- Delivered two client websites, including a five-language corporate website and a responsive portfolio website, covering requirements gathering, scoping, proposals, domain and email setup, deployment and handover.
-- Led product planning, AI-assisted prototyping, launch and market validation for four digital products across SaaS/web, desktop and iOS: Custly CRM, Kinolu, Velo Studio and Mood Balloon.
-- Launched Mood Balloon on the Apple App Store and tested paid acquisition for Custly CRM and Kinolu, generating more than 700 website users during an initial campaign and securing Kinolu’s first paid subscribers.
-- Built FrameHide’s early B2B export workflow, including supplier sourcing, product positioning, multilingual website content, retailer outreach, quotation preparation, logistics coordination and overseas sample follow-up; generated initial retailer interest and completed a sample delivery to an Australian camera retailer.
+- Established and operated two early-stage business lines covering B2B camera accessories trading and website/software services, with responsibility for market research, planning, customer requirements, supplier coordination and delivery.
+- Built FrameHide’s B2B export workflow, including product selection, supplier sourcing, product positioning, multilingual website content, overseas retailer research, cold outreach, quotation preparation, sample follow-up and logistics coordination; progressed an Australian camera retailer from initial outreach to a delivered product evaluation sample.
+- Delivered two paid client websites, including a five-language corporate website and a responsive portfolio website, covering requirements gathering, scoping, proposals, domain and email setup, deployment and handover.
+- Planned and launched four digital products using AI-assisted development workflows - Custly CRM, Kinolu, Velo Studio and Mood Balloon - across web, desktop and iOS; published Mood Balloon on the Apple App Store and gained more than 700 initial website users and Kinolu’s first paid subscribers through early market tests.
 ```
 
 中文对照：
@@ -109,11 +108,10 @@ Nov 2025 – Present
 凱諾創享科技有限公司｜香港
 2025 年 11 月至今
 
-- 搭建并运营两条早期业务线：KainuoTech 网站/软件开发服务，以及 FrameHide 相机配件 B2B 外贸项目。
-- 交付两个客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责需求沟通、范围界定、方案报价、域名与邮箱配置、部署及交付。
-- 负责四款数字产品从规划、AI 辅助原型开发到上线和市场验证，覆盖 SaaS/网页、桌面端及 iOS，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon。
-- 推动 Mood Balloon 上架 Apple App Store，并为 Custly CRM 和 Kinolu 进行初期付费获客测试，在首轮推广中获得超过 700 名网站用户，并取得 Kinolu 的首批付费订阅用户。
-- 搭建 FrameHide 的早期 B2B 出口流程，包括供应商寻找、产品定位、多语言网站内容、海外零售商开发、报价准备、物流协调和样品跟进；获得初步零售商意向，并完成向澳大利亚相机零售商寄送样品。
+- 搭建并运营两条早期业务线，包括相机配件 B2B 外贸和网站/软件服务，负责市场调研、项目规划、客户需求、供应商协调和交付。
+- 搭建 FrameHide 的 B2B 出口流程，包括产品筛选、供应商寻找、产品定位、多语言网站内容、海外零售商调研、冷开发、报价、样品跟进和物流协调；将一名澳大利亚相机零售商从初次开发推进至完成产品评估样品交付。
+- 完成两个付费客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责需求沟通、范围界定、方案报价、域名及企业邮箱配置、部署和交付。
+- 运用 AI 辅助开发流程，规划并上线四款数字产品，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon，覆盖网页、桌面端和 iOS；推动 Mood Balloon 上架 Apple App Store，并通过初期市场测试获得超过 700 名网站用户和 Kinolu 的首批付费订阅用户。
 ```
 
 Optional stronger commercial bullet, only if you are comfortable discussing the evidence:
@@ -139,7 +137,7 @@ Apr 2025 – Oct 2025
 
 - Supported the project management team in coordinating multiple healthcare technology projects, connecting management with project teams and software, hardware, AI and finance-related support functions; tracked milestones, dependencies, action items and resource needs.
 - Organised project meetings, prepared agendas and minutes, followed up owners and deadlines, and translated technical and operational updates into structured management reports.
-- Supported coordination of AI-assisted medical imaging initiatives, including neck and thyroid scanning workflows, automated image marking and segmentation, and real-time and post-processing denoising, without performing the underlying model development.
+- Coordinated progress updates for medical imaging projects involving neck and thyroid scanning workflows, automated image segmentation and image denoising.
 - Cleaned and organised clinical research and community programme data using Excel functions and PivotTables, and built dynamic Excel/Tableau dashboards with filters, PivotCharts and management-facing visual reports.
 ```
 
@@ -152,7 +150,7 @@ Apr 2025 – Oct 2025
 
 - 支持项目管理团队协调多个医疗科技项目，连接管理层、项目团队，以及软件、硬件、AI 和财务相关支持部门，并跟进里程碑、依赖关系、行动事项和资源需求。
 - 组织项目会议，准备会议议程和会议记录，追踪负责人及截止时间，并将技术和运营更新整理为结构化管理报告。
-- 协助协调 AI 医学影像相关项目，包括颈部及甲状腺扫描流程、图像自动标注与分割，以及实时和后处理降噪；职责为项目协调和进度跟进，而非底层模型开发。
+- 协调医学影像项目的进度更新，涉及颈部及甲状腺扫描流程、图像自动分割和图像降噪。
 - 使用 Excel 函数和数据透视表清洗、整理临床研究及社区项目数据，并通过 Excel/Tableau 搭建带筛选器、数据透视图和管理层视图的动态看板。
 ```
 
@@ -170,13 +168,13 @@ Do not include probation-extension details, internal conflict or the negative wo
 Recommended compact CV line:
 
 ```text
-Selected Projects: KainuoTech (www.kainuotech.com) | FrameHide (www.framehide.com) | Kinolu (kinolu.cam) | Mood Balloon (Apple App Store)
+Selected Projects: FrameHide (www.framehide.com) | KainuoTech (www.kainuotech.com)
 ```
 
 If space is limited:
 
 ```text
-Selected Projects: www.kainuotech.com | www.framehide.com
+Selected Projects: www.framehide.com | www.kainuotech.com
 ```
 
 Portfolio supplement can include:
@@ -223,11 +221,11 @@ Recommended CV version:
 ```text
 Project & Operations: Cross-functional coordination, stakeholder communication, meeting coordination, action tracking, milestone and dependency follow-up, project reporting, requirements gathering
 
+International Trade & Business Development: Overseas retailer research, cold outreach, client communication, supplier sourcing and coordination, quotation preparation, sample follow-up and logistics coordination
+
 Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS
 
-Digital & Product Delivery: Website planning, content architecture, Figma, domain and business email setup, deployment, analytics setup, basic CMS and database administration
-
-Business Development: Client communication, proposal and quotation preparation, supplier coordination, cold outreach, logistics coordination, B2B sample follow-up
+Digital Delivery: Website planning, content architecture, Figma, domain and business email setup, deployment, analytics setup, basic CMS and database administration
 
 Languages: Native Mandarin; fluent Cantonese; professional working proficiency in English
 ```
@@ -237,11 +235,11 @@ Languages: Native Mandarin; fluent Cantonese; professional working proficiency i
 ```text
 项目与运营：跨部门协调、利益相关方沟通、会议协调、行动事项追踪、里程碑与依赖关系跟进、项目汇报、需求收集
 
+国际贸易与业务开发：海外零售商调研、冷开发、客户沟通、供应商寻找与协调、报价准备、样品跟进和物流协调
+
 数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS
 
-数字与产品交付：网站规划、内容架构、Figma、域名及企业邮箱配置、网站部署、数据分析配置，以及基础 CMS 和数据库管理
-
-业务开发：客户沟通、方案与报价准备、供应商协调、冷开发、物流协调、B2B 样品跟进
+数字化交付：网站规划、内容架构、Figma、域名及企业邮箱配置、网站部署、数据分析配置，以及基础 CMS 和数据库管理
 
 语言：普通话母语；粤语流利；英语可用于专业工作沟通
 ```
@@ -341,10 +339,8 @@ Avoid or qualify:
 
 ```text
 JOHNSON ZIKAI GAO
-Project Coordination | Operations | Business Development
-
 Hong Kong | Phone | Email | LinkedIn
-Selected Projects: www.kainuotech.com | www.framehide.com
+Selected Projects: www.framehide.com | www.kainuotech.com
 ```
 
 Add `Eligible to work in Hong Kong without employer sponsorship` only when work-authorisation screening is likely to matter.
