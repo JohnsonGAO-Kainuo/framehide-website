@@ -1,429 +1,349 @@
-# Johnson Gao CV Rewrite Notes
+# Johnson Gao CV Core Draft · 中英对照
 
-This folder is separated from FrameHide outreach documents. Use it only for job search, CV rewrite, interview preparation, and portfolio positioning.
+This document is the clean, copy-ready source for the next CV version. It separates the final English wording from Chinese explanations and optional alternatives.
 
-## 1. Main Recommendation
+## 1. Recommended CV Direction
 
-For the next CV version, use this core structure:
-
-1. Profile Summary
-2. Professional Experience
-   - Project Assistant, COCHE project management team
-   - Founder / Project Lead, Kainuo Innovision Tech Co., Limited
-3. Selected Projects / Portfolio Links
-4. Education
-5. Skills
-
-Recommended decision:
-
-- Do not include POADmedia in the main CV unless the target role is strongly related to advertising, LED display projects, project billing, or supplier coordination.
-- Do not include early university internships, Student Mentor, SEO assistant, or short PTA experience unless a specific job requires them.
-- Keep the CV focused on project coordination, PMO-style support, operations, data reporting, AI/digital tools, client communication, and business execution.
-
-中文参考：
-
-- 主简历建议只保留 COCHE 项目助理和 Kainuo 创业验证两段核心经历。
-- POAD 可以从主简历删除，避免两个短期经历连续出现。
-- 简历主线不是“我做过很多杂事”，而是“项目管理团队里的跨部门协调 + 数据报表 + AI/数字化工具 + 业务执行”。
-- COCHE 那段不一定要写香港科学园，也不一定要写 Healthcare AI Research Centre。除非目标岗位很看重 Science Park/医疗科技背景，否则写公司/中心名和岗位职责即可。
-
-Important rule:
-
-- A CV does not have to list every short experience, but any formal background check or employment history form should be answered truthfully.
-
-## 2. POADmedia: Delete or Keep?
-
-Recommended for the main CV: delete.
-
-Reason:
-
-- It was under 3 months.
-- Keeping both POADmedia and COCHE as short experiences may make the CV look unstable.
-- It distracts from the stronger story: healthcare AI project coordination + entrepreneurial business execution.
-
-Optional backup version if needed:
+Main positioning:
 
 ```text
-Management Trainee, Project Team
-POADmedia Limited | Hong Kong
-Nov 2024 – Jan 2025
-
-- Supported project billing, cost summaries, requisition forms, and invoice coordination with accounting and project teams.
-- Conducted supplier and industry research across the LED display supply chain to support sourcing decisions.
-- Coordinated with suppliers, contractors, internal teams, and clients to track project requirements and follow-up items.
+Project coordination + operations + digital product execution + early-stage business development
 ```
 
-Interview handling if asked about the period:
+中文理解：
 
 ```text
-I had a short early role after graduation, but I chose not to highlight it on the CV because it was brief and less relevant to the roles I am now applying for. The more relevant experience is my project assistant role in the healthcare AI environment and my later hands-on business execution experience.
+项目管理团队中的跨部门协调与跟进 + 数据报表 + 数字产品落地 + 早期业务开发执行
 ```
 
-## 3. Education Date Handling
+Recommended CV order:
 
-If the Warwick degree certificate or official completion record shows December 2024, it is acceptable to write:
+1. Name, contact details and work authorisation
+2. Profile Summary
+3. Professional Experience
+   - Kainuo Innovision Tech Co., Limited
+   - Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
+4. Selected Projects
+5. Education
+6. Professional Certifications
+7. Skills and Languages
+
+Keep POADmedia, early university internships, Student Mentor, SEO assistant and the short securities PTA experience off the main CV. They can be disclosed truthfully if an employment-history form or background check asks for a complete record.
+
+## 2. IANG and Permanent Residency Wording
+
+Recommended CV line:
 
 ```text
-University of Warwick
-Master of Programme and Project Management
-Oct 2023 – Dec 2024
+Work Authorisation: Hong Kong IANG visa holder; no employer sponsorship or change-of-employer approval required. Eligible to apply for Hong Kong permanent residency from Sep 2026, subject to Immigration Department approval.
 ```
 
-If the official academic completion date is November 2024, keep:
+Shorter version for the header:
 
 ```text
-Oct 2023 – Nov 2024
+Hong Kong IANG visa holder · No employer sponsorship required
 ```
 
-Do not change dates only to hide a gap. It is acceptable to explain a short transition period after graduation.
-
-## 4. COCHE / Project Assistant
-
-Use this as the strongest employment experience.
-
-Recommended title:
+Optional line under Additional Information:
 
 ```text
-Project Assistant
-Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
-Apr 2025 – Oct 2025
-```
-
-Adjust the date after confirming the exact employment period.
-
-Positioning note:
-
-```text
-This role should be positioned as project management team / PMO-style coordination support. You were not a single project assistant for one project. You supported multiple project teams and helped connect management, project teams, software, hardware, finance, and other support functions.
+Eligible to apply for Hong Kong permanent residency from Sep 2026, subject to Immigration Department approval.
 ```
 
 中文参考：
 
-- 这段经历不要写成“我只协助一个科研项目”。更准确的说法是：你在 project management team，类似 PMO 支持角色，负责跟进多个项目团队。
-- 向上对接 management team / bosses，向下跟进多个 project teams。
-- 同时协调 software team、hardware team、financial team 等支持部门，让他们更好支持不同 project team 的执行。
-- “Research team” 可以少用或不用，改成 “project teams” 更贴近你说的实际情况。
-- “Healthcare AI Research Centre” 和 “Hong Kong Science Park” 不是必须写。它们可以在面试中解释，不一定占简历标题位置。
+```text
+工作许可：持香港 IANG 签证，受雇或转换雇主无需公司提供签证担保或事先取得入境处批准；预计自 2026 年 9 月起具备申请香港永久居民资格，最终以入境处审批为准。
+```
 
-Recommended bullet points:
+Important:
+
+- Use “eligible to apply”, not “will become a permanent resident”.
+- Do not write “permanent resident from Sep 2026” before approval.
+- The most useful message for an employer is that hiring you does not require employment sponsorship or a change-of-employer application.
+
+## 3. Profile Summary
+
+Recommended English version:
 
 ```text
-- Supported the project management team in coordinating multiple healthcare technology project teams and aligning updates with management requirements.
-- Coordinated cross-functional communication among management, project teams, software, hardware, AI, and finance-related support functions to improve project execution and follow-up.
-- Followed up project progress, prepared meeting agendas and minutes, tracked action items, and supported management in monitoring milestones, dependencies, and resource needs.
-- Assisted in coordinating AI-related project discussions, including auto-segmentation, medical image denoising, scanning workflow improvement, and prototype development progress.
-- Converted technical and project updates into structured reports, meeting notes, and follow-up items for management review.
-- Cleaned and organised clinical research and community activity datasets using Excel functions, pivot tables, and structured data workflows.
-- Built dynamic dashboards and visual reports using Excel pivot charts and Tableau to present participant data, clinical trial progress, filtering views, and community activity outcomes.
-- Supported internal reviews, project update meetings, and cross-department coordination to improve communication between project teams, support functions, and management.
+Project and operations professional with experience supporting multiple healthcare technology projects and independently delivering digital products, client websites and an early-stage B2B trading workflow. Skilled in cross-functional coordination, stakeholder communication, action tracking, management reporting, Excel/Tableau dashboards and AI-assisted product execution. Combines structured project follow-up with hands-on experience in client requirements, supplier coordination, digital operations and business development.
 ```
 
 中文对照：
 
 ```text
-- 支持 project management team 协调多个医疗科技项目团队，并根据管理层要求整理和同步项目进展。
-- 协调管理层、项目团队、软件、硬件、AI 以及财务相关支持部门之间的沟通，提升项目执行和跟进效率。
-- 跟进项目进度，准备会议议程和会议记录，追踪行动事项，并协助管理层了解里程碑、依赖关系和资源需求。
-- 协助协调 AI 相关项目讨论，包括自动分割、医学图像降噪、扫描流程优化和原型开发进展。
-- 将技术团队和项目团队的更新整理成结构化报告、会议记录和后续跟进行动，供管理层查看。
-- 使用 Excel 函数、数据透视表和结构化数据流程，清洗并整理临床研究和社区活动数据。
-- 使用 Excel 数据透视图和 Tableau 搭建动态看板和可视化报告，展示参与者数据、临床试验进展、筛选视图和社区活动结果。
-- 支持内部评审、项目更新会议和跨部门协调，改善项目团队、支持部门和管理层之间的信息同步。
-```
-
-Shorter version if the CV needs to stay concise:
-
-```text
-- Supported PMO-style coordination across multiple healthcare technology project teams, management, software, hardware, AI, and finance-related support functions.
-- Prepared meeting minutes, tracked action items, followed up project progress, and converted technical/project updates into management-facing reports.
-- Built Excel and Tableau dashboards from clinical research and community activity datasets, including data cleaning, pivot charts, filters, and visual reporting views.
-- Supported AI-related project coordination involving auto-segmentation, image denoising, scanning workflow improvement, and prototype progress tracking.
-```
-
-中文精简版：
-
-```text
-- 支持多个医疗科技项目的 PMO 式协调工作，对接管理层、项目团队、软件、硬件、AI 和财务相关支持部门。
-- 准备会议记录，追踪行动事项，跟进项目进展，并将技术/项目更新整理成面向管理层的报告。
-- 基于临床研究和社区活动数据，使用 Excel 和 Tableau 进行数据清洗、数据透视图、筛选器和可视化看板搭建。
-- 支持 AI 相关项目协调，包括自动分割、图像降噪、扫描流程优化和原型进展跟进。
-```
-
-Do not write in the CV:
-
-- Probation extension details.
-- Internal conflict or negative team environment.
-- Fear of being dismissed.
-- Overly technical claims that make it sound like you personally developed the AI models.
-
-Useful wording choices:
-
-| Avoid | Use instead | 中文理解 |
-| --- | --- | --- |
-| Research teams | Project teams | 你主要协调多个项目团队，不只是科研团队 |
-| Healthcare AI Research Centre | Healthcare technology project environment | 不一定把机构包装写得太重，强调项目环境即可 |
-| I managed AI development | I supported AI-related project coordination | 避免让人误以为你亲自开发模型 |
-| I was responsible for everything | I supported cross-functional coordination and follow-up | 更真实，也更像项目助理/PMO 支持 |
-| Hong Kong Science Park in title | Mention only if useful | 科学园背景可面试时讲，简历标题不一定要写 |
-
-中文说明：
-
-- “PMO-style support” 是可以用的，但不要直接写 “PMO Manager”。你可以说自己在 project management team，做的是类似 PMO 的协调、跟进、会议、报告和跨部门沟通支持。
-- “Project teams” 比 “research teams” 更准确，因为你不是只跟科研团队沟通，而是跟多个项目团队以及软件、硬件、AI、财务支持部门沟通。
-- “AI-related project coordination” 比 “AI development” 更安全，因为你参与的是协调和跟进，不是亲自训练模型或写核心算法。
-
-Interview explanation for leaving:
-
-```text
-The role gave me useful exposure to healthcare AI project coordination and cross-functional communication. After that period, I wanted to test my own business ideas and applied what I learned in project execution, digital tools, client communication, and operations. I am now looking to return to a structured team environment where I can grow more consistently and contribute in a stable long-term role.
-```
-
-中文参考：
-
-```text
-这份工作让我接触到医疗科技项目的跨部门协调和项目管理支持工作。离开之后，我花了一段时间验证自己的业务想法，把项目执行、数字工具、客户沟通和运营方面的经验用到真实业务中。现在我希望回到更有结构的团队环境中，稳定成长并长期贡献。
-```
-
-## 5. Kainuo / Entrepreneurial Experience
-
-Recommended title:
-
-```text
-Founder / Project Lead
-Kainuo Innovision Tech Co., Limited | Hong Kong
-Nov 2025 – Present
-```
-
-If the company was officially incorporated in December 2025, you can use:
-
-```text
-Dec 2025 – Present
-```
-
-If you started preparation and business validation before incorporation, use:
-
-```text
-Nov 2025 – Present
-```
-
-Recommended bullet points:
-
-```text
-- Built and operated two small business initiatives: KainuoTech, a website/software development service, and FrameHide, a camera accessories trading brand targeting overseas retailers.
-- Planned and launched bilingual websites, service pages, pricing pages, product pages, enquiry flows, and customer-facing content using AI-assisted web development tools.
-- Communicated with prospective clients for corporate website projects, prepared service proposals, and handled early-stage requirements for website building and visual optimisation.
-- Developed and tested web-based software and SaaS prototypes, including online deployment, App Store submission attempts, user testing, and multi-channel promotion.
-- Built FrameHide’s B2B outreach workflow, including supplier sourcing, product positioning, cold email templates, logistics coordination, wholesale sample follow-up, and customer communication.
-- Generated initial business enquiries and arranged an overseas product sample shipment to an Australian camera retailer for quality review.
-```
-
-More conservative version:
-
-```text
-- Ran a self-directed business validation period covering website/software services and a small camera accessories trading project.
-- Built and maintained project websites, proposal content, product pages, enquiry flows, and customer-facing materials.
-- Managed early client communication, supplier outreach, quotation preparation, logistics coordination, and sample follow-up.
-- Gained hands-on experience in AI-assisted web prototyping, digital operations, B2B outreach, and business development execution.
-```
-
-Do not overclaim:
-
-- Do not claim strong revenue if revenue was limited.
-- Do not describe relatives as major enterprise clients.
-- Do not say the business is fully established if it is still being validated.
-- Do not write “failed entrepreneurship.”
-
-Best positioning:
-
-```text
-Self-directed business validation with real execution: websites, client enquiries, supplier coordination, product pages, outreach, sample logistics, and early customer conversations.
-```
-
-## 6. Selected Projects / Portfolio
-
-Add links, but keep them controlled and concise.
-
-Recommended CV line:
-
-```text
-Selected Projects: www.kainuotech.com | www.framehide.com
-```
-
-Alternative:
-
-```text
-Portfolio: KainuoTech website/software service project and FrameHide camera accessories trading project
-Links: www.kainuotech.com | www.framehide.com
-```
-
-How to explain in interview:
-
-```text
-These are two small business projects I built and operated during my entrepreneurial period. They demonstrate my ability to execute website planning, positioning, bilingual content, client communication, product presentation, supplier coordination, and business validation.
-```
-
-What to show in portfolio:
-
-- Website screenshots.
-- Service/pricing page examples.
-- Product page examples.
-- Enquiry flow or contact process.
-- Proposal samples with sensitive information removed.
-- Logistics/sample shipment workflow with private customer details removed.
-
-What not to show:
-
-- Raw private customer chats.
-- Customer personal information.
-- Supplier private information.
-- Anything that looks like exaggerating revenue or scale.
-
-## 7. Profile Summary
-
-Recommended summary:
-
-```text
-Project and operations candidate with experience in cross-functional coordination, healthcare AI project support, data dashboarding, and hands-on digital business execution. Skilled in meeting coordination, stakeholder communication, action tracking, Excel/Tableau reporting, AI-assisted workflow tools, website operations, and early-stage business development. Seeking a stable project, operations, or business development role where I can contribute to structured execution and long-term team growth.
+具备医疗科技多项目支持及独立数字业务落地经验的项目与运营人才。擅长跨部门协调、利益相关方沟通、行动事项追踪、管理层汇报、Excel/Tableau 可视化看板，以及 AI 辅助的产品执行。能够将结构化项目跟进与客户需求、供应商协调、数字化运营和业务开发结合起来。
 ```
 
 Shorter version:
 
 ```text
-Project and operations candidate with experience in healthcare AI project coordination, data dashboarding, stakeholder communication, and hands-on digital business execution. Skilled in cross-functional follow-up, reporting, AI-assisted tools, website operations, and early-stage business development.
+Project and operations professional with experience in healthcare technology project coordination, digital product delivery, data reporting and early-stage business development. Skilled in cross-functional follow-up, stakeholder communication, Excel/Tableau dashboards and AI-assisted workflows.
 ```
 
-## 8. Skills Section
+## 4. Professional Experience
 
-Recommended grouping:
-
-```text
-Project & Operations: Cross-functional coordination, meeting minutes, action tracking, stakeholder communication, project reporting, quotation preparation
-
-Data & Reporting: Excel, Pivot Tables, Pivot Charts, Tableau, SPSS, basic SQL, data cleaning, dashboard building
-
-AI & Digital Tools: ChatGPT, Claude, Codex, GitHub Copilot, Lovable, v0, Figma, Codia, AI-assisted content and web prototyping
-
-Web & Deployment: WordPress/basic CMS, Next.js exposure, Vercel, GitHub, Firebase/Supabase basic maintenance, domain and website deployment
-
-Business Development: Client communication, cold outreach, proposal preparation, supplier coordination, B2B sample follow-up
-```
-
-Tone rule:
-
-- Use “exposure” or “basic maintenance” for technical tools if you do not want software engineering roles.
-- Do not frame yourself as a full-stack developer unless applying for technical roles.
-
-## 9. Salary Positioning
-
-Recommended expectation:
+### Founder / Project & Operations Lead
 
 ```text
-HK$22,000 – HK$25,000 per month, negotiable depending on role scope and overall package.
-```
-
-If applying to Science Park / AI / healthcare technology project roles:
-
-```text
-HK$23,000 – HK$28,000 per month, negotiable.
-```
-
-Practical bottom line:
-
-- Try not to open with HK$18,000.
-- HK$18,000–20,000 can be a private fallback range if the role is highly suitable or offers strong learning value.
-
-Interview wording:
-
-```text
-My expected salary is around HK$22,000 to HK$25,000 per month, depending on the role scope and overall package. I am open to discussion if the role offers strong learning and long-term development.
-```
-
-## 10. Target Roles
-
-Recommended search targets:
-
-- Project Coordinator
-- Project Executive
-- Project Assistant
-- Operations Executive
-- Business Development Executive
-- Account Executive
-- E-commerce Operations Executive
-- Digital Project Coordinator
-- AI / Healthcare Technology Project Coordinator
-- Startup Operations / Founder’s Office Assistant
-
-Avoid as primary target:
-
-- Pure software engineer roles.
-- Pure sales roles with aggressive commission-only structure.
-- Very junior admin roles unless cashflow is urgent.
-
-## 11. Interview Narrative
-
-Recommended answer for the entrepreneurial period:
-
-```text
-After my previous role, I spent several months building and testing my own small business projects. I worked on website/software service projects and later tested a camera accessories trading brand. This gave me hands-on experience in client communication, project execution, supplier coordination, quotation, logistics, and business development.
-
-At the same time, I realised that at this stage I want to return to a structured team environment where I can grow faster, work with experienced people, and contribute in a stable long-term role.
-```
-
-If asked whether the company will affect work:
-
-```text
-No. I see that experience as a learning and execution period. Going forward, I am looking for a stable full-time role, and my own company will not affect my commitment to the position.
-```
-
-Do not say:
-
-- “I still mainly want to创业.”
-- “I only need cashflow.”
-- “I left because of PUA.”
-- “I was worried they would dismiss me.”
-
-Use:
-
-```text
-I am looking for a more structured and long-term environment.
-```
-
-## 12. CV Structure Draft
-
-```text
-JOHNSON ZIKAI GAO
-Email | Phone | Hong Kong IANG visa holder
-Selected Projects: www.kainuotech.com | www.framehide.com
-
-PROFILE
-[Use profile summary above]
-
-PROFESSIONAL EXPERIENCE
-
-Project Assistant
-Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
-Apr 2025 – Oct 2025
-[Use 4–6 bullet points]
-
-Founder / Project Lead
-Kainuo Innovision Tech Co., Limited
+Founder / Project & Operations Lead
+Kainuo Innovision Tech Co., Limited | Hong Kong
 Nov 2025 – Present
-[Use 4–6 bullet points]
 
-EDUCATION
+- Built and operated two early-stage business lines: website/software development services under KainuoTech and a B2B camera accessories trading project under FrameHide.
+- Delivered two client websites, including a five-language corporate website and a responsive portfolio website, covering requirements gathering, scoping, proposals, domain and email setup, deployment and handover.
+- Led product planning, AI-assisted prototyping, launch and market validation for four digital products across SaaS/web, desktop and iOS: Custly CRM, Kinolu, Velo Studio and Mood Balloon.
+- Launched Mood Balloon on the Apple App Store and tested paid acquisition for Custly CRM and Kinolu, generating more than 700 website users during an initial campaign and securing Kinolu’s first paid subscribers.
+- Built FrameHide’s early B2B export workflow, including supplier sourcing, product positioning, multilingual website content, retailer outreach, quotation preparation, logistics coordination and overseas sample follow-up; generated initial retailer interest and completed a sample delivery to an Australian camera retailer.
+```
 
+中文对照：
+
+```text
+创办人 / 项目与运营负责人
+凱諾創享科技有限公司｜香港
+2025 年 11 月至今
+
+- 搭建并运营两条早期业务线：KainuoTech 网站/软件开发服务，以及 FrameHide 相机配件 B2B 外贸项目。
+- 交付两个客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责需求沟通、范围界定、方案报价、域名与邮箱配置、部署及交付。
+- 负责四款数字产品从规划、AI 辅助原型开发到上线和市场验证，覆盖 SaaS/网页、桌面端及 iOS，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon。
+- 推动 Mood Balloon 上架 Apple App Store，并为 Custly CRM 和 Kinolu 进行初期付费获客测试，在首轮推广中获得超过 700 名网站用户，并取得 Kinolu 的首批付费订阅用户。
+- 搭建 FrameHide 的早期 B2B 出口流程，包括供应商寻找、产品定位、多语言网站内容、海外零售商开发、报价准备、物流协调和样品跟进；获得初步零售商意向，并完成向澳大利亚相机零售商寄送样品。
+```
+
+Optional stronger commercial bullet, only if you are comfortable discussing the evidence:
+
+```text
+- Delivered two paid client website projects with a combined contract value of approximately HK$25.8K.
+```
+
+中文：
+
+```text
+- 完成两个付费客户网站项目，合同总额约为 HK$25.8K。
+```
+
+Use this optional bullet only when you are prepared to explain the project scope and provide redacted evidence if requested. The clients do not need to be described as major external accounts.
+
+### Project Assistant
+
+```text
+Project Assistant, Project Management Team
+Hong Kong Centre for Cerebro-Cardiovascular Health Engineering | Hong Kong
+Apr 2025 – Oct 2025
+
+- Supported the project management team in coordinating multiple healthcare technology projects, connecting management with project teams and software, hardware, AI and finance-related support functions; tracked milestones, dependencies, action items and resource needs.
+- Organised project meetings, prepared agendas and minutes, followed up owners and deadlines, and translated technical and operational updates into structured management reports.
+- Supported coordination of AI-assisted medical imaging initiatives, including neck and thyroid scanning workflows, automated image marking and segmentation, and real-time and post-processing denoising, without performing the underlying model development.
+- Cleaned and organised clinical research and community programme data using Excel functions and PivotTables, and built dynamic Excel/Tableau dashboards with filters, PivotCharts and management-facing visual reports.
+```
+
+中文对照：
+
+```text
+项目助理（项目管理团队）
+香港心脑血管健康工程研究中心｜香港
+2025 年 4 月至 2025 年 10 月
+
+- 支持项目管理团队协调多个医疗科技项目，连接管理层、项目团队，以及软件、硬件、AI 和财务相关支持部门，并跟进里程碑、依赖关系、行动事项和资源需求。
+- 组织项目会议，准备会议议程和会议记录，追踪负责人及截止时间，并将技术和运营更新整理为结构化管理报告。
+- 协助协调 AI 医学影像相关项目，包括颈部及甲状腺扫描流程、图像自动标注与分割，以及实时和后处理降噪；职责为项目协调和进度跟进，而非底层模型开发。
+- 使用 Excel 函数和数据透视表清洗、整理临床研究及社区项目数据，并通过 Excel/Tableau 搭建带筛选器、数据透视图和管理层视图的动态看板。
+```
+
+Why this version is tighter:
+
+- Cross-functional coordination is consolidated into one substantial bullet.
+- Meeting management, follow-up and reporting are consolidated into one bullet.
+- Excel data cleaning and dashboard work are consolidated into one bullet.
+- The medical imaging example provides credible context without claiming that you personally trained the AI models.
+
+Do not include probation-extension details, internal conflict or the negative work environment in the CV.
+
+## 5. Selected Projects and Portfolio
+
+Recommended compact CV line:
+
+```text
+Selected Projects: KainuoTech (www.kainuotech.com) | FrameHide (www.framehide.com) | Kinolu (kinolu.cam) | Mood Balloon (Apple App Store)
+```
+
+If space is limited:
+
+```text
+Selected Projects: www.kainuotech.com | www.framehide.com
+```
+
+Portfolio supplement can include:
+
+| Project | Format | What it demonstrates |
+| --- | --- | --- |
+| KainuoTech | Service website | Service design, pricing, multilingual content, enquiry flow and client delivery |
+| Client corporate website | Delivered website | Requirements, multi-page structure, five-language delivery and handover |
+| Client portfolio website | Delivered website | Responsive design, domain/email setup and client communication |
+| Custly CRM | SaaS/web application | Product localisation, template centre, UI redesign and Stripe payment flow |
+| Kinolu | PWA/web application | Product positioning, browser-based image workflow, pricing and early paid validation |
+| Velo Studio | Desktop beta | Product planning for recording, annotation, export and privacy-blur workflows |
+| Mood Balloon | iOS application | App Store launch, multilingual product experience and psychology-informed AI prompting |
+| FrameHide | B2B trading project | Supplier sourcing, product content, cold outreach, logistics and retailer sample validation |
+
+Do not send the full immigration business plan to employers. It contains company financials, address details, MPF information and personal supporting evidence. Convert the strongest evidence into a short portfolio PDF or a project page with sensitive information removed.
+
+## 6. Professional Certifications
+
+Recommended section:
+
+```text
+PROFESSIONAL CERTIFICATIONS & MEMBERSHIPS
+
+- Associate Project Manager (AssocPM), [use the issuing organisation exactly as shown on the credential]
+- Google Project Management Professional Certificate, Coursera
+```
+
+中文参考：
+
+```text
+专业认证与会员资格
+
+- Associate Project Manager (AssocPM)，[按证书填写准确的颁发机构]
+- Google 项目管理专业证书，Coursera
+```
+
+Before final submission, verify the exact official English name and issuing body shown on each credential. “AssocPM” is also used by the Society of Project Managers in Singapore, while the UK Association for Project Management uses different qualification and membership names. Do not write “Association for Project Management” unless it is the issuer shown on your credential, and do not call AssocPM a certificate if it is formally an accreditation or membership status.
+
+## 7. Skills
+
+Recommended CV version:
+
+```text
+Project & Operations: Cross-functional coordination, stakeholder communication, meeting facilitation, action tracking, milestone and dependency follow-up, project reporting, requirements gathering
+
+Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS, basic SQL
+
+AI & Product Tools: ChatGPT, Claude, Codex, GitHub Copilot, Figma, AI-assisted research, content development, prototyping and workflow improvement
+
+Digital Delivery: Website planning and deployment, GitHub, Vercel, basic Next.js/React exposure, basic Supabase/Firebase administration, Stripe integration exposure, domain/email/analytics setup
+
+Business Development: Client communication, proposal and quotation preparation, supplier coordination, cold outreach, logistics coordination, B2B sample follow-up
+
+Languages: Native Mandarin; fluent Cantonese; professional working proficiency in English
+```
+
+中文对照：
+
+```text
+项目与运营：跨部门协调、利益相关方沟通、会议组织、行动事项追踪、里程碑与依赖关系跟进、项目汇报、需求收集
+
+数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS、基础 SQL
+
+AI 与产品工具：ChatGPT、Claude、Codex、GitHub Copilot、Figma，以及 AI 辅助研究、内容制作、产品原型和流程优化
+
+数字化交付：网站规划与部署、GitHub、Vercel、Next.js/React 基础接触、Supabase/Firebase 基础管理、Stripe 支付整合经验、域名/邮箱/数据分析配置
+
+业务开发：客户沟通、方案与报价准备、供应商协调、冷开发、物流协调、B2B 样品跟进
+
+语言：普通话母语；粤语流利；英语可用于专业工作沟通
+```
+
+Why the tools are grouped this way:
+
+- The CV shows that you can use technology to deliver work, without positioning you as a full-stack software engineer.
+- Product and AI tools support your project/operations story rather than replacing it.
+- Business development and external-trade execution remain visible for roles related to operations, digital projects, startups and international trade.
+
+## 8. Role-Specific Adjustments
+
+### For Project Coordinator / PMO / Project Executive roles
+
+Keep the COCHE bullets first in emphasis. In the Kainuo section, prioritise client delivery, project scope, product launch and reporting. Use this profile opening:
+
+```text
+Project coordination professional with experience supporting multiple healthcare technology projects and independently delivering digital products and client websites.
+```
+
+### For Operations / Startup Operations roles
+
+Emphasise end-to-end execution, vendor coordination, digital tools and building workflows from zero.
+
+```text
+Operations professional with experience coordinating cross-functional project teams and independently building digital delivery, client service and B2B operating workflows.
+```
+
+### For Business Development / External Trade roles
+
+Keep the FrameHide bullet and add this replacement bullet if needed:
+
+```text
+- Researched and qualified overseas camera retailers, developed personalised cold-email outreach, coordinated wholesale pricing and sample logistics, and progressed an Australian retailer from initial outreach to delivered product evaluation.
+```
+
+中文：
+
+```text
+- 调研并筛选海外相机零售商，设计个性化开发信，协调批发报价和样品物流，并将一名澳大利亚零售商从初次开发推进至完成产品样品评估。
+```
+
+Do not write “secured a partnership” or “closed an order” until a paid wholesale order is confirmed.
+
+## 9. Education
+
+```text
 University of Warwick
-MSc Programme and Project Management
-Oct 2023 – Dec 2024
+MSc Programme and Project Management | Oct 2023 – Dec 2024
 
 Hong Kong Metropolitan University
 Bachelor of Applied Psychology with Honours
-Bachelor of Business Management with Honours
-Sep 2019 – Jul 2023
+Bachelor of Business Management with Honours | Sep 2019 – Jul 2023
+```
 
-SKILLS
-[Use grouped skills above]
+Use Dec 2024 only if it matches the degree certificate or official completion record.
 
-ADDITIONAL
-Languages: Mandarin native, Cantonese fluent, English fluent
+## 10. Interview Narrative for the Entrepreneurial Period
+
+English:
+
+```text
+After my project assistant role, I wanted to test whether I could independently take ideas from planning to delivery. I established a small company and worked across client websites, digital product validation and an early-stage B2B trading project. I delivered two client websites, launched products across web, desktop and iOS, tested user acquisition and payment flows, and handled supplier and overseas retailer communication.
+
+The experience strengthened my execution, commercial awareness and ability to work with limited resources. It also helped me clarify that I now want to bring those skills into a structured team where I can work on larger projects, learn from experienced colleagues and contribute over the long term. My company will not affect my commitment to a full-time role.
+```
+
+中文参考：
+
+```text
+离开上一份项目助理岗位后，我希望验证自己能否独立把想法从规划推进到落地，因此成立了一家小型公司，尝试了客户网站交付、数字产品验证和早期 B2B 外贸项目。我完成了两个客户网站，推动网页、桌面端和 iOS 产品上线或测试，也实际尝试了获客、支付、供应商和海外零售商沟通。
+
+这段经历提升了我的执行能力、商业意识和在有限资源下推进项目的能力，也让我更清楚现阶段希望把这些能力带回一个有结构的团队，参与更大规模的项目、向有经验的同事学习并长期发展。我的公司不会影响我对全职工作的投入。
+```
+
+## 11. Final CV Evidence Rules
+
+Safe to claim because supporting evidence exists:
+
+- Two delivered client websites.
+- Four digital products developed or launched across web, desktop and iOS.
+- Mood Balloon listed on the Apple App Store.
+- Initial Google Analytics traffic and Kinolu paid subscribers.
+- An Australian retailer progressed to a delivered product sample evaluation.
+- Google Project Management Professional Certificate and AssocPM status, after checking the exact official title and issuing organisation.
+
+Avoid or qualify:
+
+- Do not claim strong recurring software revenue.
+- Do not call FrameHide an established international brand.
+- Do not call an enquiry, sample review or positive reply a completed partnership.
+- Do not imply that you personally developed medical AI algorithms at COCHE.
+- Do not present every AI-assisted tool as expert-level software engineering capability.
+
+## 12. Recommended Two-Page CV Header
+
+```text
+JOHNSON ZIKAI GAO
+Project Coordination | Operations | Digital Product Execution
+
+Hong Kong | Phone | Email | LinkedIn
+Work Authorisation: Hong Kong IANG visa holder; no employer sponsorship required
+Eligible to apply for Hong Kong permanent residency from Sep 2026, subject to approval
+Selected Projects: www.kainuotech.com | www.framehide.com
 ```
