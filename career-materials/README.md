@@ -5,6 +5,7 @@ This directory is reserved for Johnson's job search. It is intentionally separat
 ## Tracked Career Documents
 
 - `cv-rewrite-notes.md` — bilingual CV source, positioning decisions and evidence rules.
+- `cv-master-draft.md` — copy-ready general English CV content based on the previous one-page template, with a Chinese reference version.
 - Future final CVs, interview notes and role-specific writing can remain directly under `career-materials/` or in clearly named subdirectories.
 
 ## Local Career-Ops Workspace
