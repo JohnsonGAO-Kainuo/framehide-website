@@ -29,3 +29,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local career-ops workspace (separate nested system and personal job-search data)
+/career-materials/career-ops/

@@ -18,68 +18,72 @@ Project coordination + operations + digital product execution + early-stage busi
 
 Recommended CV order:
 
-1. Name, contact details and work authorisation
-2. Profile Summary
-3. Professional Experience
+1. Name, contact details and targeted professional headline
+2. Professional Experience
    - Kainuo Innovision Tech Co., Limited
    - Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
-4. Selected Projects
-5. Education
-6. Professional Certifications
-7. Skills and Languages
+3. Selected Projects
+4. Education
+5. Professional Certifications
+6. Skills and Languages
+
+A profile summary is optional. Do not include one merely because a template has a Summary section.
 
 Keep POADmedia, early university internships, Student Mentor, SEO assistant and the short securities PTA experience off the main CV. They can be disclosed truthfully if an employment-history form or background check asks for a complete record.
 
 ## 2. IANG and Permanent Residency Wording
 
-Recommended CV line:
+Default recommendation for the main CV:
 
 ```text
-Work Authorisation: Hong Kong IANG visa holder; no employer sponsorship or change-of-employer approval required. Eligible to apply for Hong Kong permanent residency from Sep 2026, subject to Immigration Department approval.
+Omit visa and future permanent-residency information unless the vacancy, application form or recruiter asks about work authorisation.
 ```
 
-Shorter version for the header:
+If sponsorship eligibility is likely to be a screening concern, use only this neutral line:
 
 ```text
-Hong Kong IANG visa holder · No employer sponsorship required
+Eligible to work in Hong Kong without employer sponsorship.
 ```
 
-Optional line under Additional Information:
+If a recruiter asks for the visa category, answer:
 
 ```text
-Eligible to apply for Hong Kong permanent residency from Sep 2026, subject to Immigration Department approval.
+I currently hold an IANG visa and do not require employer sponsorship or change-of-employer approval. I expect to be eligible to apply for Hong Kong permanent residency from Sep 2026, subject to Immigration Department approval.
 ```
 
 中文参考：
 
 ```text
-工作许可：持香港 IANG 签证，受雇或转换雇主无需公司提供签证担保或事先取得入境处批准；预计自 2026 年 9 月起具备申请香港永久居民资格，最终以入境处审批为准。
+主简历默认不写签证和未来永居信息。只有职位、申请表或招聘方明确询问工作许可时，再说明：目前持 IANG，受雇及转换雇主无需公司担保或事先取得入境处批准；预计自 2026 年 9 月起具备申请香港永久居民资格，最终以入境处审批为准。
 ```
 
 Important:
 
 - Use “eligible to apply”, not “will become a permanent resident”.
 - Do not write “permanent resident from Sep 2026” before approval.
-- The most useful message for an employer is that hiring you does not require employment sponsorship or a change-of-employer application.
+- Do not try to make recruiters assume you are a permanent resident. Simply omit the topic unless asked, and answer accurately when it appears on an application form.
+- When the topic matters, the useful point is that hiring you does not require employment sponsorship or a change-of-employer application.
 
 ## 3. Profile Summary
 
-Recommended English version:
+Recommendation: a summary is not mandatory. For your CV, start without one and use a targeted headline such as:
 
 ```text
-Project and operations professional with experience supporting multiple healthcare technology projects and independently delivering digital products, client websites and an early-stage B2B trading workflow. Skilled in cross-functional coordination, stakeholder communication, action tracking, management reporting, Excel/Tableau dashboards and AI-assisted product execution. Combines structured project follow-up with hands-on experience in client requirements, supplier coordination, digital operations and business development.
+Project Coordination | Operations | Business Development
 ```
 
-中文对照：
+Add a two-line profile only when the CV feels difficult to understand without context, or when tailoring it to a specific role. Never use a generic career objective.
+
+Optional English profile:
 
 ```text
-具备医疗科技多项目支持及独立数字业务落地经验的项目与运营人才。擅长跨部门协调、利益相关方沟通、行动事项追踪、管理层汇报、Excel/Tableau 可视化看板，以及 AI 辅助的产品执行。能够将结构化项目跟进与客户需求、供应商协调、数字化运营和业务开发结合起来。
+Project and operations professional with experience supporting multiple healthcare technology projects and independently delivering client websites, digital products and an early-stage B2B trading workflow. Strong in cross-functional coordination, stakeholder communication, project reporting, data dashboards and hands-on business execution.
 ```
 
-Shorter version:
+中文参考：
 
 ```text
-Project and operations professional with experience in healthcare technology project coordination, digital product delivery, data reporting and early-stage business development. Skilled in cross-functional follow-up, stakeholder communication, Excel/Tableau dashboards and AI-assisted workflows.
+个人简介不是必填项。建议先用“项目协调｜运营｜业务开发”作为职业标题；只有在经历跨度让招聘方难以快速理解，或者需要针对某个岗位定制时，再加两行简介。不要写“希望寻找一个稳定平台”等空泛求职目标。
 ```
 
 ## 4. Professional Experience
@@ -217,13 +221,11 @@ Before final submission, verify the exact official English name and issuing body
 Recommended CV version:
 
 ```text
-Project & Operations: Cross-functional coordination, stakeholder communication, meeting facilitation, action tracking, milestone and dependency follow-up, project reporting, requirements gathering
+Project & Operations: Cross-functional coordination, stakeholder communication, meeting coordination, action tracking, milestone and dependency follow-up, project reporting, requirements gathering
 
-Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS, basic SQL
+Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS
 
-AI & Product Tools: ChatGPT, Claude, Codex, GitHub Copilot, Figma, AI-assisted research, content development, prototyping and workflow improvement
-
-Digital Delivery: Website planning and deployment, GitHub, Vercel, basic Next.js/React exposure, basic Supabase/Firebase administration, Stripe integration exposure, domain/email/analytics setup
+Digital & Product Delivery: Website planning, content architecture, Figma, domain and business email setup, deployment, analytics setup, basic CMS and database administration
 
 Business Development: Client communication, proposal and quotation preparation, supplier coordination, cold outreach, logistics coordination, B2B sample follow-up
 
@@ -233,24 +235,23 @@ Languages: Native Mandarin; fluent Cantonese; professional working proficiency i
 中文对照：
 
 ```text
-项目与运营：跨部门协调、利益相关方沟通、会议组织、行动事项追踪、里程碑与依赖关系跟进、项目汇报、需求收集
+项目与运营：跨部门协调、利益相关方沟通、会议协调、行动事项追踪、里程碑与依赖关系跟进、项目汇报、需求收集
 
-数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS、基础 SQL
+数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS
 
-AI 与产品工具：ChatGPT、Claude、Codex、GitHub Copilot、Figma，以及 AI 辅助研究、内容制作、产品原型和流程优化
-
-数字化交付：网站规划与部署、GitHub、Vercel、Next.js/React 基础接触、Supabase/Firebase 基础管理、Stripe 支付整合经验、域名/邮箱/数据分析配置
+数字与产品交付：网站规划、内容架构、Figma、域名及企业邮箱配置、网站部署、数据分析配置，以及基础 CMS 和数据库管理
 
 业务开发：客户沟通、方案与报价准备、供应商协调、冷开发、物流协调、B2B 样品跟进
 
 语言：普通话母语；粤语流利；英语可用于专业工作沟通
 ```
 
-Why the tools are grouped this way:
+Skills rule:
 
-- The CV shows that you can use technology to deliver work, without positioning you as a full-stack software engineer.
-- Product and AI tools support your project/operations story rather than replacing it.
-- Business development and external-trade execution remain visible for roles related to operations, digital projects, startups and international trade.
+- Do not list ChatGPT, Claude, Codex or GitHub Copilot as standalone skills in the general CV. Tool access is common; the skill is the work you can complete with them.
+- If a vacancy explicitly values AI literacy, describe the capability as “AI-assisted research, content structuring, workflow prototyping and quality review”, supported by a real experience bullet.
+- Do not list Next.js, React, SQL or database tools unless you can answer practical interview questions about them and the target role benefits from that information.
+- Keep the main skills section focused on repeatable capabilities that are relevant to the vacancy.
 
 ## 8. Role-Specific Adjustments
 
@@ -340,10 +341,10 @@ Avoid or qualify:
 
 ```text
 JOHNSON ZIKAI GAO
-Project Coordination | Operations | Digital Product Execution
+Project Coordination | Operations | Business Development
 
 Hong Kong | Phone | Email | LinkedIn
-Work Authorisation: Hong Kong IANG visa holder; no employer sponsorship required
-Eligible to apply for Hong Kong permanent residency from Sep 2026, subject to approval
 Selected Projects: www.kainuotech.com | www.framehide.com
 ```
+
+Add `Eligible to work in Hong Kong without employer sponsorship` only when work-authorisation screening is likely to matter.
