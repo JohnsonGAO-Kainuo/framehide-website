@@ -98,7 +98,7 @@ Nov 2025 – Present
 - Established and operated two early-stage business lines covering B2B camera accessories trading and website/software services, with responsibility for market research, planning, customer requirements, supplier coordination and delivery.
 - Built FrameHide’s B2B export workflow, including product selection, supplier sourcing, product positioning, multilingual website content, overseas retailer research, cold outreach, quotation preparation, sample follow-up and logistics coordination; progressed an Australian camera retailer from initial outreach to a delivered product evaluation sample.
 - Delivered two paid client websites, including a five-language corporate website and a responsive portfolio website, covering requirements gathering, scoping, proposals, domain and email setup, deployment and handover.
-- Planned and launched four digital products using AI-assisted development workflows - Custly CRM, Kinolu, Velo Studio and Mood Balloon - across web, desktop and iOS; published Mood Balloon on the Apple App Store and gained more than 700 initial website users and Kinolu’s first paid subscribers through early market tests.
+- Launched four digital products using AI-assisted development workflows - Custly CRM, Kinolu, Velo Studio and Mood Balloon - across web, desktop and iOS; published Mood Balloon on the Apple App Store and tested promotion through SEO, Google Ads, social media and Product Hunt, with early campaigns generating more than 700 website users and Kinolu’s first paid subscribers.
 ```
 
 中文对照：
@@ -111,7 +111,7 @@ Nov 2025 – Present
 - 搭建并运营两条早期业务线，包括相机配件 B2B 外贸和网站/软件服务，负责市场调研、项目规划、客户需求、供应商协调和交付。
 - 搭建 FrameHide 的 B2B 出口流程，包括产品筛选、供应商寻找、产品定位、多语言网站内容、海外零售商调研、冷开发、报价、样品跟进和物流协调；将一名澳大利亚相机零售商从初次开发推进至完成产品评估样品交付。
 - 完成两个付费客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责需求沟通、范围界定、方案报价、域名及企业邮箱配置、部署和交付。
-- 运用 AI 辅助开发流程，规划并上线四款数字产品，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon，覆盖网页、桌面端和 iOS；推动 Mood Balloon 上架 Apple App Store，并通过初期市场测试获得超过 700 名网站用户和 Kinolu 的首批付费订阅用户。
+- 运用 AI 辅助开发流程上线四款数字产品，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon，覆盖网页、桌面端和 iOS；通过 SEO、Google Ads、社交媒体及 Product Hunt 测试产品推广，初期活动获得超过 700 名网站用户和 Kinolu 的首批付费订阅用户，并推动 Mood Balloon 上架 Apple App Store。
 ```
 
 Optional stronger commercial bullet, only if you are comfortable discussing the evidence:

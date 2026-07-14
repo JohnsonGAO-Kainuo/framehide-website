@@ -6,6 +6,8 @@ This directory is reserved for Johnson's job search. It is intentionally separat
 
 - `cv-rewrite-notes.md` — bilingual CV source, positioning decisions and evidence rules.
 - `cv-master-draft.md` — copy-ready general English CV content based on the previous one-page template, with a Chinese reference version.
+- `interview-prep/general-interview-qa.md` — reusable bilingual self-introduction, interview answers and evidence boundaries.
+- `interview-prep/hong-kong-market-notes-2026-07.md` — dated notes on Hong Kong interview formats, hiring conditions and candidate positioning.
 - Future final CVs, interview notes and role-specific writing can remain directly under `career-materials/` or in clearly named subdirectories.
 
 ## Local Career-Ops Workspace
