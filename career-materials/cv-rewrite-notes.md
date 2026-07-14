@@ -8,7 +8,7 @@ For the next CV version, use this core structure:
 
 1. Profile Summary
 2. Professional Experience
-   - Project Assistant, COCHE / Hong Kong Science Park healthcare AI project environment
+   - Project Assistant, COCHE project management team
    - Founder / Project Lead, Kainuo Innovision Tech Co., Limited
 3. Selected Projects / Portfolio Links
 4. Education
@@ -18,7 +18,14 @@ Recommended decision:
 
 - Do not include POADmedia in the main CV unless the target role is strongly related to advertising, LED display projects, project billing, or supplier coordination.
 - Do not include early university internships, Student Mentor, SEO assistant, or short PTA experience unless a specific job requires them.
-- Keep the CV focused on project coordination, operations, data reporting, AI/digital tools, client communication, and business execution.
+- Keep the CV focused on project coordination, PMO-style support, operations, data reporting, AI/digital tools, client communication, and business execution.
+
+中文参考：
+
+- 主简历建议只保留 COCHE 项目助理和 Kainuo 创业验证两段核心经历。
+- POAD 可以从主简历删除，避免两个短期经历连续出现。
+- 简历主线不是“我做过很多杂事”，而是“项目管理团队里的跨部门协调 + 数据报表 + AI/数字化工具 + 业务执行”。
+- COCHE 那段不一定要写香港科学园，也不一定要写 Healthcare AI Research Centre。除非目标岗位很看重 Science Park/医疗科技背景，否则写公司/中心名和岗位职责即可。
 
 Important rule:
 
@@ -70,7 +77,7 @@ Oct 2023 – Nov 2024
 
 Do not change dates only to hide a gap. It is acceptable to explain a short transition period after graduation.
 
-## 4. COCHE / Healthcare AI Project Assistant
+## 4. COCHE / Project Assistant
 
 Use this as the strongest employment experience.
 
@@ -78,31 +85,68 @@ Recommended title:
 
 ```text
 Project Assistant
-Hong Kong Centre for Cerebro-Cardiovascular Health Engineering / Healthcare AI Research Centre
-Hong Kong Science Park | Apr 2025 – Oct 2025
+Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
+Apr 2025 – Oct 2025
 ```
 
 Adjust the date after confirming the exact employment period.
 
+Positioning note:
+
+```text
+This role should be positioned as project management team / PMO-style coordination support. You were not a single project assistant for one project. You supported multiple project teams and helped connect management, project teams, software, hardware, finance, and other support functions.
+```
+
+中文参考：
+
+- 这段经历不要写成“我只协助一个科研项目”。更准确的说法是：你在 project management team，类似 PMO 支持角色，负责跟进多个项目团队。
+- 向上对接 management team / bosses，向下跟进多个 project teams。
+- 同时协调 software team、hardware team、financial team 等支持部门，让他们更好支持不同 project team 的执行。
+- “Research team” 可以少用或不用，改成 “project teams” 更贴近你说的实际情况。
+- “Healthcare AI Research Centre” 和 “Hong Kong Science Park” 不是必须写。它们可以在面试中解释，不一定占简历标题位置。
+
 Recommended bullet points:
 
 ```text
-- Coordinated cross-functional communication among management, research project teams, AI, software, and hardware teams to support healthcare technology and clinical research initiatives.
-- Followed up project progress, prepared meeting agendas and minutes, tracked action items, and supported management in monitoring project milestones and resource needs.
+- Supported the project management team in coordinating multiple healthcare technology project teams and aligning updates with management requirements.
+- Coordinated cross-functional communication among management, project teams, software, hardware, AI, and finance-related support functions to improve project execution and follow-up.
+- Followed up project progress, prepared meeting agendas and minutes, tracked action items, and supported management in monitoring milestones, dependencies, and resource needs.
 - Assisted in coordinating AI-related project discussions, including auto-segmentation, medical image denoising, scanning workflow improvement, and prototype development progress.
-- Translated technical project updates into structured reports, meeting notes, and follow-up items for management review.
+- Converted technical and project updates into structured reports, meeting notes, and follow-up items for management review.
 - Cleaned and organised clinical research and community activity datasets using Excel functions, pivot tables, and structured data workflows.
 - Built dynamic dashboards and visual reports using Excel pivot charts and Tableau to present participant data, clinical trial progress, filtering views, and community activity outcomes.
-- Supported internal reviews, project update meetings, and cross-department coordination to improve communication between technical teams and management.
+- Supported internal reviews, project update meetings, and cross-department coordination to improve communication between project teams, support functions, and management.
+```
+
+中文对照：
+
+```text
+- 支持 project management team 协调多个医疗科技项目团队，并根据管理层要求整理和同步项目进展。
+- 协调管理层、项目团队、软件、硬件、AI 以及财务相关支持部门之间的沟通，提升项目执行和跟进效率。
+- 跟进项目进度，准备会议议程和会议记录，追踪行动事项，并协助管理层了解里程碑、依赖关系和资源需求。
+- 协助协调 AI 相关项目讨论，包括自动分割、医学图像降噪、扫描流程优化和原型开发进展。
+- 将技术团队和项目团队的更新整理成结构化报告、会议记录和后续跟进行动，供管理层查看。
+- 使用 Excel 函数、数据透视表和结构化数据流程，清洗并整理临床研究和社区活动数据。
+- 使用 Excel 数据透视图和 Tableau 搭建动态看板和可视化报告，展示参与者数据、临床试验进展、筛选视图和社区活动结果。
+- 支持内部评审、项目更新会议和跨部门协调，改善项目团队、支持部门和管理层之间的信息同步。
 ```
 
 Shorter version if the CV needs to stay concise:
 
 ```text
-- Coordinated cross-functional project communication among management, AI, software, hardware, and research teams in a healthcare technology environment.
-- Prepared meeting minutes, tracked action items, followed up project progress, and converted technical updates into management-facing reports.
+- Supported PMO-style coordination across multiple healthcare technology project teams, management, software, hardware, AI, and finance-related support functions.
+- Prepared meeting minutes, tracked action items, followed up project progress, and converted technical/project updates into management-facing reports.
 - Built Excel and Tableau dashboards from clinical research and community activity datasets, including data cleaning, pivot charts, filters, and visual reporting views.
 - Supported AI-related project coordination involving auto-segmentation, image denoising, scanning workflow improvement, and prototype progress tracking.
+```
+
+中文精简版：
+
+```text
+- 支持多个医疗科技项目的 PMO 式协调工作，对接管理层、项目团队、软件、硬件、AI 和财务相关支持部门。
+- 准备会议记录，追踪行动事项，跟进项目进展，并将技术/项目更新整理成面向管理层的报告。
+- 基于临床研究和社区活动数据，使用 Excel 和 Tableau 进行数据清洗、数据透视图、筛选器和可视化看板搭建。
+- 支持 AI 相关项目协调，包括自动分割、图像降噪、扫描流程优化和原型进展跟进。
 ```
 
 Do not write in the CV:
@@ -112,10 +156,32 @@ Do not write in the CV:
 - Fear of being dismissed.
 - Overly technical claims that make it sound like you personally developed the AI models.
 
+Useful wording choices:
+
+| Avoid | Use instead | 中文理解 |
+| --- | --- | --- |
+| Research teams | Project teams | 你主要协调多个项目团队，不只是科研团队 |
+| Healthcare AI Research Centre | Healthcare technology project environment | 不一定把机构包装写得太重，强调项目环境即可 |
+| I managed AI development | I supported AI-related project coordination | 避免让人误以为你亲自开发模型 |
+| I was responsible for everything | I supported cross-functional coordination and follow-up | 更真实，也更像项目助理/PMO 支持 |
+| Hong Kong Science Park in title | Mention only if useful | 科学园背景可面试时讲，简历标题不一定要写 |
+
+中文说明：
+
+- “PMO-style support” 是可以用的，但不要直接写 “PMO Manager”。你可以说自己在 project management team，做的是类似 PMO 的协调、跟进、会议、报告和跨部门沟通支持。
+- “Project teams” 比 “research teams” 更准确，因为你不是只跟科研团队沟通，而是跟多个项目团队以及软件、硬件、AI、财务支持部门沟通。
+- “AI-related project coordination” 比 “AI development” 更安全，因为你参与的是协调和跟进，不是亲自训练模型或写核心算法。
+
 Interview explanation for leaving:
 
 ```text
 The role gave me useful exposure to healthcare AI project coordination and cross-functional communication. After that period, I wanted to test my own business ideas and applied what I learned in project execution, digital tools, client communication, and operations. I am now looking to return to a structured team environment where I can grow more consistently and contribute in a stable long-term role.
+```
+
+中文参考：
+
+```text
+这份工作让我接触到医疗科技项目的跨部门协调和项目管理支持工作。离开之后，我花了一段时间验证自己的业务想法，把项目执行、数字工具、客户沟通和运营方面的经验用到真实业务中。现在我希望回到更有结构的团队环境中，稳定成长并长期贡献。
 ```
 
 ## 5. Kainuo / Entrepreneurial Experience
@@ -335,7 +401,7 @@ PROFILE
 PROFESSIONAL EXPERIENCE
 
 Project Assistant
-COCHE / Healthcare AI Research Centre, Hong Kong Science Park
+Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
 Apr 2025 – Oct 2025
 [Use 4–6 bullet points]
 
@@ -361,4 +427,3 @@ SKILLS
 ADDITIONAL
 Languages: Mandarin native, Cantonese fluent, English fluent
 ```
-
