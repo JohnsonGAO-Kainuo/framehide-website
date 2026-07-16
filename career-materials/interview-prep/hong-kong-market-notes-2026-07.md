@@ -63,7 +63,7 @@ Johnson is best positioned as an **early-career candidate with practical experie
 - Short formal employment history and two career transitions in a limited period.
 - No completed wholesale order or long-term external-trade sales record yet.
 - No multi-year tenure within one industry or established commercial team.
-- `Founder` may create concerns about commitment or conflict of interest if not explained clearly.
+- Ownership of an active company may create concerns about commitment or conflict of interest if not explained clearly.
 - Some graduate programmes may prefer final-year students or very recent graduates and use campus-specific timelines and assessments.
 
 ### Objective conclusion
@@ -73,6 +73,21 @@ For ordinary junior social-recruitment roles requiring zero to two years, or som
 ```
 
 This means the search should not be limited to `fresh graduate` vacancies, but should also avoid overreaching into manager-level positions.
+
+### Compared with graduating in 2024
+
+Johnson's **personal evidence is stronger now**, but the overall search is **not necessarily easier or more straightforward**:
+
+- At graduation, the profile was simpler and more naturally suited to graduate schemes, but there was little full-time evidence beyond education and internships.
+- Now, there are more credible examples involving project coordination, paid client delivery, product promotion, suppliers, overseas outreach and logistics.
+- The current profile can compete for a wider range of normal junior social-recruitment roles, but short tenures and self-employment require a clear explanation.
+- Comparable official March data show that surveyed private-sector vacancies fell from 75,180 in 2024 to 48,610 in 2026. This is not a perfect measure of every vacancy, but it indicates that the external market is less open than it was around the earlier career stage.
+
+The most accurate conclusion is:
+
+```text
+The available role types are broader and Johnson's interview evidence is stronger than at graduation, but the path is less standard and the market is more selective. It is therefore a better-qualified search, not an easier search.
+```
 
 ## 4. Recommended Search Band
 
@@ -96,6 +111,18 @@ Be selective with:
 - Highly technical software positions.
 - Commission-only insurance or wealth-management listings presented as general business-development jobs.
 
+### Company-size fit
+
+The best learning environment is not automatically the smallest company. Prioritise an established small or medium-sized trading, brand, manufacturing or supply-chain business that has:
+
+- Existing products, customers and repeat business rather than only an idea.
+- A manager or senior colleague with real export or commercial experience.
+- Clear responsibilities, base salary, MPF and normal employment documentation.
+- Basic processes for quotations, customer follow-up, supplier coordination and logistics.
+- Enough breadth for exposure to the full workflow without making one junior employee responsible for everything.
+
+Small growth companies may value entrepreneurial initiative more than highly standardised employers, but owner-led microbusinesses may also be more sensitive about loyalty, control and competing side businesses. Larger companies can offer better systems and training but may screen short tenures more formally. The best fit is therefore a stable SME or mid-sized team with no direct conflict with FrameHide, not simply the smallest available employer.
+
 ## 5. Application Strategy
 
 1. Use one general CV for the first application batch, but change the opening email and the order of emphasis for each job family.
@@ -108,6 +135,7 @@ Be selective with:
 ## 6. Sources
 
 - [Hong Kong Census and Statistics Department: Statistics on persons engaged and vacancies for March 2026](https://www.info.gov.hk/gia/general/202606/22/P2026062200360.htm)
+- [Hong Kong Census and Statistics Department: Employment and vacancies statistics for March 2024](https://www.info.gov.hk/gia/general/202406/20/P2024062000274p.htm)
 - [Hong Kong First Quarter Economic Report 2026](https://www.hkeconomy.gov.hk/en/pdf/er_26q1.pdf)
 - [KPMG Hong Kong Employment Outlook 2026](https://kpmg.com/cn/en/insights/2026/03/hong-kong-employment-outlook-2026.html)
 - [Hays Hong Kong recruitment process](https://www.hays.com.hk/join-us/recruitment-process)

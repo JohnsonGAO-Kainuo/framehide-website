@@ -88,10 +88,32 @@ Project and operations professional with experience supporting multiple healthca
 
 ## 4. Professional Experience
 
-### Founder / Project & Operations Lead
+### Title treatment for the self-employed period
+
+Recommended CV wording:
 
 ```text
-Founder / Project & Operations Lead
+Kainuo Innovision Tech Co., Limited | Hong Kong
+Business Operations & Project Delivery (Self-employed)
+Nov 2025 – Present
+```
+
+This keeps the company, dates and ownership context truthful while placing attention on the work performed. Do not use `Founder` as the default headline for junior applications because it may create unnecessary seniority and commitment concerns. Do not replace it with `Project Manager`, which could imply a conventional employed role, reporting line and formal authority that did not exist. Do not remove the period entirely, because that would create a substantial unexplained gap and discard relevant evidence.
+
+中文理解：
+
+```text
+凱諾創享科技有限公司｜香港
+业务运营与项目交付（自雇）
+2025 年 11 月至今
+```
+
+保留公司、日期和自雇性质，但不把“创办人”作为醒目职位，也不虚构成受雇的“项目经理”。面试如被问及公司所有权，应直接说明公司由自己设立和运营。
+
+### Business Operations & Project Delivery (Self-employed)
+
+```text
+Business Operations & Project Delivery (Self-employed)
 Kainuo Innovision Tech Co., Limited | Hong Kong
 Nov 2025 – Present
 
@@ -104,7 +126,7 @@ Nov 2025 – Present
 中文对照：
 
 ```text
-创办人 / 项目与运营负责人
+业务运营与项目交付（自雇）
 凱諾創享科技有限公司｜香港
 2025 年 11 月至今
 

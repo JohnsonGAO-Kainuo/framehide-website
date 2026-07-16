@@ -34,7 +34,7 @@ Portfolio: www.framehide.com | www.kainuotech.com
 WORK EXPERIENCE
 
 Kainuo Innovision Tech Co., Limited                                      Nov. 2025 - Present
-Founder / Project & Operations Lead
+Business Operations & Project Delivery (Self-employed)
 
 - Established and operated two early-stage business lines covering B2B camera accessories trading and website/software services, with responsibility for market research, planning, customer requirements, supplier coordination and delivery.
 - Built FrameHide's B2B export workflow, including product selection, supplier sourcing, product positioning, multilingual website content, overseas retailer research, cold outreach, quotation preparation, sample follow-up and logistics coordination; progressed an Australian camera retailer from initial outreach to a delivered product evaluation sample.
@@ -86,7 +86,7 @@ JOHNSON ZIKAI GAO
 工作经历
 
 凱諾創享科技有限公司                                             2025 年 11 月至今
-创办人 / 项目与运营负责人
+业务运营与项目交付（自雇）
 
 - 搭建并运营两条早期业务线，包括相机配件 B2B 外贸和网站/软件服务，负责市场调研、项目规划、客户需求、供应商协调和交付。
 - 搭建 FrameHide 的 B2B 出口流程，包括产品筛选、供应商寻找、产品定位、多语言网站内容、海外零售商调研、冷开发、报价、样品跟进和物流协调；将一名澳大利亚相机零售商从初次开发推进至完成产品评估样品交付。
