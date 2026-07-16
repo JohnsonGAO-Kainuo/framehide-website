@@ -94,26 +94,26 @@ Recommended CV wording:
 
 ```text
 Kainuo Innovision Tech Co., Limited | Hong Kong
-Business Operations & Project Delivery (Self-employed)
+Business Operations & Project Delivery
 Nov 2025 – Present
 ```
 
-This keeps the company, dates and ownership context truthful while placing attention on the work performed. Do not use `Founder` as the default headline for junior applications because it may create unnecessary seniority and commitment concerns. Do not replace it with `Project Manager`, which could imply a conventional employed role, reporting line and formal authority that did not exist. Do not remove the period entirely, because that would create a substantial unexplained gap and discard relevant evidence.
+This places attention on the work performed without using ownership as the headline. The first bullet must still state that Johnson established or built and operated the business lines, so the CV remains transparent. Use `Self-employed` accurately on employment-history forms, background-check forms and LinkedIn employment type where requested. Do not use `Founder` as the default headline for junior applications because it may create unnecessary seniority and commitment concerns. Do not replace it with `Project Manager`, which could imply a conventional employed role, reporting line and formal authority that did not exist. Do not remove the period entirely, because that would create a substantial unexplained gap and discard relevant evidence.
 
 中文理解：
 
 ```text
 凱諾創享科技有限公司｜香港
-业务运营与项目交付（自雇）
+业务运营与项目交付
 2025 年 11 月至今
 ```
 
-保留公司、日期和自雇性质，但不把“创办人”作为醒目职位，也不虚构成受雇的“项目经理”。面试如被问及公司所有权，应直接说明公司由自己设立和运营。
+职位标题不突出“创办人”或“自雇”，但第一条工作内容仍要说明业务由自己搭建并运营，不能制造传统受雇经历的错觉。申请表、背调表、LinkedIn 就业类型或面试如询问公司所有权，应准确说明是自雇及本人设立运营的公司。
 
-### Business Operations & Project Delivery (Self-employed)
+### Business Operations & Project Delivery
 
 ```text
-Business Operations & Project Delivery (Self-employed)
+Business Operations & Project Delivery
 Kainuo Innovision Tech Co., Limited | Hong Kong
 Nov 2025 – Present
 
@@ -126,7 +126,7 @@ Nov 2025 – Present
 中文对照：
 
 ```text
-业务运营与项目交付（自雇）
+业务运营与项目交付
 凱諾創享科技有限公司｜香港
 2025 年 11 月至今
 
@@ -370,7 +370,7 @@ Add `Eligible to work in Hong Kong without employer sponsorship` only when work-
 ## 13. 中文决策速查
 
 - **简历顺序**：联系方式 → 工作经历 → 教育背景 → 专业认证 → 技能与语言。主简历不必写个人简介和意向岗位。
-- **自雇职位**：使用“业务运营与项目交付（自雇）”，保留公司及日期；不突出“创办人”，也不虚构成传统受雇的“项目经理”。
+- **自雇职位**：一页简历使用“业务运营与项目交付”，并在第一条内容明确说明业务由自己搭建并运营；申请表、背调及直接提问时准确披露自雇和公司所有权。不要突出“创办人”，也不虚构成传统受雇的“项目经理”。
 - **两段经历顺序**：按时间倒序，自雇经历在前，COCHE 项目助理在后。这样符合正常简历规则，也避免制造时间空档。
 - **外贸岗位重点**：把海外零售商调研、开发信、报价、样品、供应商和物流协调放在最显眼位置。
 - **项目岗位重点**：把多项目协调、会议及行动跟进、跨部门信息整理和数据看板放在最显眼位置。

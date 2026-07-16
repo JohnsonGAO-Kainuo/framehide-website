@@ -2,16 +2,25 @@
 
 This is the recommended general CV source for external trade, business development, operations and project-support roles. It follows the single-column, black-and-white structure of the previous CV while replacing outdated sections with current, verifiable experience.
 
-## 1. How the Previous Template Should Change
+## 1. Exact Migration from the Previous One-Page CV
 
-| Previous section | Recommended treatment |
-| --- | --- |
-| Header | Keep the simple centred header. Omit IANG, permanent-residency plans and intended role. Add LinkedIn only after the profile is ready. |
-| Academic Background | Keep both universities but move education below work experience. Remove long major-course lists. |
-| Work Experience | Replace POADmedia with Kainuo and COCHE. Use reverse chronological order. |
-| Project Experience | Remove university assignments from the main CV. Real client, digital-product and FrameHide projects are stronger and already appear under Kainuo. |
-| Internship Experience | Remove the 2020 BOC internship from the main CV. Keep it only for finance/research-specific applications. |
-| Additional Information | Keep languages and a concise capability-based skills list. Do not list ChatGPT, Claude or similar tools as standalone skills. |
+| Previous CV block | Action | Replacement in the new CV |
+| --- | --- | --- |
+| Name, email and telephone | Keep the centred two-line structure. Remove `IANG-visa holder`. Add `Hong Kong`; add LinkedIn only after it is ready. | Name on line one; location, phone, email and optional LinkedIn on line two. |
+| No portfolio line | Add one short line because recruiters should not be expected to search for the work themselves. | `Selected work: framehide.com | kainuotech.com` with clickable links. |
+| `ACADEMIC BACKGROUND` at the top | Keep the university names, degrees and dates, but move the whole section below work experience. Delete every `Major Courses` line. | Two compact education entries requiring about five lines in total. |
+| `POADmedia Limited` | Remove from the one-page general CV. The role lasted less than three months and is less relevant than the two later experiences. | Replace the entire work section with Kainuo followed by COCHE in reverse chronological order. |
+| `PROJECT EXPERIENCE` | Delete the entire section. The multi-project simulation and customer-engagement analysis were academic exercises and now duplicate stronger real work. | Relevant project-management and dashboard evidence appears under COCHE; commercial and digital projects appear under Kainuo. |
+| `INTERNSHIP EXPERIENCE` | Delete the entire BOC section from the general CV. | Restore it only for a finance or investment-research application where it is directly relevant. |
+| `ADDITIONAL INFORMATION` | Keep languages. Replace the old software list with a concise capability-based line. | Languages plus one `Core Skills` line. |
+
+中文替换说明：
+
+- **保留**：姓名居中、黑白单栏、学校及学位、语言信息、公司和日期左右对齐的版式。
+- **删除**：IANG 标记、所有 Major Courses、POADmedia、两段课程项目、BOC 实习，以及过长的软件名称列表。
+- **替换**：工作经历改为 Kainuo 和 COCHE；课程项目中的项目管理和数据分析能力，分别用两段真实工作中的证据替代。
+- **新增**：一行可点击的作品链接，以及两项专业认证。
+- **顺序**：工作经历 → 教育背景 → 专业认证 → 其他信息。你现在已经不再是仅靠教育背景竞争的应届生，因此工作经历应放在前面。
 
 The visual style can remain close to the original:
 
@@ -21,35 +30,62 @@ The visual style can remain close to the original:
 - Bold uppercase section headings with horizontal rules.
 - Organisation on the left and dates aligned right.
 - Role title in italics under the organisation.
-- Three to four bullets per role.
-- Target length: one page if legible, otherwise a clean two-page CV rather than an overcrowded one-page document.
+- Exactly three bullets per role in the one-page version.
+- Target length: one page.
 
-中文说明：保留原简历简洁、单栏、黑白的版式即可。工作经历放在教育经历前；删除过早且相关性较低的实习和课程项目；每段经历保留三至四个有证据支持的要点。能清楚排成一页最好，否则宁可使用整洁的两页，也不要把一页塞得过满。
+中文说明：保留原简历简洁、单栏、黑白的版式即可。每段工作固定三个要点，并删除过早且相关性较低的经历，目标是清晰的一页，而不是缩小到难以阅读的字号。
 
-## 2. Copy-Ready English CV
+### One-page layout budget
+
+- Header and selected-work links: 3 lines.
+- Kainuo: company/title/date plus 3 bullets, approximately 10-11 lines.
+- COCHE: company/title/date plus 3 bullets, approximately 9-10 lines.
+- Education: approximately 5 lines.
+- Certifications: 2 lines.
+- Languages and core skills: 2-3 lines.
+- Recommended formatting: 10-10.5 pt body text, 12-13 pt section headings, 0.55-0.65 inch margins, 1.0-1.05 line spacing, and 2-4 pt spacing after bullets.
+
+中文页数预算：页眉和作品链接约三行；两段工作经历合计约二十行；教育约五行；认证两行；语言和核心技能两至三行。正文建议 `10-10.5 pt`，页边距 `0.55-0.65 inch`，不要通过使用 8-9 号小字强行塞入一页。
+
+## 2. Title and Website-Link Decision
+
+`Founder`, `Entrepreneur` and `Self-employed` are not identical signals:
+
+- `Founder` or `Entrepreneur` foregrounds ownership, seniority and founder identity. It is most likely to trigger questions about commitment, authority and plans to restart the business.
+- `Self-employed` describes the employment arrangement rather than seniority, so it is more neutral, but it still tells the recruiter that this was not conventional employment.
+- For the one-page CV, the recommended title is simply `Business Operations & Project Delivery`. The first bullet remains transparent by stating that Johnson built and operated the two business lines. Employment forms, background-check forms and direct interview questions must still be answered accurately as self-employment and company ownership.
+
+中文结论：`Self-employed` 和“创业”不是完全相同，但招聘方确实都可能理解为你自己经营业务。区别主要是呈现重点，而不是用来隐瞒。最终一页简历的职位建议只写“业务运营与项目交付”，第一条经历仍明确说明你搭建并运营业务；申请表、背调和面试直接询问时，再准确说明是自雇及本人公司。
+
+网站链接建议保留，但不要依赖招聘人员自行搜索：
+
+- 通用简历写一行 `Selected work: framehide.com | kainuotech.com`。
+- `framehide.com` 证明外贸、产品定位和 B2B 流程；`kainuotech.com` 证明网站服务和数字化交付。
+- 两个网址都应设置为可点击链接，但不需要在工作要点中反复出现。
+- 如果某个网站内容过时、与简历不一致或会强化仍在全职经营的印象，应先更新网站，再放进简历。
+
+## 3. Copy-Ready One-Page English CV
 
 ```text
 JOHNSON ZIKAI GAO
 Hong Kong | +852 9341 2653 | [Professional Email] | [LinkedIn URL]
-Portfolio: www.framehide.com | www.kainuotech.com
+Selected work: www.framehide.com | www.kainuotech.com
 
 WORK EXPERIENCE
 
 Kainuo Innovision Tech Co., Limited                                      Nov. 2025 - Present
-Business Operations & Project Delivery (Self-employed)
+Business Operations & Project Delivery
 
-- Established and operated two early-stage business lines covering B2B camera accessories trading and website/software services, with responsibility for market research, planning, customer requirements, supplier coordination and delivery.
-- Built FrameHide's B2B export workflow, including product selection, supplier sourcing, product positioning, multilingual website content, overseas retailer research, cold outreach, quotation preparation, sample follow-up and logistics coordination; progressed an Australian camera retailer from initial outreach to a delivered product evaluation sample.
-- Delivered two paid client websites, including a five-language corporate website and a responsive portfolio website; managed requirements, scoping, proposals, domain and business email setup, deployment and handover.
-- Launched four digital products using AI-assisted development workflows - Custly CRM, Kinolu, Velo Studio and Mood Balloon - across web, desktop and iOS; published Mood Balloon on the Apple App Store and tested promotion through SEO, Google Ads, social media and Product Hunt, with early campaigns generating more than 700 website users and Kinolu's first paid subscribers.
+- Built and operated two early-stage business lines covering B2B camera accessories and digital services, handling market research, client requirements, supplier coordination, quotations and delivery.
+- Built FrameHide's export workflow from product and supplier selection to overseas retailer outreach and sample logistics, progressing an Australian camera retailer from initial contact to a delivered evaluation sample.
+- Delivered two paid client websites and launched four digital products across web, desktop and iOS; tested SEO, Google Ads, social media and Product Hunt, generating 700+ initial website users and the first paid subscribers.
 
 Hong Kong Centre for Cerebro-Cardiovascular Health Engineering            Apr. 2025 - Oct. 2025
 Project Assistant, Project Management Team
 
-- Supported the project management team in coordinating multiple healthcare technology projects across management, project teams, software, hardware, AI and finance-related support functions; tracked milestones, dependencies, action items and resource needs.
-- Organised project meetings, prepared agendas and minutes, followed up owners and deadlines, and converted technical and operational updates into structured management reports.
-- Supported follow-up across multiple healthcare project workstreams; one representative workstream involved neck and thyroid imaging workflows, automated image segmentation and image denoising.
-- Coordinated with clinical research and community programme teams to collect, clean and organise project data using Excel functions and PivotTables, and built dynamic Excel/Tableau dashboards with filters, PivotCharts and management-facing reports.
+- Coordinated multiple healthcare technology projects across management, project teams and software, hardware, AI and finance support functions, tracking milestones, dependencies and action items.
+- Organised meetings, prepared minutes, followed up owners and deadlines, and consolidated technical and operational updates into structured management reports.
+- Worked with clinical research and community programme teams to clean and organise data using Excel functions and PivotTables, and built Excel/Tableau dashboards for management review.
 
 EDUCATION
 
@@ -62,46 +98,36 @@ Bachelor of Business Management with Honours
 
 PROFESSIONAL CERTIFICATIONS
 
-- Associate Project Manager (AssocPM), [Issuing Organisation - verify against credential]
-- Google Project Management Professional Certificate, Coursera
+Associate Project Manager (AssocPM), [Issuing Organisation - verify] | Google Project Management Professional Certificate, Coursera
 
 ADDITIONAL INFORMATION
 
 Languages: Mandarin (native), Cantonese (fluent), English (professional working proficiency)
-
-Project & Operations: Cross-functional coordination, stakeholder communication, meeting coordination, action tracking, milestone and dependency follow-up, requirements gathering, project reporting
-
-International Trade & Business Development: Overseas retailer research, cold outreach, client communication, supplier sourcing and coordination, quotation preparation, sample follow-up and logistics coordination
-
-Data & Reporting: Excel functions, PivotTables, PivotCharts, data cleaning, dashboard building, Tableau, SPSS
-
-Digital Delivery: Website planning, content architecture, Figma, domain and business email setup, website deployment, analytics setup, basic CMS and database administration
+Core Skills: Project coordination, stakeholder communication, B2B outreach, supplier and client coordination, quotations and sample logistics, Excel, Tableau, SPSS
 ```
 
-## 3. Chinese Reference
+## 4. Chinese One-Page Reference
 
 ```text
 JOHNSON ZIKAI GAO
 香港｜+852 9341 2653｜[专业求职邮箱]｜[LinkedIn 链接]
-作品： www.framehide.com｜www.kainuotech.com
+精选作品：www.framehide.com｜www.kainuotech.com
 
 工作经历
 
 凱諾創享科技有限公司                                             2025 年 11 月至今
-业务运营与项目交付（自雇）
+业务运营与项目交付
 
-- 搭建并运营两条早期业务线，包括相机配件 B2B 外贸和网站/软件服务，负责市场调研、项目规划、客户需求、供应商协调和交付。
-- 搭建 FrameHide 的 B2B 出口流程，包括产品筛选、供应商寻找、产品定位、多语言网站内容、海外零售商调研、冷开发、报价、样品跟进和物流协调；将一名澳大利亚相机零售商从初次开发推进至完成产品评估样品交付。
-- 完成两个付费客户网站，包括一个五语言企业官网和一个响应式个人作品集网站，负责需求沟通、范围界定、方案报价、域名及企业邮箱配置、部署和交付。
-- 运用 AI 辅助开发流程上线四款数字产品，包括 Custly CRM、Kinolu、Velo Studio 和 Mood Balloon，覆盖网页、桌面端和 iOS；通过 SEO、Google Ads、社交媒体及 Product Hunt 测试产品推广，初期活动获得超过 700 名网站用户和 Kinolu 的首批付费订阅用户，并推动 Mood Balloon 上架 Apple App Store。
+- 搭建并运营相机配件 B2B 和数字化服务两条早期业务线，负责市场调研、客户需求、供应商协调、报价及交付。
+- 搭建 FrameHide 从产品及供应商筛选到海外零售商开发和样品物流的出口流程，将一名澳大利亚相机零售商从初次联系推进至完成评估样品交付。
+- 完成两个付费客户网站，并上线四款覆盖网页、桌面端和 iOS 的数字产品；测试 SEO、Google Ads、社交媒体和 Product Hunt，获得超过 700 名初期网站用户及首批付费订阅用户。
 
 香港心脑血管健康工程研究中心                                      2025 年 4 月至 2025 年 10 月
 项目助理（项目管理团队）
 
-- 支持项目管理团队协调多个医疗科技项目，对接管理层、项目团队，以及软件、硬件、AI 和财务相关支持部门，并跟进里程碑、依赖关系、行动事项和资源需求。
-- 组织项目会议，准备会议议程和会议记录，追踪负责人及截止时间，并将技术和运营更新整理为结构化管理报告。
-- 跟进多个医疗科技项目的不同工作线；其中一个代表性项目涉及颈部及甲状腺影像流程、图像自动分割和图像降噪。
-- 与临床研究及社区项目团队协作收集、清洗和整理项目数据，使用 Excel 函数和数据透视表处理数据，并通过 Excel/Tableau 搭建带筛选器、数据透视图和管理层视图的动态看板。
+- 协调多个医疗科技项目，对接管理层、项目团队及软件、硬件、AI 和财务支持部门，并跟进里程碑、依赖关系和行动事项。
+- 组织会议、整理会议记录、跟进负责人及截止时间，并将技术和运营更新汇总为结构化管理报告。
+- 与临床研究及社区项目团队协作，使用 Excel 函数和数据透视表清洗整理数据，并搭建 Excel/Tableau 管理看板。
 
 教育背景
 
@@ -114,23 +140,15 @@ Programme and Project Management 理学硕士
 
 专业认证
 
-- Associate Project Manager (AssocPM)，[按证书核对颁发机构]
-- Google 项目管理专业证书，Coursera
+Associate Project Manager (AssocPM)，[按证书核对颁发机构]｜Google 项目管理专业证书，Coursera
 
 其他信息
 
 语言：普通话母语；粤语流利；英语可用于专业工作沟通
-
-项目与运营：跨部门协调、利益相关方沟通、会议协调、行动事项追踪、里程碑及依赖关系跟进、需求收集、项目报告
-
-国际贸易与业务开发：海外零售商调研、冷开发、客户沟通、供应商寻找与协调、报价准备、样品跟进和物流协调
-
-数据与报告：Excel 函数、数据透视表、数据透视图、数据清洗、可视化看板、Tableau、SPSS
-
-数字化交付：网站规划、内容架构、Figma、域名及企业邮箱配置、网站部署、数据分析配置，以及基础 CMS 和数据库管理
+核心技能：项目协调、利益相关方沟通、B2B 开发、供应商及客户协调、报价和样品物流、Excel、Tableau、SPSS
 ```
 
-## 4. Items to Confirm Before Formatting
+## 5. Items to Confirm Before Formatting
 
 1. Replace `[Professional Email]` with a clean personal job-search email. The previous `163.com` address is usable but a name-based address would look more professional.
 2. Add LinkedIn only after the headline, employment dates and company descriptions are consistent with the CV.
@@ -141,14 +159,15 @@ Programme and Project Management 理学硕士
 
 中文核对事项：正式排版前，需要确认求职邮箱、LinkedIn 内容、华威大学正式完成日期、AssocPM 的准确颁发机构，以及前雇主的官方英文名称。主简历默认不写 IANG 或未来永居计划；申请表或招聘人员询问工作许可时再如实回答。
 
-## 5. Space-Saving Order
+## 6. One-Page Protection Rules
 
 If the content does not fit legibly on one page, shorten it in this order:
 
 1. Remove the four separate skills lines and keep only `Languages`, `Core Skills` and `Tools` in two lines.
 2. Shorten the software-products bullet first, but keep the FrameHide trade workflow as a separate bullet.
 3. Reduce COCHE from four bullets to three by combining meeting/reporting and data-dashboard work.
-4. Keep both work experiences and both degrees.
-5. Do not restore outdated academic projects or internships merely to imitate the old template.
+4. Remove LinkedIn if it is not complete and remove the selected-work line only as a last resort.
+5. Keep both work experiences, both universities and both certifications.
+6. Do not restore outdated academic projects or internships merely to imitate the old template.
 
-中文精简顺序：如果版面过长，先压缩技能，再缩短数字产品要点，然后合并 COCHE 的会议汇报和数据看板内容。两段正式工作经历和两所大学应保留，不要为了填满版面重新加入过早的课程项目或实习。
+中文精简顺序：如果版面仍然过长，先继续压缩技能和数字产品描述，再压缩 COCHE 的会议汇报内容；LinkedIn 尚未完善时可以删除，作品链接则尽量保留。两段正式经历、两所大学和两项认证应保留，不要重新加入 POADmedia、课程项目或 BOC 实习。

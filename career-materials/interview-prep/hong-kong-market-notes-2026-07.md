@@ -184,7 +184,7 @@ Potential advantages:
 Objective conclusion:
 
 ```text
-For Johnson's target junior social-recruitment roles, the self-employed period is more useful than harmful when it is presented as Business Operations & Project Delivery (Self-employed), supported by verifiable outcomes and followed by a clear commitment answer. It becomes a larger disadvantage only when described with inflated founder status, exaggerated success, unclear ongoing conflicts or an intention to leave again soon.
+For Johnson's target junior social-recruitment roles, the self-employed period is more useful than harmful when the CV headline focuses on `Business Operations & Project Delivery`, the first bullet transparently explains that he built and operated the business lines, and employment forms or direct questions are answered accurately. It becomes a larger disadvantage only when described with inflated founder status, exaggerated success, unclear ongoing conflicts or an intention to leave again soon.
 ```
 
 ## 7. 中文速查版
@@ -222,7 +222,7 @@ For Johnson's target junior social-recruitment roles, the self-employed period i
 
 创业经历确实会带来不稳定、利益冲突和服从流程方面的疑虑，因此不是完全没有弊端；但对你目前的情况，全部隐瞒通常更差，因为会留下接近十个月的空窗，也会失去客户交付、供应商、推广和外贸开发的证据。
 
-最合适的做法是保留公司及时间，职位写成 `Business Operations & Project Delivery (Self-employed)`，不突出 Founder，也不虚构 Project Manager。面试时承认业务尚未规模化，说明已经完成的可验证结果，并明确全职工作将优先、会遵守保密及利益冲突制度。对于重视执行力的稳定中小企业或中型团队，这段经历可能利大于弊；对于特别保守的大公司或结构化毕业生项目，负面影响可能更明显。
+最合适的做法是保留公司及时间，职位写成 `Business Operations & Project Delivery`，并在第一条工作内容明确业务由自己搭建并运营；申请表、背调和直接提问时准确披露自雇和公司所有权。不要突出 Founder，也不虚构 Project Manager。面试时承认业务尚未规模化，说明已经完成的可验证结果，并明确全职工作将优先、会遵守保密及利益冲突制度。对于重视执行力的稳定中小企业或中型团队，这段经历可能利大于弊；对于特别保守的大公司或结构化毕业生项目，负面影响可能更明显。
 
 ### 公司选择
 
