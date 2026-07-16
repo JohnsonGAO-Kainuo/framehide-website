@@ -24,6 +24,8 @@ The visual style can remain close to the original:
 - Three to four bullets per role.
 - Target length: one page if legible, otherwise a clean two-page CV rather than an overcrowded one-page document.
 
+中文说明：保留原简历简洁、单栏、黑白的版式即可。工作经历放在教育经历前；删除过早且相关性较低的实习和课程项目；每段经历保留三至四个有证据支持的要点。能清楚排成一页最好，否则宁可使用整洁的两页，也不要把一页塞得过满。
+
 ## 2. Copy-Ready English CV
 
 ```text
@@ -137,6 +139,8 @@ Programme and Project Management 理学硕士
 5. Confirm whether `Cerebro-Cardiovascular` matches the employer's official English name on the employment certificate.
 6. Do not add IANG or future permanent-residency information unless an application form or recruiter asks about work authorisation.
 
+中文核对事项：正式排版前，需要确认求职邮箱、LinkedIn 内容、华威大学正式完成日期、AssocPM 的准确颁发机构，以及前雇主的官方英文名称。主简历默认不写 IANG 或未来永居计划；申请表或招聘人员询问工作许可时再如实回答。
+
 ## 5. Space-Saving Order
 
 If the content does not fit legibly on one page, shorten it in this order:
@@ -146,3 +150,5 @@ If the content does not fit legibly on one page, shorten it in this order:
 3. Reduce COCHE from four bullets to three by combining meeting/reporting and data-dashboard work.
 4. Keep both work experiences and both degrees.
 5. Do not restore outdated academic projects or internships merely to imitate the old template.
+
+中文精简顺序：如果版面过长，先压缩技能，再缩短数字产品要点，然后合并 COCHE 的会议汇报和数据看板内容。两段正式工作经历和两所大学应保留，不要为了填满版面重新加入过早的课程项目或实习。

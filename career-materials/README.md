@@ -58,3 +58,15 @@ Run the career-ops scan mode for my configured company portals.
 Career-Ops directly scans supported ATS and company career pages such as Greenhouse, Ashby and Lever. JobsDB, LinkedIn and Glassdoor can remain discovery channels: paste the job URL or job description into Career-Ops for structured evaluation, CV tailoring and tracking.
 
 Career-Ops does not submit applications automatically. Final review and submission remain manual.
+
+## 中文说明
+
+这个文件夹专门保存 Johnson 的求职材料，与 FrameHide 网站、产品、开发信和物流文件分开管理。
+
+- `cv-master-draft.md`：通用英文简历母版，并附完整中文对照。
+- `cv-rewrite-notes.md`：简历定位、经历措辞、证据边界及中英文备选写法。
+- `interview-prep/general-interview-qa.md`：英文面试回答、中文参考回答和表达边界。
+- `interview-prep/hong-kong-market-notes-2026-07.md`：香港求职市场、职级、薪资及投递策略的时效性记录，并附中文速查版。
+- `career-ops/`：本地求职工具工作区，不纳入 FrameHide Git 仓库，也不会自动代替本人提交职位申请。
+
+使用原则：先用一份通用简历完成第一批投递；遇到匹配度高的职位，再根据职位描述调整重点。所有面试回答均用于理解和练习，不建议逐字背诵。

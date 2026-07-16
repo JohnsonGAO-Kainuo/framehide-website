@@ -132,7 +132,107 @@ Small growth companies may value entrepreneurial initiative more than highly sta
 5. Keep the software products as evidence of execution and promotion, not as a claim to be a software engineer.
 6. Review response rates after the first 30-40 well-matched applications before making major CV changes.
 
-## 6. Sources
+## 6. Role Level and Salary Positioning
+
+Johnson can reasonably target a higher salary than the previous HK$18,000, but the evidence does not yet support manager-level positioning.
+
+Current reference points:
+
+- Indeed reported an average monthly base salary of HK$21,314 for Project Coordinators in Hong Kong, updated on 25 June 2026. Its reported junior and senior comparison figures were HK$18,650 and HK$25,385 respectively.
+- JobsDB listed a typical monthly salary of about HK$23,500 for Business Development Executives and HK$22,000 for Sales Support Executives in 2026.
+- Indeed reported an average monthly base salary of HK$19,977 for Sales Executives, updated on 5 July 2026. Sales roles may also include commission, so base salary and total on-target earnings should be compared separately.
+- A 2026 Adecco Hong Kong salary guide placed Sales Executive roles within a broad HK$20,000-40,000 range. This range covers candidates with very different industries and experience levels and should not be treated as Johnson's automatic entitlement.
+
+Recommended application bands:
+
+| Role type | Reasonable target base salary | Positioning |
+| --- | ---: | --- |
+| Trade Operations / Sales Support / Sourcing Assistant-Executive | HK$20,000-22,000 | Junior-to-executive level; accept the lower end only when training, manager quality and workflow exposure are strong. |
+| Project Coordinator / Project Executive / Operations Executive | HK$21,000-24,000 | The clearest match to the combination of formal coordination and self-employed execution. |
+| Business Development / Export Sales Executive | HK$21,000-24,000 base | Ask separately about commission, bonus, target setting and whether leads are provided. |
+| Strongly matched role with broader ownership | HK$24,000-26,000 | Treat as an upper target, not the default; the job should genuinely require project ownership, client coordination or cross-border execution. |
+
+Recommended standard answer:
+
+```text
+Based on the role scope and my previous experience, I am currently looking for a monthly base salary in the range of HK$22,000 to HK$24,000, while remaining flexible depending on the responsibilities, development opportunity and total package.
+```
+
+Practical boundaries:
+
+- Use HK$22,000-24,000 as the normal expected range for well-matched applications.
+- Do not reject a strong learning platform automatically at HK$20,000-21,000, especially if the manager, product and export workflow are credible.
+- Try HK$24,000-26,000 only where the responsibilities and employer budget support it.
+- Do not position for `Manager`, `Senior Manager` or HK$28,000-plus merely because of the master's degree or company ownership. A master's degree supports screening and learning credibility; it does not replace a multi-year sales record, customer portfolio, direct reports or industry tenure.
+
+### Objective impact of the self-employed period
+
+The self-employed period is a **meaningful but manageable risk**, not a fatal disadvantage and not something that should be hidden completely.
+
+Potential disadvantages:
+
+- Employers may question long-term commitment, outside-business conflicts or willingness to follow established processes.
+- Combined with a six-month previous role, it can make the career history appear less stable.
+- Conservative employers and highly structured graduate programmes may prefer a simpler employment record.
+
+Potential advantages:
+
+- It prevents an unexplained eight-to-ten-month gap.
+- It provides real examples of paid client delivery, supplier communication, retailer outreach, quotations, promotion and logistics.
+- Revenue-linked SMEs and practical operations teams may value evidence of initiative and end-to-end execution.
+
+Objective conclusion:
+
+```text
+For Johnson's target junior social-recruitment roles, the self-employed period is more useful than harmful when it is presented as Business Operations & Project Delivery (Self-employed), supported by verifiable outcomes and followed by a clear commitment answer. It becomes a larger disadvantage only when described with inflated founder status, exaggerated success, unclear ongoing conflicts or an intention to leave again soon.
+```
+
+## 7. 中文速查版
+
+### 面试形式
+
+普通初级社会招聘通常是候选人单独参加的一对一或小组面试，不代表只有一轮。常见流程是 HR 电话筛选、直属经理或团队面试，以及可选的高层面试、测试或背景调查。群面主要集中在管培生、毕业生项目、政府职位和大规模客户服务或零售招聘。
+
+### 2026 年香港市场
+
+当前市场仍有职位，但招聘偏谨慎。2026 年 3 月香港私营机构职位空缺为 48,610 个，同比下降 12%；进出口贸易就业人数同比下降 3.9%。KPMG 的调查也显示，企业更倾向优先招聘能够支持收入、客户和运营执行的岗位。因此简历不能只强调学历，而应把零售商开发、供应商协调、报价、样品物流、数字推广和项目跟进写成商业证据。
+
+### 与应届生相比
+
+你的定位不是应届生，也不是中层，而是“有实际经验的早期职业候选人”。相较只拥有学历的应届生，你多了项目协调、付费客户交付、供应商沟通和海外客户开发案例；不足是正式工作年限较短、尚无批发订单和多年行业记录。普通 `0-2 年` 以及部分 `1-3 年` 的职位可以投，但不应直接投需要销售指标记录、现成客户资源或团队管理经验的经理岗。
+
+### 建议职级
+
+优先搜索：Trade Operations Assistant / Executive、Export Sales Assistant / Executive、Overseas Sales Coordinator / Executive、Business Development Coordinator / Executive、Sales Support / B2B Account Executive、Sourcing 或 Supplier Coordination Assistant / Executive、Operations Executive、Project Coordinator / Project Executive。
+
+你可以争取比上一份 `HK$18,000` 更高的薪资，但合理提升来自新增的实际经验和市场范围，而不是单凭硕士学历。现阶段最适合的是 `Coordinator / Executive`，不是 `Manager`。
+
+### 建议薪资
+
+| 岗位类型 | 建议月薪底薪 |
+| --- | ---: |
+| 外贸运营、销售支持、采购协调助理至主任 | HK$20,000-22,000 |
+| 项目协调、项目主任、运营主任 | HK$21,000-24,000 |
+| 业务发展、出口销售主任 | HK$21,000-24,000，另问佣金及奖金 |
+| 职责明显更完整、匹配度很高的岗位 | 可尝试 HK$24,000-26,000 |
+
+通用期望可以先说 `HK$22,000-24,000`，并表示会根据职责、发展机会和整体福利保持弹性。若公司产品、主管、培训和出口流程都很好，`HK$20,000-21,000` 不需要自动拒绝；但如果岗位只是行政杂务、没有学习路径，也不应仅为了入职而降价。不要因为拥有硕士学历就直接要求经理级或 `HK$28,000+`。
+
+### 创业经历的客观影响
+
+创业经历确实会带来不稳定、利益冲突和服从流程方面的疑虑，因此不是完全没有弊端；但对你目前的情况，全部隐瞒通常更差，因为会留下接近十个月的空窗，也会失去客户交付、供应商、推广和外贸开发的证据。
+
+最合适的做法是保留公司及时间，职位写成 `Business Operations & Project Delivery (Self-employed)`，不突出 Founder，也不虚构 Project Manager。面试时承认业务尚未规模化，说明已经完成的可验证结果，并明确全职工作将优先、会遵守保密及利益冲突制度。对于重视执行力的稳定中小企业或中型团队，这段经历可能利大于弊；对于特别保守的大公司或结构化毕业生项目，负面影响可能更明显。
+
+### 公司选择
+
+优先选择已有产品、客户和复购，有资深主管带领，并且具备正常底薪、MPF、报价、客户跟进、供应商和物流流程的稳定 SME 或中型企业。不要因为想学习就默认越小越好；老板直接管理、流程混乱且要求一个初级员工包办所有事情的微型公司，反而更容易出现控制、边界和稳定性问题。
+
+### 投递执行
+
+先使用一份通用简历投递第一批职位。外贸及业务发展岗位突出 FrameHide；项目及运营岗位突出 COCHE 的协调和数据看板；数字产品只用于证明执行及推广能力，不把自己包装成软件工程师。第一批投递 `30-40` 个高匹配岗位后，再根据回复率调整简历。
+
+## 8. Sources
 
 - [Hong Kong Census and Statistics Department: Statistics on persons engaged and vacancies for March 2026](https://www.info.gov.hk/gia/general/202606/22/P2026062200360.htm)
 - [Hong Kong Census and Statistics Department: Employment and vacancies statistics for March 2024](https://www.info.gov.hk/gia/general/202406/20/P2024062000274p.htm)
@@ -142,3 +242,8 @@ Small growth companies may value entrepreneurial initiative more than highly sta
 - [HKMA Manager Trainee Programme selection process](https://www.hkma.gov.hk/eng/about-us/join-us/opportunities-for-students-and-graduates-to-join-the-hkma/manager-trainee-programme/)
 - [Hong Kong Qualifications Framework: Recruitment Practices training package](https://www.hkqf.gov.hk/files/record/hrm-packages/2/Training_Package_-_Recruitment_Practices_Eng_2025_FULL-1750904236.pdf)
 - [Hong Kong Immigration Department: IANG conditions of stay](https://www.immd.gov.hk/eng/services/visas/IANG.html)
+- [Indeed Hong Kong: Project Coordinator salary, updated June 2026](https://hk.indeed.com/career/project-coordinator/salaries)
+- [Indeed Hong Kong: Sales Executive salary, updated July 2026](https://hk.indeed.com/career/sales-executive/salaries)
+- [JobsDB Hong Kong: Business Development Executive salary, June 2026](https://hk.jobsdb.com/career-advice/role/business-development-executive/salary)
+- [JobsDB Hong Kong: Business Executive and related salary references](https://hk.jobsdb.com/career-advice/role/business-executive)
+- [Adecco Hong Kong Salary Guide 2026](https://image.marketing.info.adecco.com/lib/fe32117175640474731478/m/1/044fa74e-de92-456e-b352-a498fecd27fa.pdf)
